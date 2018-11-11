@@ -5,6 +5,8 @@
 #' @param e An object of class \code{echarts4r}.
 #' @param map Map name, a country.
 #' 
+#' @details essentially a wrapper to \link[echarts4r]{e_map_register}.
+#' 
 #' @examples 
 #' maps <- em_bank() # list of all maps
 #' 
@@ -15,7 +17,7 @@
 #' df %>% 
 #'   e_charts(x) %>%
 #'   em_map("France") %>% 
-#'   e_map(y, mapType = "法国", map = NULL) 
+#'   e_map(y, map = "france") 
 #' 
 #' @name maps
 #' @export
@@ -24,17 +26,13 @@ em_map <- function(e, map){
   if(missing(e) || missing(map))
     stop("missing e or map", call. = FALSE)
   
-  map <- paste0(map, ".js")
+  file <- paste0(map, ".json")
   
-  dependency <- htmltools::htmlDependency(
-    name = map,
-    version = "1.0.4",
-    src = system.file("", package = "echarts4r.maps"),
-    script = map
+  json <- jsonlite::read_json(
+    system.file(file, package = "echarts4r.maps")
   )
   
-  e$dependencies <- append(e$dependencies, list(dependency))
-  
+  e <- echarts4r::e_map_register(e, map, json)
   return(e)
 }
 
@@ -45,5 +43,5 @@ em_bank <- function(){
     system.file("", package = "echarts4r.maps")
   )
   
-  gsub(".js", "", files)
+  gsub(".json", "", files)
 }

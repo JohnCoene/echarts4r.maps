@@ -1,0 +1,49 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+library(echarts4r.maps)
+```
+
+# echarts4r.maps
+
+Maps for [echarts4r](https://echarts4r.john-coene.com/)
+
+## Installation
+
+```r
+install.packages("remotes")
+remotes::install_github('JohnCoene/echarts4r.maps')
+```
+
+## Example
+
+Use in echarts4r
+
+```r
+library(echarts4r)
+library(echarts4r.maps)
+
+df <- data.frame(x = "Rajasthan", y = 2)
+
+df %>% 
+  e_charts(x) %>%
+  em_map("India") %>% 
+  e_map(y, map = "India") %>% 
+  e_visual_map(y)
+```
+
+## Bank
+
+```{r}
+em_bank()
+```

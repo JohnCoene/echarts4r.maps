@@ -18,6 +18,9 @@ em_bank()
 \description{
 Add map dependency to \link[echarts4r]{e_charts} chart.
 }
+\details{
+essentially a wrapper to \link[echarts4r]{e_map_register}.
+}
 \examples{
 maps <- em_bank() # list of all maps
 
@@ -28,6 +31,6 @@ df <- data.frame(x = "", y = "")
 df \%>\% 
   e_charts(x) \%>\%
   em_map("France") \%>\% 
-  e_map(y, mapType = "法国", map = NULL) 
+  e_map(y, map = "france") 
 
 }

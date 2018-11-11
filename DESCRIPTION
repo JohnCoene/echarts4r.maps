@@ -9,5 +9,5 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
   echarts4r,
-  htmltools
+  jsonlite
 RoxygenNote: 6.1.0
