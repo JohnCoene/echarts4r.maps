@@ -43,5 +43,7 @@ em_bank <- function(){
     system.file("", package = "echarts4r.maps")
   )
   
+  files <- files[grepl(".json", files)]
+  
   gsub(".json", "", files)
 }

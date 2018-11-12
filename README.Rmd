@@ -16,7 +16,7 @@ library(echarts4r.maps)
 
 # echarts4r.maps
 
-Maps for [echarts4r](https://echarts4r.john-coene.com/)
+215 maps for [echarts4r](https://echarts4r.john-coene.com/).
 
 ## Installation
 
