@@ -3,6 +3,3 @@
 language: R
 sudo: false
 cache: packages
-
-before_install:
-  - sudo "R -e \"install.packages('rmarkdown', repos = 'https://cran.rstudio.com')\""
