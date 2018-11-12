@@ -26,7 +26,7 @@ Otherwise, the full list of maps is vailable [here](articles/bank.html).
 
 ## Map
 
-Use `em_map` to add the map, simply pass the name of the country, a valid name as returned by `em_bank`, then reference that name in ``
+Use `em_map` to add the map, simply pass the name of the country, a valid name as returned by `em_bank`, then reference that name in `e_map`.
 
 ```{r}
 library(echarts4r)
