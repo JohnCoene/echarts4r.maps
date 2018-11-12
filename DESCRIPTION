@@ -11,5 +11,6 @@ Imports:
   jsonlite
 RoxygenNote: 6.1.0
 Suggests: 
-    knitr
+    knitr,
+    rmarkdown
 VignetteBuilder: knitr
