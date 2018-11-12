@@ -1,4 +1,6 @@
 
+[![Travis build
+status](https://travis-ci.org/JohnCoene/echarts4r.maps.svg?branch=master)](https://travis-ci.org/JohnCoene/echarts4r.maps)
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # echarts4r.maps

@@ -1,0 +1,29 @@
+---
+title: "Bank"
+author: "John Coene"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Bank}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+library(echarts4r.maps)
+```
+
+The package comes with 215 maps.
+
+```
+em_bank()
+```
+
+```{r, echo = FALSE}
+maps <- data.frame(maps = em_bank())
+DT::datatable(maps)
+```

@@ -1,0 +1,61 @@
+---
+title: "Examples"
+author: "John Coene"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Examples}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+You see the maps available by running the following:
+
+```r
+em_bank()
+```
+
+Otherwise, the full list of maps is vailable [here](articles/bank.html).
+
+Use `em_map` to add the map, simply pass the name of the country, a valid name as returned by `em_bank`, then reference that name in ``
+
+```{r}
+library(echarts4r)
+library(echarts4r.maps)
+
+USArrests$state <- row.names(USArrests) # add states as column
+
+USArrests %>% 
+  e_charts(state) %>%
+  em_map("USA") %>% 
+  e_map(Murder, map = "USA") %>% 
+  e_visual_map(Murder)
+```
+
+This will also work in 3d with `e_map_3d`.
+
+```{r}
+USArrests %>% 
+  e_charts(state) %>%
+  em_map("USA") %>% 
+  e_map_3d(Murder, map = "USA") %>% 
+  e_visual_map(Murder)
+```
+
+And `e_geo_3d`
+
+```{r}
+USArrests %>% 
+  e_color_range(Murder, Color) %>% 
+  e_charts(state) %>%
+  em_map("USA") %>% 
+  e_geo_3d(Murder, Color, type = "USA", regionHeight = 1) %>% 
+  e_visual_map(Murder)
+```

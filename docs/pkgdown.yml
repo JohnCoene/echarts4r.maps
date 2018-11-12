@@ -1,0 +1,10 @@
+pandoc: 2.2.1
+pkgdown: 1.1.0
+pkgdown_sha: ~
+articles:
+  bank: bank.html
+  examples: examples.html
+urls:
+  reference: http://echarts4r-maps.john-coene.com/reference
+  article: http://echarts4r-maps.john-coene.com/articles
+
