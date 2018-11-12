@@ -25,5 +25,5 @@ em_bank()
 
 ```{r, echo = FALSE}
 maps <- data.frame(maps = em_bank())
-DT::datatable(maps)
+knitr::kable(maps)
 ```

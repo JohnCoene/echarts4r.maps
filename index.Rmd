@@ -25,7 +25,7 @@ remotes::install_github('JohnCoene/echarts4r.maps')
 
 Use in echarts4r
 
-```r
+```{r}
 library(echarts4r)
 library(echarts4r.maps)
 
