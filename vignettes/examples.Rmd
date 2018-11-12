@@ -24,6 +24,8 @@ em_bank()
 
 Otherwise, the full list of maps is vailable [here](articles/bank.html).
 
+## Map
+
 Use `em_map` to add the map, simply pass the name of the country, a valid name as returned by `em_bank`, then reference that name in ``
 
 ```{r}
@@ -39,6 +41,8 @@ USArrests %>%
   e_visual_map(Murder)
 ```
 
+## Map 3D
+
 This will also work in 3d with `e_map_3d`.
 
 ```{r}
@@ -49,6 +53,8 @@ USArrests %>%
   e_visual_map(Murder)
 ```
 
+## Geo 3D
+
 And `e_geo_3d`
 
 ```{r}
@@ -58,4 +64,28 @@ USArrests %>%
   em_map("USA") %>% 
   e_geo_3d(Murder, Color, type = "USA", regionHeight = 1) %>% 
   e_visual_map(Murder)
+```
+
+## Lines
+
+```{r}
+library(echarts4r.maps)
+
+flights <- read.csv(
+  paste0("https://raw.githubusercontent.com/plotly/datasets/",
+         "master/2011_february_aa_flight_paths.csv")
+)
+
+flights %>% 
+  e_charts() %>% 
+  em_map("USA") %>%
+  e_geo("USA") %>% 
+  e_lines(
+    start_lon, 
+    start_lat, 
+    end_lon, 
+    end_lat,
+    name = "flights",
+    lineStyle = list(normal = list(curveness = 0.3))
+   )
 ```
