@@ -10,6 +10,7 @@
 #' @examples 
 #' maps <- em_bank() # list of all maps
 #' 
+#' \dontrun{
 #' library(echarts4r)
 #' 
 #' df <- data.frame(x = "", y = "")
@@ -18,6 +19,7 @@
 #'   e_charts(x) %>%
 #'   em_map("France") %>% 
 #'   e_map(y, map = "france") 
+#' }
 #' 
 #' @name maps
 #' @export
