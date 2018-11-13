@@ -24,6 +24,25 @@ em_bank()
 
 Otherwise, the full list of maps is vailable [here](articles/bank.html).
 
+## Basics
+
+There are 215 maps, here are two.
+
+```{r}
+library(echarts4r)
+library(echarts4r.maps)
+
+jp <- e_charts() %>%
+  em_map("Japan") %>% 
+  e_map(map = "Japan")
+
+ca <- e_charts() %>%
+  em_map("Canada") %>% 
+  e_map(map = "Canada")
+
+e_arrange(jp, ca, col = 2, rows = 1)
+```
+
 ## Map
 
 Use `em_map` to add the map, simply pass the name of the country, a valid name as returned by `em_bank`, then reference that name in `e_map`.
@@ -89,3 +108,4 @@ flights %>%
     lineStyle = list(normal = list(curveness = 0.3))
    )
 ```
+

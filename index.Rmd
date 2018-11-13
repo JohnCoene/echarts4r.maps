@@ -29,7 +29,14 @@ Use in echarts4r
 library(echarts4r)
 library(echarts4r.maps)
 
-df <- data.frame(x = "Rajasthan", y = 2)
+df <- data.frame(
+  x = c(
+    "Rajasthan",
+    "Gujarat",
+    "Odisha"
+  ), 
+  y = 1:3
+)
 
 df %>% 
   e_charts(x) %>%
