@@ -40,7 +40,7 @@ ca <- e_charts() %>%
   em_map("Canada") %>% 
   e_map(map = "Canada")
 
-e_arrange(jp, ca, col = 2, rows = 1)
+e_arrange(jp, ca, cols = 2, rows = 1)
 ```
 
 ## Map
@@ -51,13 +51,15 @@ Use `em_map` to add the map, simply pass the name of the country, a valid name a
 library(echarts4r)
 library(echarts4r.maps)
 
-USArrests$state <- row.names(USArrests) # add states as column
+data(state)
+state.x77 <- as.data.frame(state.x77)
+state.x77$state <- row.names(state.x77)
 
-USArrests %>% 
+state.x77 %>% 
   e_charts(state) %>%
   em_map("USA") %>% 
-  e_map(Murder, map = "USA") %>% 
-  e_visual_map(Murder)
+  e_map(Population, map = "USA") %>% 
+  e_visual_map(Population)
 ```
 
 ## Map 3D
@@ -65,11 +67,11 @@ USArrests %>%
 This will also work in 3d with `e_map_3d`.
 
 ```{r}
-USArrests %>% 
+state.x77 %>% 
   e_charts(state) %>%
   em_map("USA") %>% 
-  e_map_3d(Murder, map = "USA") %>% 
-  e_visual_map(Murder)
+  e_map_3d(Income, map = "USA") %>% 
+  e_visual_map(Income)
 ```
 
 ## Geo 3D
@@ -77,12 +79,13 @@ USArrests %>%
 And `e_geo_3d`
 
 ```{r}
-USArrests %>% 
-  e_color_range(Murder, Color) %>% 
-  e_charts(state) %>%
-  em_map("USA") %>% 
-  e_geo_3d(Murder, Color, type = "USA", regionHeight = 1) %>% 
-  e_visual_map(Murder)
+state.x77 %>% 
+    e_color_range(Murder, Color) %>% 
+    dplyr::mutate(Frost = sqrt(Frost)) %>% 
+    e_charts(state) %>%
+    em_map("USA") %>% 
+    e_geo_3d(Frost, Color, type = "USA") %>% 
+    e_visual_map(Frost)
 ```
 
 ## Geo

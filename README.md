@@ -5,9 +5,18 @@ status](https://travis-ci.org/JohnCoene/echarts4r.maps.svg?branch=master)](https
 
 # echarts4r.maps
 
-215 maps for [echarts4r](https://echarts4r.john-coene.com/).
+215 maps for [echarts4r](https://echarts4r.john-coene.com/), see the
+[website](http://echarts4r-maps.john-coene.com/) for examples.
 
 ## Installation
+
+Install `echarts4r`.
+
+``` r
+install.packages("echarts4r")
+```
+
+Then install `echarts4r.maps`
 
 ``` r
 install.packages("remotes")
@@ -19,15 +28,23 @@ remotes::install_github('JohnCoene/echarts4r.maps')
 Use in echarts4r
 
 ``` r
+# load both libraries
 library(echarts4r)
 library(echarts4r.maps)
 
-df <- data.frame(x = "Rajasthan", y = 2)
+df <- data.frame(
+  x = c(
+    "Rajasthan",
+    "Gujarat",
+    "Odisha"
+  ), 
+  y = 1:3
+)
 
 df %>% 
   e_charts(x) %>%
-  em_map("India") %>% 
-  e_map(y, map = "India") %>% 
+  em_map("India") %>% # register the map
+  e_map(y, map = "India") %>% # reference the registered map
   e_visual_map(y)
 ```
 
