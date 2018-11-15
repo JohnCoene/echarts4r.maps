@@ -17,13 +17,32 @@ knitr::opts_chunk$set(
 library(echarts4r.maps)
 ```
 
-The package comes with 215 maps.
+The package comes with 215 maps. 
 
+<div class = "row">
+<div class = "col-md-6" >
 ```
 em_bank()
 ```
 
 ```{r, echo = FALSE}
 maps <- data.frame(maps = em_bank())
-knitr::kable(maps)
+z <- knitr::kable(maps)
 ```
+</div>
+
+<div class = "col-md-6" >
+Another great resource for detailed maps is [here](https://code.highcharts.com/mapdata/). Use the `GeoJSON` with `e_map_register` as shown below.
+
+```{r}
+library(echarts4r)
+
+afghanistan <- jsonlite::read_json("https://code.highcharts.com/mapdata/countries/af/af-all.geo.json")
+e_charts() %>% 
+  e_map_register("AF", afghanistan) %>% 
+  e_map(map = "AF")
+```
+
+</div>
+
+</div>

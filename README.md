@@ -50,6 +50,10 @@ df %>%
 
 ## Bank
 
+Another great resource for detailed maps is
+[here](https://code.highcharts.com/mapdata/) (use with
+`e_map_register`).
+
 ``` r
 em_bank()
 #>   [1] "Afghanistan"                                 
