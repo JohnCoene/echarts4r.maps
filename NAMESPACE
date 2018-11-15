@@ -2,3 +2,4 @@
 
 export(em_bank)
 export(em_map)
+export(em_maps)
