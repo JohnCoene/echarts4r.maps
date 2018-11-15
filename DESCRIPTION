@@ -9,7 +9,7 @@ LazyData: true
 Imports: 
   echarts4r,
   jsonlite
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
 Suggests: 
     knitr,
     rmarkdown,
