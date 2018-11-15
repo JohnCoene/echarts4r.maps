@@ -48,8 +48,7 @@ library(echarts4r)
 
 df <- data.frame(
   region = c("Hirat", "Hilmand", "Kunduz"),
-  values = c(3, 5, 7), 
-  color = c("#bf444c", "#d88273", "#f6efa6") 
+  values = c(3, 5, 7)
 )
 
 afghanistan <- jsonlite::read_json("https://code.highcharts.com/mapdata/countries/af/af-all.geo.json")
@@ -67,6 +66,7 @@ df %>%
   e_visual_map(values)
 
 df %>% 
+  e_color_range(values, color) %>% 
   e_charts(region) %>% 
   e_map_register("AF", afghanistan) %>% 
   e_geo_3d(values, color, type = "AF") 
