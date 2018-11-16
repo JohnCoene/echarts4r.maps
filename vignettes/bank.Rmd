@@ -14,10 +14,16 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
+library(echarts4r)
 library(echarts4r.maps)
 ```
 
-The package comes with 215 maps.
+The package comes with 215 maps. 
+
+<div class = "row">
+<div class = "col-md-6" >
+
+### Built-in
 
 ```
 em_bank()
@@ -27,3 +33,45 @@ em_bank()
 maps <- data.frame(maps = em_bank())
 knitr::kable(maps)
 ```
+</div>
+
+<div class = "col-md-6" >
+
+### External
+
+`echarts4r.maps` is really just a bank of `GeoJSON` with a wrapper for `echarts4r::e_map_register`
+
+Another great resource for detailed maps is [here](https://code.highcharts.com/mapdata/). Use the `GeoJSON` with `echarts4r::e_map_register` as shown below.
+
+```{r}
+library(echarts4r)
+
+df <- data.frame(
+  region = c("Hirat", "Hilmand", "Kunduz"),
+  values = c(3, 5, 7)
+)
+
+afghanistan <- jsonlite::read_json("https://code.highcharts.com/mapdata/countries/af/af-all.geo.json")
+
+df %>% 
+  e_charts(region) %>% 
+  e_map_register("AF", afghanistan) %>% 
+  e_map(values, map = "AF") %>% 
+  e_visual_map(values)
+
+df %>% 
+  e_charts(region) %>% 
+  e_map_register("AF", afghanistan) %>% 
+  e_map_3d(values, map = "AF") %>% 
+  e_visual_map(values)
+
+df %>% 
+  e_color_range(values, color) %>% 
+  e_charts(region) %>% 
+  e_map_register("AF", afghanistan) %>% 
+  e_geo_3d(values, color, type = "AF") 
+```
+
+</div>
+
+</div>
