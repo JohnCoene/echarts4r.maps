@@ -21,7 +21,7 @@ essentially a wrapper to \link[echarts4r]{e_map_register}.
 }
 \examples{
 
-#' \dontrun{
+\dontrun{
  maps <- c("China","Japan")
  library(echarts4r)
  df <- data.frame(x = "", y = "")
