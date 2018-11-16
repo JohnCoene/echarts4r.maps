@@ -1,0 +1,41 @@
+---
+title: "Combine"
+author: "John Coene"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Combine}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+library(echarts4r)
+```
+
+Thanks to contrinutions from [Pengfei Li](https://github.com/lengyuyeke) you can now combine maps.
+
+```{r}
+library(echarts4r)
+library(echarts4r.maps)
+
+maps <- c("China","Japan") 
+
+e_charts() %>% 
+  em_maps(maps, "myMap") %>% 
+  e_map(map = "myMap")
+```
+
+You are not limited to two maps.
+
+```{r}
+maps <- c("China","Japan", "India") 
+
+e_charts() %>% 
+  em_maps(maps, "maps3") %>% 
+  e_geo(map = "maps3")
+```

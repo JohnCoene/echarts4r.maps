@@ -23,12 +23,11 @@ essentially a wrapper to \link[echarts4r]{e_map_register}.
 
 \dontrun{
 maps <- c("China","Japan") 
-library(echarts4r) 
-df <- data.frame(x = "", y = "") 
-df \%>\% 
-   e_charts(x) \%>\% 
+library(echarts4r)  
+
+e_charts(x) \%>\% 
    em_maps(maps,"user") \%>\% 
-   e_map(y, map = "user") 
+   e_map(map = "user") 
 }
 
 }
