@@ -9,12 +9,12 @@ em_maps(e, maps, name)
 \arguments{
 \item{e}{An object of class \code{echarts4r}.}
 
-\item{maps}{Map names, a vector of  countries.}
+\item{maps}{Map names, a vector of countries.}
 
 \item{name}{the regist map name which can be used in e_map}
 }
 \description{
-Add map dependency to \link[echarts4r]{e_charts} chart.
+Add map dependency to \link[echarts4r]{e_charts} chart. It can combine two or more countries into one plot.
 }
 \details{
 essentially a wrapper to \link[echarts4r]{e_map_register}.
@@ -22,13 +22,13 @@ essentially a wrapper to \link[echarts4r]{e_map_register}.
 \examples{
 
 \dontrun{
- maps <- c("China","Japan")
- library(echarts4r)
- df <- data.frame(x = "", y = "")
- df \%>\% 
-   e_charts(x) \%>\%
+maps <- c("China","Japan") 
+library(echarts4r) 
+df <- data.frame(x = "", y = "") 
+df \%>\% 
+   e_charts(x) \%>\% 
    em_maps(maps,"user") \%>\% 
    e_map(y, map = "user") 
 }
-    
+
 }
