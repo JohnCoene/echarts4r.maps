@@ -4,10 +4,16 @@
     <loc>http://echarts4r-maps.john-coene.com/index.html</loc>
   </url>
   <url>
+    <loc>http://echarts4r-maps.john-coene.com/reference/em_maps.html</loc>
+  </url>
+  <url>
     <loc>http://echarts4r-maps.john-coene.com/reference/maps.html</loc>
   </url>
   <url>
     <loc>http://echarts4r-maps.john-coene.com/articles/bank.html</loc>
+  </url>
+  <url>
+    <loc>http://echarts4r-maps.john-coene.com/articles/combine.html</loc>
   </url>
   <url>
     <loc>http://echarts4r-maps.john-coene.com/articles/examples.html</loc>

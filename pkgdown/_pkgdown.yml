@@ -22,6 +22,9 @@ navbar:
     - icon: fa-rocket
       text: "Examples"
       href: articles/examples.html
+    - icon: fa-cubes
+      text: "combine"
+      href: articles/combine.html
     - icon: fa-map
       text: "Bank"
       href: articles/bank.html

@@ -3,6 +3,7 @@ pkgdown: 1.1.0
 pkgdown_sha: ~
 articles:
   bank: bank.html
+  combine: combine.html
   examples: examples.html
 urls:
   reference: http://echarts4r-maps.john-coene.com/reference

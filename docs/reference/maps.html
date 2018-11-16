@@ -111,6 +111,13 @@
   </a>
 </li>
 <li>
+  <a href="../articles/combine.html">
+    <span class="fa fa-cubes"></span>
+     
+    combine
+  </a>
+</li>
+<li>
   <a href="../articles/bank.html">
     <span class="fa fa-map"></span>
      
@@ -172,17 +179,17 @@
     
 
     <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='no'>maps</span> <span class='kw'>&lt;-</span> <span class='fu'>em_bank</span>() <span class='co'># list of all maps</span>
+    <pre class="examples"><div class='input'><span class='no'>maps</span> <span class='kw'>&lt;-</span> <span class='fu'>em_bank</span>() <span class='co'># list of all maps</span></div><span class='co'># NOT RUN {</span>
+<span class='fu'>library</span>(<span class='no'>echarts4r</span>)
 
-<span class='fu'>library</span>(<span class='no'>echarts4r</span>)</div><div class='output co'>#&gt; <span class='message'>Welcome to echarts4r</span>
-#&gt; <span class='message'></span>
-#&gt; <span class='message'>Documentation: echarts4r.john-coene.com</span></div><div class='input'>
 <span class='no'>df</span> <span class='kw'>&lt;-</span> <span class='fu'>data.frame</span>(<span class='kw'>x</span> <span class='kw'>=</span> <span class='st'>""</span>, <span class='kw'>y</span> <span class='kw'>=</span> <span class='st'>""</span>)
 
 <span class='no'>df</span> <span class='kw'>%&gt;%</span>
   <span class='fu'><a href='http://echarts4r.john-coene.com/reference/init.html'>e_charts</a></span>(<span class='no'>x</span>) <span class='kw'>%&gt;%</span>
   <span class='fu'>em_map</span>(<span class='st'>"France"</span>) <span class='kw'>%&gt;%</span>
-  <span class='fu'><a href='http://echarts4r.john-coene.com/reference/map.html'>e_map</a></span>(<span class='no'>y</span>, <span class='kw'>map</span> <span class='kw'>=</span> <span class='st'>"france"</span>)</div></pre>
+  <span class='fu'><a href='http://echarts4r.john-coene.com/reference/map.html'>e_map</a></span>(<span class='no'>y</span>, <span class='kw'>map</span> <span class='kw'>=</span> <span class='st'>"france"</span>)
+<span class='co'># }</span><div class='input'>
+</div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>

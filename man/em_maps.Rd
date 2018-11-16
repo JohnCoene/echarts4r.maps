@@ -25,7 +25,7 @@ essentially a wrapper to \link[echarts4r]{e_map_register}.
 maps <- c("China","Japan") 
 library(echarts4r)  
 
-e_charts(x) \%>\% 
+e_charts() \%>\% 
    em_maps(maps,"user") \%>\% 
    e_map(map = "user") 
 }
