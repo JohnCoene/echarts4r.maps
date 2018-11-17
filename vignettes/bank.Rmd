@@ -72,6 +72,10 @@ df %>%
   e_geo_3d(values, color, type = "AF") 
 ```
 
+### Custom
+
+If you need even more detailed maps you can read Pengfei Li's [tutorial for echarts4r](https://echarts4r.john-coene.com/articles/make-geo-json.html).
+
 </div>
 
 </div>
