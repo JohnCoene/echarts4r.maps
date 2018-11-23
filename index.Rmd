@@ -29,26 +29,10 @@ remotes::install_github('JohnCoene/echarts4r.maps')
 Use in echarts4r
 
 ```{r}
+library(dplyr)
 library(echarts4r)
 library(echarts4r.maps)
 
-df <- data.frame(
-  x = c(
-    "Rajasthan",
-    "Gujarat",
-    "Odisha"
-  ), 
-  y = 1:3
-)
-
-df %>% 
-  e_charts(x) %>%
-  em_map("India") %>% 
-  e_map(y, map = "India") %>% 
-  e_visual_map(y)
-
-# cities
-library(dplyr)
 data("cities")
 
 cities %>% 
