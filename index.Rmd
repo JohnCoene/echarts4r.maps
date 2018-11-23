@@ -1,16 +1,18 @@
 [![Travis build status](https://travis-ci.org/JohnCoene/echarts4r.maps.svg?branch=master)](https://travis-ci.org/JohnCoene/echarts4r.maps)
+
+# echarts4r.maps
   
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
+  warning = FALSE,
   collapse = TRUE,
   comment = "#>"
 )
+
 library(dplyr)
 library(echarts4r)
 library(echarts4r.maps)
 ```
-
-# echarts4r.maps
 
 Includes:
 
@@ -19,16 +21,16 @@ Includes:
 
 ## Installation
 
-```r
+```{r, eval=FALSE}
 install.packages("remotes")
 remotes::install_github('JohnCoene/echarts4r.maps')
 ```
 
 ## Example
 
-Use in echarts4r
+Use in echarts4r.
 
-```{r}
+```{r, eval=FALSE}
 library(dplyr)
 library(echarts4r)
 library(echarts4r.maps)
