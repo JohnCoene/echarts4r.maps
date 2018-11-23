@@ -5,8 +5,11 @@ status](https://travis-ci.org/JohnCoene/echarts4r.maps.svg?branch=master)](https
 
 # echarts4r.maps
 
-215 maps for [echarts4r](https://echarts4r.john-coene.com/), see the
-[website](http://echarts4r-maps.john-coene.com/) for examples.
+Includes:
+
+  - 215 maps for [echarts4r](https://echarts4r.john-coene.com/).
+  - A dataset of the latitude and longitude of all cities on planet
+    earth with greater than 1000 people.
 
 ## Installation
 
@@ -28,7 +31,6 @@ remotes::install_github('JohnCoene/echarts4r.maps')
 Use in echarts4r
 
 ``` r
-# load both libraries
 library(echarts4r)
 library(echarts4r.maps)
 
@@ -43,9 +45,22 @@ df <- data.frame(
 
 df %>% 
   e_charts(x) %>%
-  em_map("India") %>% # register the map
-  e_map(y, map = "India") %>% # reference the registered map
+  em_map("India") %>% 
+  e_map(y, map = "India") %>% 
   e_visual_map(y)
+
+# cities
+library(dplyr)
+data("cities")
+
+cities %>% 
+  filter(country == "US") %>% 
+  mutate(val = runif(n(), 1, 2)) %>% 
+  e_charts(lon) %>%
+  em_map("USA") %>% 
+  e_geo(map = "USA") %>% 
+  e_scatter(lat, val, coord_system = "geo", scale = NULL) %>% 
+  e_visual_map(min = 1, max = 2)
 ```
 
 ## Bank

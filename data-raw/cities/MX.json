@@ -1,0 +1,10226 @@
+{
+    "Cuauhtémoc": [
+        -103.60286,
+        19.32936
+    ],
+    "Santa Martha": [
+        -98.70639,
+        22.34278
+    ],
+    "Gustavo A. Madero": [
+        -99.10978,
+        19.49016
+    ],
+    "Xicoténcatl": [
+        -98.94321,
+        22.9957
+    ],
+    "San Fernando": [
+        -93.2094,
+        16.87198
+    ],
+    "El Control": [
+        -97.81348,
+        25.96125
+    ],
+    "Gustavo Díaz Ordaz": [
+        -98.59557,
+        26.23158
+    ],
+    "Nueva Primavera": [
+        -98.85695,
+        21.91401
+    ],
+    "Tamcuime": [
+        -99.01077,
+        21.60137
+    ],
+    "Tampate": [
+        -99.0265,
+        21.63781
+    ],
+    "Zumpango de Ocampo": [
+        -99.09946,
+        19.7967
+    ],
+    "Zumpango del Río": [
+        -99.52607,
+        17.65319
+    ],
+    "Zumpahuacán": [
+        -99.56568,
+        18.91642
+    ],
+    "Zozocolco de Hidalgo": [
+        -97.57584,
+        20.14104
+    ],
+    "Zongozotla": [
+        -97.72704,
+        19.97848
+    ],
+    "Zongolica": [
+        -96.99652,
+        18.6658
+    ],
+    "Zolotepec": [
+        -99.49194,
+        19.41768
+    ],
+    "Zitlala": [
+        -99.18689,
+        17.69131
+    ],
+    "Zinacantán": [
+        -92.72356,
+        16.76012
+    ],
+    "Zimatlán de Álvarez": [
+        -96.78362,
+        16.86787
+    ],
+    "Zimapán": [
+        -99.3818,
+        20.73814
+    ],
+    "Zempoala": [
+        -96.4075,
+        19.44515
+    ],
+    "Zaragoza": [
+        -100.731,
+        22.03542
+    ],
+    "Zaragoza de Guadalupe": [
+        -99.64412,
+        19.14737
+    ],
+    "Zapotlán de Juárez": [
+        -98.86401,
+        19.97593
+    ],
+    "Zacualtipán": [
+        -98.65621,
+        20.6493
+    ],
+    "Zacualpan": [
+        -100.32594,
+        17.08895
+    ],
+    "Zacatlán": [
+        -97.96119,
+        19.93372
+    ],
+    "Zacatepec": [
+        -99.19054,
+        18.65388
+    ],
+    "Zacapoaxtla": [
+        -97.58899,
+        19.87271
+    ],
+    "Zacamixtle": [
+        -97.72155,
+        21.24762
+    ],
+    "Villa de Zaachila": [
+        -96.74938,
+        16.95098
+    ],
+    "Yehualtepec": [
+        -97.66248,
+        18.79504
+    ],
+    "Yecuatla": [
+        -96.77607,
+        19.86583
+    ],
+    "Yecapixtla": [
+        -98.865,
+        18.88333
+    ],
+    "Yautepec": [
+        -99.06715,
+        18.88188
+    ],
+    "Yaonáhuac": [
+        -97.46587,
+        19.87076
+    ],
+    "Yanga": [
+        -96.79823,
+        18.83321
+    ],
+    "Yajalón": [
+        -92.33306,
+        17.17292
+    ],
+    "Xoxolpa": [
+        -98.42362,
+        20.87586
+    ],
+    "Xoxocotla": [
+        -99.24608,
+        18.68502
+    ],
+    "Xopilapa": [
+        -97.07944,
+        18.50472
+    ],
+    "Xonacatlán": [
+        -99.52752,
+        19.40513
+    ],
+    "Xometla": [
+        -98.88184,
+        19.6425
+    ],
+    "Xocotla": [
+        -97.09935,
+        19.01517
+    ],
+    "Xochitlán": [
+        -97.77789,
+        18.702
+    ],
+    "Xochitepec": [
+        -98.87611,
+        18.22833
+    ],
+    "Xochistlahuaca": [
+        -98.24099,
+        16.78882
+    ],
+    "Xochimilco": [
+        -99.10513,
+        19.25785
+    ],
+    "Xochihuehuetlán": [
+        -98.48837,
+        17.90513
+    ],
+    "Xilitla": [
+        -98.99009,
+        21.38681
+    ],
+    "Xicotepec de Juárez": [
+        -97.96154,
+        20.2768
+    ],
+    "Xico": [
+        -97.0093,
+        19.42223
+    ],
+    "San Miguel Xico": [
+        -98.94803,
+        19.27081
+    ],
+    "Xayacatlán de Bravo": [
+        -97.97623,
+        18.23679
+    ],
+    "Xaltianguis": [
+        -99.71532,
+        17.09869
+    ],
+    "Xaltepuxtla": [
+        -97.97185,
+        20.17692
+    ],
+    "Xaltepec": [
+        -97.61202,
+        18.87584
+    ],
+    "Xalpatlahuac": [
+        -98.6068,
+        17.47136
+    ],
+    "Xalmimilulco": [
+        -98.37946,
+        19.21214
+    ],
+    "Vista Hermosa": [
+        -95.06083,
+        17.92361
+    ],
+    "Villa Victoria": [
+        -99.99608,
+        19.43883
+    ],
+    "Alvaro Obregón": [
+        -99.20329,
+        19.35867
+    ],
+    "Villahermosa": [
+        -92.93028,
+        17.98689
+    ],
+    "Villa Guerrero": [
+        -103.59512,
+        21.98353
+    ],
+    "Villa el Triunfo": [
+        -91.17049,
+        17.92323
+    ],
+    "Villa Cuauhtémoc": [
+        -99.55876,
+        19.41652
+    ],
+    "Villa Corzo": [
+        -93.2672,
+        16.18536
+    ],
+    "Villa Comaltitlán": [
+        -92.57727,
+        15.21401
+    ],
+    "Villa Azueta": [
+        -95.65513,
+        18.13611
+    ],
+    "Villa Aldama": [
+        -97.22333,
+        19.64861
+    ],
+    "Veracruz": [
+        -96.13405,
+        19.18074
+    ],
+    "Venustiano Carranza": [
+        -102.6542,
+        20.11584
+    ],
+    "Veinte de Noviembre": [
+        -103.32962,
+        25.71193
+    ],
+    "Vega de Alatorre": [
+        -96.6475,
+        20.02861
+    ],
+    "Valle Hermoso": [
+        -97.81181,
+        25.6718
+    ],
+    "Valladolid": [
+        -102.315,
+        22.02111
+    ],
+    "Ursulo Galván": [
+        -98.3206,
+        22.72788
+    ],
+    "Unión Hidalgo": [
+        -94.82952,
+        16.4723
+    ],
+    "Umán": [
+        -89.747,
+        20.8824
+    ],
+    "Uayma": [
+        -88.31693,
+        20.71681
+    ],
+    "Tzucacab": [
+        -89.05043,
+        20.07225
+    ],
+    "Tzinacapan": [
+        -97.54024,
+        20.03043
+    ],
+    "Tzimol": [
+        -92.26667,
+        16.26667
+    ],
+    "Tuzamapan": [
+        -96.8636,
+        19.40253
+    ],
+    "Tuxtla Gutiérrez": [
+        -93.11485,
+        16.75469
+    ],
+    "Tuxtla Chico": [
+        -92.16795,
+        14.93804
+    ],
+    "Tuxtla": [
+        -97.65489,
+        20.00047
+    ],
+    "Tuxpan de Rodríguez Cano": [
+        -97.40798,
+        20.95773
+    ],
+    "Tunkás": [
+        -88.75223,
+        20.9025
+    ],
+    "Tulum": [
+        -87.46207,
+        20.21237
+    ],
+    "Tultitlán": [
+        -99.16796,
+        19.64756
+    ],
+    "Tultepec": [
+        -99.12806,
+        19.685
+    ],
+    "Tulcingo de Valle": [
+        -98.44111,
+        18.04582
+    ],
+    "Tulancingo": [
+        -98.36332,
+        20.08363
+    ],
+    "Tula de Allende": [
+        -99.34539,
+        20.05329
+    ],
+    "Tula": [
+        -99.71172,
+        22.99645
+    ],
+    "Trinidad de Zaachila": [
+        -96.76274,
+        16.92167
+    ],
+    "Tres Picos": [
+        -93.52736,
+        15.88072
+    ],
+    "Trapiche del Rosario": [
+        -96.74111,
+        19.54306
+    ],
+    "Totutla": [
+        -96.96133,
+        19.21212
+    ],
+    "Totolapan": [
+        -98.92073,
+        18.98487
+    ],
+    "Totolapa": [
+        -92.6803,
+        16.54441
+    ],
+    "San Miguel Totocuitlapilco": [
+        -99.59127,
+        19.23083
+    ],
+    "Tonalixco": [
+        -97.83944,
+        19.98111
+    ],
+    "Tomatlán": [
+        -105.24954,
+        19.93658
+    ],
+    "Toluca de Lerdo": [
+        -99.65324,
+        19.28786
+    ],
+    "Tolome": [
+        -96.39472,
+        19.26667
+    ],
+    "Tolcayuca": [
+        -98.92163,
+        19.95677
+    ],
+    "Tocuila": [
+        -97.01667,
+        18.95
+    ],
+    "Tochtepec": [
+        -97.82421,
+        18.83989
+    ],
+    "Tochimilco": [
+        -98.56667,
+        18.9
+    ],
+    "Tocatlán": [
+        -98.02905,
+        19.39002
+    ],
+    "Tlayacapan": [
+        -98.98111,
+        18.95556
+    ],
+    "Tlaxco de Morelos": [
+        -98.11997,
+        19.61333
+    ],
+    "Tlaxcoapan": [
+        -99.22042,
+        20.09163
+    ],
+    "Tlaxco": [
+        -98.02865,
+        20.42422
+    ],
+    "Tlaxcalancingo": [
+        -98.28334,
+        19.02863
+    ],
+    "Tlatlauquitepec": [
+        -97.49718,
+        19.84765
+    ],
+    "Tlatenchi": [
+        -99.18639,
+        18.59639
+    ],
+    "Tlaquiltenango": [
+        -99.16208,
+        18.63693
+    ],
+    "Tlapa de Comonfort": [
+        -98.57952,
+        17.54042
+    ],
+    "Tlapacoyan": [
+        -95.40056,
+        18.45667
+    ],
+    "Santa Isabel Tlanepantla": [
+        -97.88662,
+        18.86489
+    ],
+    "Tlanchinol": [
+        -98.65852,
+        20.99058
+    ],
+    "Tlanalapa": [
+        -98.60192,
+        19.8175
+    ],
+    "Tlanalapan": [
+        -97.27555,
+        19.25122
+    ],
+    "Tlamixtlahuacan": [
+        -99.22583,
+        17.50306
+    ],
+    "Tlamacazapa": [
+        -99.50185,
+        18.49685
+    ],
+    "Tlaltizapán": [
+        -99.11982,
+        18.68594
+    ],
+    "Tlaltenango": [
+        -98.34275,
+        19.17163
+    ],
+    "Tlalpan": [
+        -99.16787,
+        19.29708
+    ],
+    "Tlalnepantla": [
+        -98.99715,
+        19.00917
+    ],
+    "Tlalmanalco de Velázquez": [
+        -98.80138,
+        19.20807
+    ],
+    "Tlalixtac de Cabrera": [
+        -96.64666,
+        17.07248
+    ],
+    "San Andrés Tlalamac": [
+        -98.80778,
+        18.96694
+    ],
+    "Tlahuelompa (San Francisco Tlahuelompa)": [
+        -98.57522,
+        20.65082
+    ],
+    "Tlahuelilpan": [
+        -99.2302,
+        20.12925
+    ],
+    "Tlahuac": [
+        -99.00317,
+        19.28348
+    ],
+    "San José Tlacotitlán": [
+        -98.80611,
+        18.98583
+    ],
+    "Tlacotepec (San Mateo)": [
+        -97.84917,
+        20.06028
+    ],
+    "Tlacotepec": [
+        -99.97961,
+        17.78978
+    ],
+    "Tlacotalpan": [
+        -95.65847,
+        18.61304
+    ],
+    "Tlacolula de Matamoros": [
+        -96.47571,
+        16.95586
+    ],
+    "Tlacojalpan": [
+        -95.94682,
+        18.23096
+    ],
+    "Tlacoachistlahuaca": [
+        -98.30022,
+        16.81053
+    ],
+    "Tlachichuca": [
+        -97.41919,
+        19.11528
+    ],
+    "Tizimín": [
+        -88.15119,
+        21.14284
+    ],
+    "Tizayuca": [
+        -98.98044,
+        19.83728
+    ],
+    "Tixtla de Guerrero": [
+        -99.39799,
+        17.56732
+    ],
+    "Tixpehual": [
+        -89.44229,
+        20.97727
+    ],
+    "Tixkokob": [
+        -89.39444,
+        21.0033
+    ],
+    "Tixcacaltuyub": [
+        -88.91684,
+        20.4924
+    ],
+    "Timucuy": [
+        -89.51357,
+        20.8118
+    ],
+    "Tilzapotla": [
+        -99.27555,
+        18.48991
+    ],
+    "Tila": [
+        -92.48333,
+        17.4
+    ],
+    "Tikuch": [
+        -88.11236,
+        20.70325
+    ],
+    "Tihuatlán": [
+        -97.53335,
+        20.71448
+    ],
+    "Tiholop": [
+        -88.68902,
+        20.33153
+    ],
+    "Tierra Colorada": [
+        -99.52706,
+        17.16471
+    ],
+    "Ticul": [
+        -89.53433,
+        20.3996
+    ],
+    "Tianguistenco": [
+        -99.46731,
+        19.17927
+    ],
+    "Tezontepec de Aldama": [
+        -99.27204,
+        20.19188
+    ],
+    "Tezontepec": [
+        -98.81957,
+        19.88097
+    ],
+    "Teziutlán": [
+        -97.35992,
+        19.8173
+    ],
+    "Texistepec": [
+        -94.81702,
+        17.89517
+    ],
+    "Texhuacán": [
+        -97.03888,
+        18.62196
+    ],
+    "Texcoco de Mora": [
+        -98.88374,
+        19.51158
+    ],
+    "San Juan Texcalpan": [
+        -98.92889,
+        18.93583
+    ],
+    "Texcala": [
+        -98.79472,
+        18.93444
+    ],
+    "Tetzoyocan": [
+        -97.70311,
+        18.75716
+    ],
+    "Tetiz": [
+        -89.93264,
+        20.96432
+    ],
+    "Tetipac": [
+        -99.64778,
+        18.64778
+    ],
+    "Tetepango": [
+        -99.15456,
+        20.10519
+    ],
+    "Tetelzingo": [
+        -97.14497,
+        19.05094
+    ],
+    "Teteles de Ávila Castillo": [
+        -97.45704,
+        19.85748
+    ],
+    "Tetela de Ocampo": [
+        -97.80756,
+        19.8162
+    ],
+    "Tetela del Volcán": [
+        -98.72972,
+        18.89306
+    ],
+    "Tetecala": [
+        -99.39933,
+        18.73009
+    ],
+    "Tesoco": [
+        -88.15405,
+        20.72209
+    ],
+    "Terrenate": [
+        -97.92492,
+        19.47384
+    ],
+    "Tequixquiac": [
+        -99.14472,
+        19.90944
+    ],
+    "Tequisquiapan": [
+        -99.89167,
+        20.5225
+    ],
+    "Tequila": [
+        -103.83569,
+        20.88197
+    ],
+    "San Martín Tequesquipan (Tequesquipan)": [
+        -99.94667,
+        19.05806
+    ],
+    "Tepulco": [
+        -97.98793,
+        19.11642
+    ],
+    "Cuautitlán Izcalli": [
+        -99.21598,
+        19.64388
+    ],
+    "Tepoztlán": [
+        -99.09914,
+        18.98603
+    ],
+    "Tepotzotlán": [
+        -99.2237,
+        19.71981
+    ],
+    "Tepexi": [
+        -97.92636,
+        18.57913
+    ],
+    "Tepetzintla": [
+        -97.85235,
+        21.1641
+    ],
+    "Tepetlaoxtoc de Hidalgo": [
+        -98.81814,
+        19.57498
+    ],
+    "Tepetlacolco": [
+        -97.69228,
+        18.64027
+    ],
+    "Barrio Tepetitlán Emilio Portes Gil": [
+        -99.88667,
+        19.65306
+    ],
+    "Santa Cecilia Tepetitlán": [
+        -97.43395,
+        19.19254
+    ],
+    "Tepetitla": [
+        -98.37585,
+        19.26419
+    ],
+    "Tepepa": [
+        -98.16968,
+        20.1346
+    ],
+    "San Cristobal Tepeojuma": [
+        -98.44542,
+        18.72613
+    ],
+    "Tepeji de Ocampo": [
+        -99.34297,
+        19.9063
+    ],
+    "Tepecoacuilco de Trujano": [
+        -99.47039,
+        18.27723
+    ],
+    "Tepeapulco": [
+        -98.55109,
+        19.78618
+    ],
+    "Tepeaca": [
+        -97.90074,
+        18.96923
+    ],
+    "Tepatlaxco de Hidalgo": [
+        -97.96595,
+        19.06747
+    ],
+    "Tepatepec": [
+        -99.09063,
+        20.24571
+    ],
+    "Tepango de Rodríguez": [
+        -97.79567,
+        20.0019
+    ],
+    "Tepalcingo": [
+        -98.84302,
+        18.59582
+    ],
+    "Tepakán": [
+        -89.03872,
+        21.04882
+    ],
+    "Teopisca": [
+        -92.47412,
+        16.54547
+    ],
+    "Teopantlán": [
+        -98.26258,
+        18.71288
+    ],
+    "Teoloyucan": [
+        -99.17855,
+        19.7458
+    ],
+    "Teocelo": [
+        -96.97371,
+        19.3856
+    ],
+    "Tenosique de Pino Suárez": [
+        -91.42214,
+        17.47496
+    ],
+    "Tenango del Aire": [
+        -98.85687,
+        19.15774
+    ],
+    "Tenango de Doria": [
+        -98.2272,
+        20.33816
+    ],
+    "Tenango de Arista": [
+        -99.59068,
+        19.10641
+    ],
+    "Tenango": [
+        -99.28972,
+        20.22603
+    ],
+    "Tenancingo de Degollado": [
+        -99.59344,
+        18.96148
+    ],
+    "Tenabó": [
+        -90.22547,
+        20.04092
+    ],
+    "Tempoal de Sánchez": [
+        -98.38802,
+        21.52193
+    ],
+    "Temozón": [
+        -88.20155,
+        20.80393
+    ],
+    "Temoaya": [
+        -99.59411,
+        19.46707
+    ],
+    "Temoac": [
+        -98.7775,
+        18.77222
+    ],
+    "Temixco": [
+        -99.23072,
+        18.85528
+    ],
+    "Temax": [
+        -88.94039,
+        21.15105
+    ],
+    "Temascalcingo": [
+        -100.00272,
+        19.91639
+    ],
+    "Temascalapa": [
+        -98.90035,
+        19.82717
+    ],
+    "Temapache": [
+        -97.64104,
+        21.06583
+    ],
+    "Temamatla": [
+        -98.86921,
+        19.20306
+    ],
+    "Teloloapan": [
+        -99.8723,
+        18.36874
+    ],
+    "Telixtac": [
+        -98.77632,
+        18.56121
+    ],
+    "Telchac": [
+        -89.26945,
+        21.20312
+    ],
+    "Tekit": [
+        -89.3328,
+        20.53501
+    ],
+    "Tekax de Álvaro Obregón": [
+        -89.28629,
+        20.20427
+    ],
+    "Tekanto": [
+        -89.10553,
+        21.01209
+    ],
+    "San Felipe Tejalápam": [
+        -96.8542,
+        17.11134
+    ],
+    "Tehuixtla": [
+        -99.27078,
+        18.55979
+    ],
+    "Tehuetlán": [
+        -98.50853,
+        21.05337
+    ],
+    "Tehuacán": [
+        -97.39282,
+        18.46148
+    ],
+    "Tecpatán": [
+        -93.31071,
+        17.13705
+    ],
+    "Tecozautla": [
+        -99.63449,
+        20.53359
+    ],
+    "San Marcos Tecomaxusco": [
+        -98.76035,
+        18.98152
+    ],
+    "Tecolutla": [
+        -97.01437,
+        20.48282
+    ],
+    "Tecolutilla": [
+        -93.33317,
+        18.28362
+    ],
+    "Tecoh": [
+        -89.47389,
+        20.74417
+    ],
+    "Tecoanapa": [
+        -98.73401,
+        16.51185
+    ],
+    "San Pedro Techuchulco": [
+        -99.52462,
+        19.11302
+    ],
+    "Tecamachalco": [
+        -97.73132,
+        18.88179
+    ],
+    "Tecali de Herrera": [
+        -97.9742,
+        18.90294
+    ],
+    "Tecajec": [
+        -98.815,
+        18.79806
+    ],
+    "Teapa": [
+        -92.95228,
+        17.54815
+    ],
+    "Teabo": [
+        -89.28355,
+        20.39892
+    ],
+    "Taxco de Alarcón": [
+        -99.60491,
+        18.55629
+    ],
+    "Tatahuicapan": [
+        -94.76066,
+        18.24539
+    ],
+    "Tasquillo": [
+        -99.31352,
+        20.54836
+    ],
+    "Tapilula": [
+        -93.01708,
+        17.2495
+    ],
+    "Tapachula": [
+        -92.26185,
+        14.90696
+    ],
+    "Tantoyuca": [
+        -98.22725,
+        21.35369
+    ],
+    "Tanute": [
+        -99.0377,
+        21.65242
+    ],
+    "Tanquián Escobedo": [
+        -98.66314,
+        21.60579
+    ],
+    "Tamulté de las Sabanas": [
+        -92.78383,
+        18.16221
+    ],
+    "Tamuín": [
+        -98.77629,
+        22.00536
+    ],
+    "Tampico": [
+        -97.86861,
+        22.25528
+    ],
+    "Tamiahua": [
+        -97.44654,
+        21.28082
+    ],
+    "Tamazunchale": [
+        -98.78247,
+        21.25151
+    ],
+    "Tamasopo": [
+        -99.39365,
+        21.92426
+    ],
+    "Tamápatz": [
+        -99.07764,
+        21.56654
+    ],
+    "Tamalín": [
+        -97.81188,
+        21.33936
+    ],
+    "Tahmek": [
+        -89.25447,
+        20.873
+    ],
+    "San Juan Tahitic": [
+        -97.55082,
+        19.93605
+    ],
+    "Tacotalpa": [
+        -92.82635,
+        17.59487
+    ],
+    "Sultepec de Pedro Ascencio de Alquisiras": [
+        -99.96613,
+        18.85847
+    ],
+    "Sucila": [
+        -88.3135,
+        21.15642
+    ],
+    "Suchiate": [
+        -92.22322,
+        14.53608
+    ],
+    "Suchiapa": [
+        -93.10029,
+        16.6237
+    ],
+    "Soyaniquilpan": [
+        -99.52962,
+        20.01477
+    ],
+    "Soyaló": [
+        -92.92424,
+        16.89089
+    ],
+    "Sotuta": [
+        -89.00935,
+        20.5969
+    ],
+    "Soto la Marina": [
+        -98.20516,
+        23.76987
+    ],
+    "Soteapan": [
+        -94.87295,
+        18.23271
+    ],
+    "Soltepec": [
+        -97.70861,
+        19.12111
+    ],
+    "Soledad de Doblado": [
+        -96.42114,
+        19.04582
+    ],
+    "Soconusco": [
+        -94.88097,
+        17.96335
+    ],
+    "Socoltenango": [
+        -92.35058,
+        16.24496
+    ],
+    "Sisal": [
+        -90.03084,
+        21.16553
+    ],
+    "Singuilucan": [
+        -98.51845,
+        19.96816
+    ],
+    "Simojovel de Allende": [
+        -92.63333,
+        17.2
+    ],
+    "Sierra Papacal": [
+        -89.72807,
+        21.12249
+    ],
+    "Seyé": [
+        -89.37158,
+        20.83532
+    ],
+    "Seybaplaya": [
+        -90.66988,
+        19.63678
+    ],
+    "San Sebastián del Monte": [
+        -98.02194,
+        17.67778
+    ],
+    "Sayula de Alemán": [
+        -94.9601,
+        17.88083
+    ],
+    "San Vicente Xiloxochitla": [
+        -98.21148,
+        19.26584
+    ],
+    "San Vicente Tancuayalab": [
+        -98.58778,
+        21.71833
+    ],
+    "San Vicente Coatlán": [
+        -96.84585,
+        16.38898
+    ],
+    "Santo Tomás Jalieza": [
+        -96.67064,
+        16.84469
+    ],
+    "Santo Tomás Hueyotlipan": [
+        -97.86708,
+        18.89004
+    ],
+    "Santo Tomás Chautla": [
+        -98.15227,
+        18.965
+    ],
+    "Santo Tomás Atzingo": [
+        -98.77986,
+        19.1717
+    ],
+    "Santos Reyes Tepejillo": [
+        -97.93844,
+        17.43782
+    ],
+    "Santo Domingo Zanatepec": [
+        -94.34754,
+        16.48307
+    ],
+    "Santo Domingo Tehuantepec": [
+        -95.24783,
+        16.31841
+    ],
+    "Santo Domingo Shomege (Shomege)": [
+        -99.90166,
+        19.84524
+    ],
+    "Santo Domingo Atoyatempan": [
+        -98.37306,
+        18.90444
+    ],
+    "Santo Domingo de Guzmán": [
+        -99.77972,
+        19.59306
+    ],
+    "Santo Domingo": [
+        -92.10417,
+        15.03081
+    ],
+    "Santiago Yaitepec": [
+        -97.26917,
+        16.22556
+    ],
+    "Santiago Tuxtla": [
+        -95.30159,
+        18.46562
+    ],
+    "Santiago Tetla": [
+        -98.08695,
+        19.42722
+    ],
+    "Santiago Suchilquitongo": [
+        -96.88033,
+        17.25588
+    ],
+    "Santiago Pinotepa Nacional": [
+        -98.05532,
+        16.33847
+    ],
+    "Santiago Miahuatlán": [
+        -97.43746,
+        18.54524
+    ],
+    "Santiago Matatlán": [
+        -96.38297,
+        16.8654
+    ],
+    "Santiago Juxtlahuaca": [
+        -98.01061,
+        17.33503
+    ],
+    "Santiago Jamiltepec": [
+        -97.82387,
+        16.28374
+    ],
+    "Santiago de la Peña": [
+        -97.33584,
+        20.95604
+    ],
+    "Santiago Choápam": [
+        -95.92219,
+        17.36084
+    ],
+    "Santiago Atzitzihuacán": [
+        -98.58167,
+        18.82472
+    ],
+    "Santiago Alseseca": [
+        -97.70405,
+        18.84369
+    ],
+    "Santiago Acutzilapan": [
+        -99.76417,
+        19.78222
+    ],
+    "Santiago Acatlán": [
+        -97.91667,
+        18.98333
+    ],
+    "Santiago Tulantepec": [
+        -98.35638,
+        20.0357
+    ],
+    "Santa Rosalía": [
+        -112.26933,
+        27.3359
+    ],
+    "Santa Rita Tlahuapan": [
+        -98.57964,
+        19.33167
+    ],
+    "Santander Jiménez": [
+        -98.48378,
+        24.21518
+    ],
+    "Santa María Zacatepec": [
+        -97.99079,
+        16.76344
+    ],
+    "Santa María Xonacatepec": [
+        -98.10361,
+        19.08944
+    ],
+    "Santa María Xadani": [
+        -96.0733,
+        15.94909
+    ],
+    "Rayón": [
+        -93.0102,
+        17.20088
+    ],
+    "Santa María Petapa": [
+        -95.119,
+        16.82035
+    ],
+    "Santa María Nopaltepec": [
+        -98.70937,
+        19.77891
+    ],
+    "Santa María Nativitas": [
+        -99.62944,
+        19.21139
+    ],
+    "Santa María Moyotzingo": [
+        -98.40644,
+        19.25391
+    ],
+    "Santa María Mazatla": [
+        -99.38694,
+        19.51528
+    ],
+    "Santa María Magdalena Cahuacán": [
+        -99.41184,
+        19.63005
+    ],
+    "Santa María la Alta": [
+        -97.65835,
+        18.59965
+    ],
+    "Santa María la Asunción": [
+        -96.81917,
+        18.10722
+    ],
+    "Santa María Jicaltepec": [
+        -98.04333,
+        16.37917
+    ],
+    "Santa María Ixtiyucan": [
+        -97.81356,
+        19.18253
+    ],
+    "Santa María Huazolotitlan": [
+        -97.91351,
+        16.30408
+    ],
+    "Santa María Huatulco": [
+        -96.32063,
+        15.83267
+    ],
+    "Santa María del Tule": [
+        -96.63147,
+        17.04712
+    ],
+    "Santa María del Monte": [
+        -99.82498,
+        19.2902
+    ],
+    "Santa María Coronanco": [
+        -98.25395,
+        19.12015
+    ],
+    "Santa María Chimalhuacán": [
+        -98.95038,
+        19.42155
+    ],
+    "Santa María Chilapa de Díaz": [
+        -97.68333,
+        17.51667
+    ],
+    "Santa María Ayoquezco de Aldama": [
+        -96.84252,
+        16.68255
+    ],
+    "Santa María Asunción Tlaxiaco": [
+        -97.68053,
+        17.26916
+    ],
+    "Santa María Ajoloapan": [
+        -99.04472,
+        19.97694
+    ],
+    "Santa María Acuexcomac": [
+        -98.38493,
+        19.03701
+    ],
+    "Santa María Acú": [
+        -90.16362,
+        20.54695
+    ],
+    "Santa María Huecatitla": [
+        -99.1691,
+        19.72511
+    ],
+    "Santa Rita": [
+        -91.975,
+        16.13167
+    ],
+    "Santa Isabel Cholula": [
+        -98.37944,
+        18.99667
+    ],
+    "Santa Inés Ahuatempan": [
+        -98.02254,
+        18.4098
+    ],
+    "Santa Gertrudis Miramar": [
+        -95.392,
+        16.06365
+    ],
+    "Santa Gertrudis": [
+        -99.36667,
+        19.73333
+    ],
+    "Guillermo Zúñiga": [
+        -99.20074,
+        24.01548
+    ],
+    "Santa Elena": [
+        -89.6446,
+        20.3282
+    ],
+    "Santa Cruz Xoxocotlán": [
+        -96.73328,
+        17.02909
+    ],
+    "Santa Cruz Xitla": [
+        -96.67089,
+        16.32767
+    ],
+    "Manzana Tercera de Santa Cruz Tepexpan": [
+        -99.70361,
+        19.56917
+    ],
+    "Santa Cruz Tecamac": [
+        -98.9695,
+        19.71276
+    ],
+    "Santa Cruz Cuauhtenco": [
+        -99.72988,
+        19.24964
+    ],
+    "Santa Clara Ocoyucan": [
+        -98.30148,
+        18.97616
+    ],
+    "Santa Catarina Pantelhó": [
+        -92.47083,
+        17.00514
+    ],
+    "Santa Catarina Otzolotepec": [
+        -97.26619,
+        18.57701
+    ],
+    "Santa Catarina Mechoacán": [
+        -97.83693,
+        16.33712
+    ],
+    "Santa Catarina Juquila": [
+        -97.29136,
+        16.23793
+    ],
+    "Santa Catarina Ayotzingo": [
+        -98.92984,
+        19.20948
+    ],
+    "Santa Catarina": [
+        -100.45192,
+        20.77674
+    ],
+    "Nextlalpan": [
+        -99.06997,
+        19.74414
+    ],
+    "Santa Ana Jilotzingo": [
+        -99.39449,
+        19.5415
+    ],
+    "Santa Ana Huiloac": [
+        -98.14137,
+        19.40031
+    ],
+    "Santa Ana Hueytlalpan": [
+        -98.31252,
+        20.17544
+    ],
+    "Santa Ana Coatepec": [
+        -98.43472,
+        18.83667
+    ],
+    "Chiautempan": [
+        -98.20933,
+        19.31277
+    ],
+    "Santa Ana Acozautla": [
+        -98.38306,
+        18.95556
+    ],
+    "Santa Ana Ixtlahuatzingo (Santa Ana)": [
+        -99.62361,
+        18.97056
+    ],
+    "Santa Ana": [
+        -111.12086,
+        30.54265
+    ],
+    "San Simonito": [
+        -99.54,
+        18.99139
+    ],
+    "San Sebastián Zinacatepec": [
+        -97.24387,
+        18.33586
+    ],
+    "San Sebastián Villanueva": [
+        -97.71958,
+        19.06008
+    ],
+    "San Sebastián Tutla": [
+        -97.64016,
+        17.70485
+    ],
+    "Teitipac": [
+        -96.61365,
+        16.95073
+    ],
+    "San Salvador el Seco": [
+        -97.6418,
+        19.13368
+    ],
+    "San Salvador Atenco": [
+        -98.91867,
+        19.5517
+    ],
+    "San Rafael": [
+        -96.86737,
+        20.18862
+    ],
+    "San Pedro y San Pablo Etla": [
+        -96.79834,
+        17.205
+    ],
+    "San Pedro Tlanisco": [
+        -99.6526,
+        19.0636
+    ],
+    "San Pedro Tetitlán": [
+        -97.32306,
+        18.25972
+    ],
+    "San Pedro Tapanatepec": [
+        -94.19425,
+        16.36986
+    ],
+    "San Pedro Quiatoni": [
+        -96.03075,
+        16.78324
+    ],
+    "San Pedro Pochutla": [
+        -96.46664,
+        15.74757
+    ],
+    "San Pedro Mixtepec": [
+        -96.28448,
+        16.27116
+    ],
+    "San Pedro Los Baños": [
+        -99.8217,
+        19.62537
+    ],
+    "San Pedro Jicayán": [
+        -98.01367,
+        16.45181
+    ],
+    "San Pedro Ixcatlán": [
+        -96.51011,
+        18.14555
+    ],
+    "San Pedro el Alto": [
+        -99.8805,
+        19.58429
+    ],
+    "San Pedro Buenavista": [
+        -93.11667,
+        16.08333
+    ],
+    "San Pablo Villa de Mitla": [
+        -96.35911,
+        16.92501
+    ],
+    "San Pablo Tolimán": [
+        -99.89858,
+        20.859
+    ],
+    "San Pablo Tecalco": [
+        -98.95854,
+        19.67333
+    ],
+    "San Pablo Huixtepec": [
+        -96.78128,
+        16.81948
+    ],
+    "San Pablo Huitzo": [
+        -96.88661,
+        17.27708
+    ],
+    "San Pablo de las Tunas": [
+        -97.70972,
+        18.99556
+    ],
+    "San Pablo de las Salinas": [
+        -99.09527,
+        19.6667
+    ],
+    "San Pablo Autopan": [
+        -99.65694,
+        19.3546
+    ],
+    "San Pablo Atlazalpan": [
+        -98.90918,
+        19.21694
+    ],
+    "Apetatitlán Antonio Carbajal": [
+        -98.17558,
+        19.33211
+    ],
+    "San Nicolás de los Ranchos": [
+        -98.48547,
+        19.07056
+    ],
+    "San Nicolás de Buenos Aires": [
+        -97.55105,
+        19.16492
+    ],
+    "San Nicolás Coatepec": [
+        -99.42998,
+        19.13796
+    ],
+    "San Nicolás": [
+        -99.56833,
+        18.93333
+    ],
+    "San Miguel Zozutla": [
+        -97.65425,
+        18.75501
+    ],
+    "San Miguel Zinacantepec": [
+        -99.73478,
+        19.28501
+    ],
+    "San Miguel Xoxtla": [
+        -98.30824,
+        19.16815
+    ],
+    "San Miguel Contla": [
+        -98.1325,
+        19.36111
+    ],
+    "San Miguel Tenextatiloyan": [
+        -97.59644,
+        19.70965
+    ],
+    "San Miguel Quetzaltepec": [
+        -95.76023,
+        16.97433
+    ],
+    "San Miguel Panixtlahuaca": [
+        -97.38427,
+        16.24844
+    ],
+    "San Miguel Oxtotilpan": [
+        -99.8856,
+        19.14953
+    ],
+    "Huautepec": [
+        -96.79704,
+        18.10112
+    ],
+    "San Miguel Coatlinchán": [
+        -98.87274,
+        19.44999
+    ],
+    "Chapultepec": [
+        -99.56187,
+        19.20159
+    ],
+    "San Miguel Canoa": [
+        -98.10306,
+        19.15194
+    ],
+    "San Miguel Balderas": [
+        -99.65227,
+        19.10906
+    ],
+    "San Miguel Tenochtitlán": [
+        -99.9225,
+        19.76028
+    ],
+    "San Matías Tlalancaleca": [
+        -98.49842,
+        19.32368
+    ],
+    "San Mateo Xoloc": [
+        -99.25097,
+        19.70719
+    ],
+    "San Mateo Tlaixpan": [
+        -97.7385,
+        18.91375
+    ],
+    "San Mateo Texcalyacac": [
+        -99.46667,
+        19.16667
+    ],
+    "San Mateo Parra": [
+        -97.86167,
+        18.99139
+    ],
+    "San Mateo Nejápam": [
+        -98.41692,
+        17.65607
+    ],
+    "Mexicaltzingo": [
+        -99.5842,
+        19.21049
+    ],
+    "San Mateo Ixtacalco": [
+        -99.17107,
+        19.69896
+    ],
+    "San Mateo del Mar": [
+        -94.98187,
+        16.21007
+    ],
+    "San Mateo Atenco": [
+        -99.53201,
+        19.26919
+    ],
+    "San Martín Xaltocan": [
+        -98.21079,
+        19.42374
+    ],
+    "San Martín Tlapala": [
+        -98.45889,
+        18.96667
+    ],
+    "San Martín Texmelucan de Labastida": [
+        -98.43808,
+        19.28378
+    ],
+    "San Pedro la Joya": [
+        -97.83806,
+        19.06528
+    ],
+    "San Martín de las Pirámides": [
+        -98.83455,
+        19.70497
+    ],
+    "San Marcos Tlacoyalco": [
+        -97.60324,
+        18.67312
+    ],
+    "Vega de San Marcos": [
+        -96.94825,
+        20.18511
+    ],
+    "San Marcos": [
+        -104.19682,
+        20.79269
+    ],
+    "Teolocholco": [
+        -98.19083,
+        19.24333
+    ],
+    "San Lucas Ojitlán": [
+        -96.39823,
+        18.06149
+    ],
+    "San Lorenzo Toxico": [
+        -99.76278,
+        19.50917
+    ],
+    "San Lorenzo Oyamel": [
+        -99.57645,
+        19.43185
+    ],
+    "San Lorenzo Chiautzingo": [
+        -98.46513,
+        19.2028
+    ],
+    "San Lorenzo Almecatla": [
+        -98.23333,
+        19.13333
+    ],
+    "San Lorenzo": [
+        -97.8741,
+        16.39388
+    ],
+    "San Juan Xiutetelco": [
+        -97.32551,
+        19.79534
+    ],
+    "San Juan Tizahuapan": [
+        -98.66611,
+        20.04959
+    ],
+    "San Juan Tianguismanalco": [
+        -98.43333,
+        18.95
+    ],
+    "San Juan Tepa": [
+        -99.06592,
+        20.21579
+    ],
+    "San Juan Teotihuacán": [
+        -98.86263,
+        19.68859
+    ],
+    "San Juan Tejaluca": [
+        -98.40472,
+        18.89917
+    ],
+    "San Juan Quiotepec": [
+        -96.58827,
+        17.60152
+    ],
+    "San Juan Ixcaquixtla": [
+        -97.83107,
+        18.46022
+    ],
+    "San Juan Guichicovi": [
+        -95.09439,
+        16.96239
+    ],
+    "San Juan Guelavía": [
+        -96.54305,
+        16.95421
+    ],
+    "San Juan Evangelista": [
+        -95.13845,
+        17.88704
+    ],
+    "San Juan del Río": [
+        -95.76028,
+        17.49278
+    ],
+    "San Juan de los Reyes (Luis Valenzuela)": [
+        -95.44889,
+        18.51778
+    ],
+    "San Juan de las Huertas": [
+        -99.75819,
+        19.2482
+    ],
+    "San Juan Cuautla": [
+        -96.95697,
+        18.2444
+    ],
+    "San Juan Cacahuatepec": [
+        -98.15555,
+        16.61376
+    ],
+    "San Juan Bautista Valle Nacional": [
+        -96.30263,
+        17.77552
+    ],
+    "San Juan Bautista Tuxtepec": [
+        -96.12982,
+        18.08829
+    ],
+    "San Juan Bautista Cuicatlán": [
+        -96.95915,
+        17.801
+    ],
+    "San Juan Amecac": [
+        -98.65894,
+        18.83456
+    ],
+    "San José Miahuatlán": [
+        -97.28766,
+        18.2917
+    ],
+    "San José Chiltepec": [
+        -96.1701,
+        17.94802
+    ],
+    "San José Chiapa": [
+        -97.76824,
+        19.23963
+    ],
+    "San José Acateno": [
+        -97.21061,
+        20.13092
+    ],
+    "San Jerónimo Ocotitlán": [
+        -97.96736,
+        19.03189
+    ],
+    "San Jerónimo Axochitlán": [
+        -97.26278,
+        18.27833
+    ],
+    "San Isidro Apango": [
+        -96.35832,
+        15.80866
+    ],
+    "San Isidro": [
+        -97.12583,
+        18.89111
+    ],
+    "San Ildefonso": [
+        -100.13792,
+        19.34919
+    ],
+    "San Hipólito Xochiltenango": [
+        -97.87353,
+        18.94175
+    ],
+    "San Gregorio Atzompa": [
+        -98.35211,
+        19.02818
+    ],
+    "San Gaspar Tonatico": [
+        -99.66917,
+        18.80671
+    ],
+    "San Gabriel Mixtepec": [
+        -97.08156,
+        16.09506
+    ],
+    "San Gabriel Chilac": [
+        -97.34777,
+        18.32598
+    ],
+    "San Gabriel Casa Blanca": [
+        -97.13775,
+        18.15171
+    ],
+    "San Gabriel las Palmas": [
+        -99.34694,
+        18.61417
+    ],
+    "San Francisco Zacacalco": [
+        -98.98272,
+        19.93136
+    ],
+    "San Francisco Tlalcilalcalpan": [
+        -99.76732,
+        19.29353
+    ],
+    "San Francisco Tepexoxuca": [
+        -99.54789,
+        19.05998
+    ],
+    "San Francisco Telixtlahuaca": [
+        -96.90529,
+        17.29684
+    ],
+    "San Francisco del Mar": [
+        -94.63301,
+        16.23226
+    ],
+    "San Francisco Atezcatzinco": [
+        -98.14817,
+        19.46959
+    ],
+    "San Francisco Acuautla": [
+        -98.85557,
+        19.34317
+    ],
+    "Occidente (San Francisco)": [
+        -93.25238,
+        18.3313
+    ],
+    "San Francisco Ozomatlán": [
+        -99.33902,
+        17.92537
+    ],
+    "San Felipe Usila": [
+        -96.52624,
+        17.88639
+    ],
+    "San Felipe Teotlalcingo": [
+        -98.50175,
+        19.23344
+    ],
+    "San Felipe Jalapa de Díaz": [
+        -96.53518,
+        18.0716
+    ],
+    "Villa Mariano Matamoros": [
+        -98.37746,
+        19.32661
+    ],
+    "San Felipe del Progreso": [
+        -99.95729,
+        19.69432
+    ],
+    "San Esteban": [
+        -98.05986,
+        20.54455
+    ],
+    "San Dionisio Ocotepec": [
+        -96.39212,
+        16.80486
+    ],
+    "San Dionisio del Mar": [
+        -94.75787,
+        16.32281
+    ],
+    "San Dieguito Xochimanca": [
+        -98.82289,
+        19.48942
+    ],
+    "San Diego Huehuecalco": [
+        -98.76388,
+        19.09212
+    ],
+    "Sanctórum": [
+        -98.47177,
+        19.49307
+    ],
+    "Sanctorum": [
+        -98.25417,
+        19.09917
+    ],
+    "San Cristóbal de Las Casas": [
+        -92.63819,
+        16.73788
+    ],
+    "San Cristóbal Amatlán": [
+        -96.41171,
+        16.3184
+    ],
+    "San Ciro de Acosta": [
+        -99.81914,
+        21.65181
+    ],
+    "San Carlos": [
+        -91.15408,
+        17.5522
+    ],
+    "San Buenaventura": [
+        -101.54891,
+        27.06193
+    ],
+    "Amaxac de Guerrero": [
+        -98.17016,
+        19.34632
+    ],
+    "San Bartolo Teontepec": [
+        -97.52598,
+        18.48924
+    ],
+    "San Bartolomé Ayautla": [
+        -96.67002,
+        18.03235
+    ],
+    "San Bartolo del Llano": [
+        -99.70377,
+        19.59975
+    ],
+    "San Bartolo Cuautlalpan": [
+        -99.01044,
+        19.8151
+    ],
+    "San Baltazar Chichicapan": [
+        -96.4887,
+        16.76139
+    ],
+    "Xochitlaxco (San Baltazar)": [
+        -97.86361,
+        19.94139
+    ],
+    "San Baltazar Atlimeyaya": [
+        -98.48111,
+        18.98694
+    ],
+    "San Andrés Tuxtla": [
+        -95.21327,
+        18.4487
+    ],
+    "San Andrés Tepetitlán": [
+        -99.91972,
+        18.89833
+    ],
+    "San Andrés Huayapan": [
+        -96.66423,
+        17.10309
+    ],
+    "San Andrés Huaxpaltepec": [
+        -97.91672,
+        16.32968
+    ],
+    "San Andrés Calpan": [
+        -98.45796,
+        19.10391
+    ],
+    "San Andrés Cacaloapan": [
+        -97.58494,
+        18.58278
+    ],
+    "San Agustín Tlaxiaca": [
+        -98.88562,
+        20.11604
+    ],
+    "San Agustín Oapan": [
+        -99.43806,
+        17.9525
+    ],
+    "San Agustín Loxicha": [
+        -96.61667,
+        16.01655
+    ],
+    "San Agustín Huixaxtla": [
+        -98.39694,
+        18.91778
+    ],
+    "Salto de Agua": [
+        -92.34028,
+        17.55125
+    ],
+    "Saltabarranca": [
+        -95.53191,
+        18.59058
+    ],
+    "Salitrillo": [
+        -99.85,
+        19.43333
+    ],
+    "Salina Cruz": [
+        -95.19952,
+        16.18798
+    ],
+    "Sahcabá": [
+        -89.1813,
+        20.79154
+    ],
+    "Sacalum": [
+        -89.58912,
+        20.49629
+    ],
+    "Sabancuy": [
+        -91.17877,
+        18.971
+    ],
+    "Sabán": [
+        -88.53874,
+        20.03422
+    ],
+    "Río Verde": [
+        -99.99169,
+        21.93032
+    ],
+    "Río Lagartos": [
+        -88.15775,
+        21.59649
+    ],
+    "Río Frío": [
+        -98.67049,
+        19.35234
+    ],
+    "Río Bravo": [
+        -98.09414,
+        25.98729
+    ],
+    "Río Blanco": [
+        -97.12829,
+        18.83936
+    ],
+    "Rincón Viejo": [
+        -95.04749,
+        16.88677
+    ],
+    "Rinconada": [
+        -96.56763,
+        19.35501
+    ],
+    "Reynosa": [
+        -98.29748,
+        26.07681
+    ],
+    "Rafael Lucio": [
+        -96.98974,
+        19.5932
+    ],
+    "Rafael Lara Grajales": [
+        -97.79844,
+        19.22936
+    ],
+    "Rafael J. García": [
+        -97.18376,
+        19.2543
+    ],
+    "Rafael Delgado": [
+        -97.02751,
+        18.80553
+    ],
+    "Rodulfo Figueroa": [
+        -91.90331,
+        15.92011
+    ],
+    "Quechultenango": [
+        -99.24321,
+        17.41222
+    ],
+    "Quecholac": [
+        -97.66041,
+        18.95422
+    ],
+    "Quebrantadero": [
+        -98.7905,
+        18.52384
+    ],
+    "Putla de Guerrero": [
+        -97.92704,
+        17.02376
+    ],
+    "Puerto Madero": [
+        -92.42146,
+        14.72076
+    ],
+    "Puerto Escondido": [
+        -97.07438,
+        15.87677
+    ],
+    "Puente de Ixtla": [
+        -99.31806,
+        18.61472
+    ],
+    "Pueblo Nuevo Solistahuacán": [
+        -92.89976,
+        17.16028
+    ],
+    "Pueblo Nuevo": [
+        -101.37112,
+        20.52524
+    ],
+    "Puebla de Zaragoza": [
+        -98.20193,
+        19.04334
+    ],
+    "Progreso de Obregón": [
+        -99.18894,
+        20.24875
+    ],
+    "Progreso": [
+        -115.5848,
+        32.58039
+    ],
+    "Progreso Industrial": [
+        -99.35688,
+        19.63679
+    ],
+    "Presidio": [
+        -96.97211,
+        19.06943
+    ],
+    "Poza Rica de Hidalgo": [
+        -97.45946,
+        20.53315
+    ],
+    "Potrero del Llano": [
+        -97.72814,
+        21.0797
+    ],
+    "Portezuelo": [
+        -99.30606,
+        20.48717
+    ],
+    "Pomuch": [
+        -90.17548,
+        20.13684
+    ],
+    "Polyuc": [
+        -88.5618,
+        19.60988
+    ],
+    "Polanco": [
+        -99.2,
+        19.41667
+    ],
+    "Playa Vicente": [
+        -95.81361,
+        17.83031
+    ],
+    "Playa del Carmen": [
+        -87.07987,
+        20.6274
+    ],
+    "Platón Sánchez": [
+        -98.37585,
+        21.27272
+    ],
+    "Plan de las Hayas": [
+        -96.67526,
+        19.76085
+    ],
+    "Pisté": [
+        -88.58872,
+        20.7
+    ],
+    "Pinotepa de Don Luis": [
+        -97.9766,
+        16.42742
+    ],
+    "Pinal de Amoles": [
+        -99.62526,
+        21.1344
+    ],
+    "Pijijiapan": [
+        -93.20938,
+        15.68618
+    ],
+    "Piedras Negras": [
+        -100.56696,
+        28.72336
+    ],
+    "Zamora Pico de Oro": [
+        -90.7656,
+        16.33205
+    ],
+    "Pichucalco": [
+        -93.11591,
+        17.51
+    ],
+    "Peto": [
+        -88.92346,
+        20.12635
+    ],
+    "Petaquillas": [
+        -99.45588,
+        17.48616
+    ],
+    "Petalcingo": [
+        -92.41485,
+        17.22654
+    ],
+    "Perote": [
+        -97.24228,
+        19.5633
+    ],
+    "Colonias Pedernales": [
+        -97.05139,
+        20.04583
+    ],
+    "Paxtepec": [
+        -98.43139,
+        20.05278
+    ],
+    "Paso de Ovejas": [
+        -96.43999,
+        19.28504
+    ],
+    "Paso del Toro": [
+        -96.13555,
+        19.035
+    ],
+    "Paso del Macho": [
+        -96.72445,
+        18.97191
+    ],
+    "Paraíso": [
+        -93.21408,
+        18.39816
+    ],
+    "Papantla de Olarte": [
+        -97.32495,
+        20.44655
+    ],
+    "Papalotla": [
+        -98.20389,
+        19.16861
+    ],
+    "Pánuco": [
+        -98.18472,
+        22.05631
+    ],
+    "Panotla": [
+        -98.27012,
+        19.31619
+    ],
+    "Panales": [
+        -99.26648,
+        20.46943
+    ],
+    "Panaba": [
+        -88.26963,
+        21.29526
+    ],
+    "Palomares": [
+        -95.06249,
+        17.13719
+    ],
+    "Palmarito Tochapán": [
+        -97.63892,
+        18.89891
+    ],
+    "Palmar de Bravo": [
+        -97.54774,
+        18.83563
+    ],
+    "Palizada": [
+        -92.09127,
+        18.25479
+    ],
+    "Palenque": [
+        -91.98334,
+        17.50904
+    ],
+    "Pajapan": [
+        -94.69193,
+        18.26222
+    ],
+    "Pahuatlán del Valle": [
+        -98.15036,
+        20.27787
+    ],
+    "Pachuquilla": [
+        -98.69619,
+        20.07191
+    ],
+    "Pachuca de Soto": [
+        -98.73329,
+        20.11697
+    ],
+    "San Martín Pachivia (Pachivia)": [
+        -99.78759,
+        18.40855
+    ],
+    "Ozumba de Alzate": [
+        -98.79516,
+        19.03689
+    ],
+    "Ozuluama": [
+        -97.85067,
+        21.66043
+    ],
+    "Oxkutzcab": [
+        -89.41837,
+        20.30651
+    ],
+    "Oxchuc": [
+        -92.34416,
+        16.78555
+    ],
+    "Otumba de Gómez Farías": [
+        -98.75686,
+        19.69989
+    ],
+    "Oteapan": [
+        -94.66715,
+        18.00339
+    ],
+    "Otatitlán": [
+        -96.03436,
+        18.17622
+    ],
+    "Ostuacán": [
+        -93.33631,
+        17.40721
+    ],
+    "Orizatlán": [
+        -98.60662,
+        21.16977
+    ],
+    "Orizaba": [
+        -97.10084,
+        18.85101
+    ],
+    "Oriental": [
+        -97.62004,
+        19.37539
+    ],
+    "Opichén": [
+        -89.85741,
+        20.55142
+    ],
+    "Ometepec": [
+        -98.40776,
+        16.68848
+    ],
+    "Omealca": [
+        -96.78139,
+        18.74507
+    ],
+    "Oluta": [
+        -94.89615,
+        17.92883
+    ],
+    "Olinalá": [
+        -98.74096,
+        17.77836
+    ],
+    "Olcuatitán": [
+        -92.96058,
+        18.19114
+    ],
+    "Ocuituco": [
+        -98.77299,
+        18.87857
+    ],
+    "Ocozocuautla": [
+        -93.37317,
+        16.75989
+    ],
+    "Ocoyoacac": [
+        -99.45662,
+        19.27127
+    ],
+    "Ocotlán": [
+        -102.77358,
+        20.3553
+    ],
+    "Ocotlamanic": [
+        -97.09667,
+        18.32389
+    ],
+    "Santa María Magdalena Ocotitlán": [
+        -99.62313,
+        19.23656
+    ],
+    "Ocotepec": [
+        -93.1641,
+        17.22587
+    ],
+    "Ocosingo": [
+        -92.09374,
+        16.90639
+    ],
+    "Ocampo": [
+        -100.33946,
+        19.58298
+    ],
+    "Oaxtepec": [
+        -98.98071,
+        18.90583
+    ],
+    "Oaxaca": [
+        -96.71914,
+        17.07108
+    ],
+    "Nunkiní": [
+        -90.14721,
+        20.40044
+    ],
+    "Osumacinta": [
+        -93.09028,
+        16.93611
+    ],
+    "Nuevo Progreso": [
+        -97.94996,
+        23.17658
+    ],
+    "Nuevo Padilla": [
+        -98.78333,
+        24.01667
+    ],
+    "Nuevo Laredo": [
+        -99.51639,
+        27.47629
+    ],
+    "Nueva Palestina": [
+        -93.63361,
+        16.49278
+    ],
+    "Nueva Ciudad Guerrero": [
+        -99.22864,
+        26.56219
+    ],
+    "Nopalucan de la Granja": [
+        -97.82255,
+        19.21566
+    ],
+    "Nogales": [
+        -110.94217,
+        31.30862
+    ],
+    "Niltepec": [
+        -94.61293,
+        16.56214
+    ],
+    "Nicolás Ruiz": [
+        -92.58433,
+        16.43877
+    ],
+    "Nicolás Romero": [
+        -99.30682,
+        19.63658
+    ],
+    "Nicolás Bravo": [
+        -88.92902,
+        18.45918
+    ],
+    "Nepantla de Sor Juana Inés de la Cruz": [
+        -98.84083,
+        18.98028
+    ],
+    "Necaxa": [
+        -98.01196,
+        20.2125
+    ],
+    "Nealticán": [
+        -98.42645,
+        19.04945
+    ],
+    "Nautla": [
+        -96.77244,
+        20.20727
+    ],
+    "Naucalpan de Juárez": [
+        -99.23963,
+        19.47851
+    ],
+    "Natívitas": [
+        -98.31472,
+        19.23333
+    ],
+    "Naranjos": [
+        -97.68656,
+        21.35087
+    ],
+    "Naolinco de Victoria": [
+        -96.87348,
+        19.65434
+    ],
+    "Nanchital": [
+        -94.40799,
+        18.07113
+    ],
+    "Ciudad de Nanacamilpa": [
+        -98.53526,
+        19.49241
+    ],
+    "Nacajuca": [
+        -93.01881,
+        18.16901
+    ],
+    "Muna": [
+        -89.71399,
+        20.48628
+    ],
+    "Motzorongo": [
+        -96.72918,
+        18.64213
+    ],
+    "Motul de Felipe Carrillo Puerto": [
+        -89.28332,
+        21.09571
+    ],
+    "Motozintla de Mendoza": [
+        -92.24812,
+        15.36643
+    ],
+    "Morelos Cañada": [
+        -97.41907,
+        18.73684
+    ],
+    "Moralillo": [
+        -97.91212,
+        22.22552
+    ],
+    "Monte Redondo": [
+        -92.05083,
+        15.65195
+    ],
+    "Montemorelos": [
+        -99.82997,
+        25.18944
+    ],
+    "Montecillo": [
+        -98.90835,
+        19.45711
+    ],
+    "La Laguna y Monte del Castillo": [
+        -96.07806,
+        18.98334
+    ],
+    "Monte Blanco": [
+        -97.01657,
+        18.96587
+    ],
+    "Santiago Momoxpan": [
+        -98.26694,
+        19.07361
+    ],
+    "Molango": [
+        -98.72688,
+        20.78662
+    ],
+    "Mohoneras": [
+        -99.51611,
+        17.235
+    ],
+    "Mixquiahuala": [
+        -99.21396,
+        20.23031
+    ],
+    "Misantla": [
+        -96.855,
+        19.92639
+    ],
+    "Miramar": [
+        -97.86285,
+        22.33145
+    ],
+    "Miquihuana": [
+        -99.75385,
+        23.57677
+    ],
+    "Mineral del Monte": [
+        -98.67417,
+        20.13958
+    ],
+    "Minatitlán": [
+        -104.06667,
+        19.36667
+    ],
+    "Milpa Alta": [
+        -99.02277,
+        19.19174
+    ],
+    "Mier": [
+        -99.15277,
+        26.43055
+    ],
+    "Miahuatlán de Porfirio Díaz": [
+        -96.59558,
+        16.3327
+    ],
+    "Miacatlán": [
+        -99.36042,
+        18.77071
+    ],
+    "Mezcala": [
+        -102.84725,
+        20.9497
+    ],
+    "Mezquititlán": [
+        -98.63749,
+        20.53306
+    ],
+    "Metlaltoyuca": [
+        -97.85194,
+        20.73556
+    ],
+    "Metepec": [
+        -99.59844,
+        19.26169
+    ],
+    "Mérida": [
+        -89.62059,
+        20.9767
+    ],
+    "Mecayapan": [
+        -94.83988,
+        18.22101
+    ],
+    "Mazatlán": [
+        -106.40616,
+        23.2329
+    ],
+    "Mazatepec": [
+        -99.36126,
+        18.72061
+    ],
+    "Mazatán": [
+        -92.45078,
+        14.86311
+    ],
+    "Mayanalán": [
+        -99.43284,
+        18.17286
+    ],
+    "Maxcanú": [
+        -90.00195,
+        20.58559
+    ],
+    "Matías Romero": [
+        -95.03908,
+        16.87984
+    ],
+    "Mata Tenatito (Casco Hacienda)": [
+        -96.66288,
+        18.72187
+    ],
+    "Heroica Matamoros": [
+        -97.50417,
+        25.87972
+    ],
+    "Martínez de La Torre": [
+        -97.05825,
+        20.07067
+    ],
+    "Maitinez": [
+        -99.29306,
+        22.37167
+    ],
+    "Mariano Escobedo": [
+        -97.13,
+        18.91333
+    ],
+    "Mapastepec": [
+        -92.89395,
+        15.44224
+    ],
+    "Manuel Lazos": [
+        -92.18775,
+        14.9714
+    ],
+    "Manlio Fabio Altamirano": [
+        -96.33343,
+        19.09419
+    ],
+    "Maní": [
+        -89.39056,
+        20.38714
+    ],
+    "Mamá": [
+        -89.36691,
+        20.47716
+    ],
+    "Maltrata": [
+        -97.27668,
+        18.81034
+    ],
+    "Malinaltepec": [
+        -98.66667,
+        17.05
+    ],
+    "Malinalco": [
+        -99.50273,
+        18.94592
+    ],
+    "Malacatepec": [
+        -98.30218,
+        18.94252
+    ],
+    "Magdalena Teitipac": [
+        -96.55777,
+        16.90372
+    ],
+    "Magdalena Cuayucatepec": [
+        -97.48472,
+        18.54972
+    ],
+    "Magdalena Contreras": [
+        -99.21118,
+        19.33212
+    ],
+    "Macuspana": [
+        -92.5965,
+        17.76152
+    ],
+    "Macultepec": [
+        -92.83333,
+        18.16667
+    ],
+    "Luis Gil Pérez": [
+        -93.07273,
+        17.87704
+    ],
+    "Los Reyes Acozac": [
+        -98.98475,
+        19.7749
+    ],
+    "Los Reyes": [
+        -98.97707,
+        19.36356
+    ],
+    "Los Altos": [
+        -97.75734,
+        21.50942
+    ],
+    "Almagres": [
+        -94.9175,
+        17.8075
+    ],
+    "Loma Grande": [
+        -97.23083,
+        18.9225
+    ],
+    "Loma de Sogotegoyo": [
+        -94.97373,
+        18.21896
+    ],
+    "Loché": [
+        -88.14511,
+        21.38858
+    ],
+    "Llera de Canales": [
+        -99.02364,
+        23.31882
+    ],
+    "Llano Enmedio": [
+        -98.01364,
+        20.78242
+    ],
+    "Linares": [
+        -99.56568,
+        24.85908
+    ],
+    "Libres": [
+        -97.71444,
+        19.45785
+    ],
+    "Lerma de Villada": [
+        -99.51236,
+        19.28986
+    ],
+    "Lerdo de Tejada": [
+        -95.51864,
+        18.62942
+    ],
+    "Lázaro Cárdenas": [
+        -102.22172,
+        17.98085
+    ],
+    "La Trinitaria": [
+        -92.05518,
+        16.12197
+    ],
+    "Las Vigas": [
+        -99.22876,
+        16.76198
+    ],
+    "Vegas de la Soledad y Soledad Dos": [
+        -97.83273,
+        20.94476
+    ],
+    "Las Margaritas": [
+        -91.98028,
+        16.3119
+    ],
+    "Las Lomas": [
+        -97.61528,
+        20.26067
+    ],
+    "Las Choapas": [
+        -94.08333,
+        17.93333
+    ],
+    "Las Amilpas": [
+        -94.61667,
+        16.36667
+    ],
+    "La Reforma": [
+        -108.05597,
+        25.08206
+    ],
+    "La Perla": [
+        -97.1325,
+        18.9275
+    ],
+    "La Misión": [
+        -99.17129,
+        23.80307
+    ],
+    "La Magdalena Yancuitlalpan": [
+        -98.58944,
+        18.91083
+    ],
+    "La Libertad": [
+        -105.17417,
+        21.59254
+    ],
+    "La Joya": [
+        -90.67333,
+        19.48028
+    ],
+    "La Isla": [
+        -96.15,
+        18.6
+    ],
+    "Laguna Chica (Pueblo Nuevo)": [
+        -96.73306,
+        18.54306
+    ],
+    "La Guadalupe": [
+        -98.26171,
+        16.68776
+    ],
+    "La Defensa": [
+        -96.96027,
+        20.10471
+    ],
+    "Santo Tomás la Concordia": [
+        -98.31944,
+        19.22917
+    ],
+    "La Concepción de los Baños": [
+        -99.84424,
+        19.63322
+    ],
+    "La Concepción Coatipac (La Conchita)": [
+        -99.56833,
+        19.18188
+    ],
+    "La Ceiba": [
+        -97.76667,
+        20.76667
+    ],
+    "Komchén": [
+        -89.66239,
+        21.10363
+    ],
+    "Kinchil": [
+        -89.94804,
+        20.91568
+    ],
+    "Kantunil": [
+        -89.03504,
+        20.79597
+    ],
+    "Kanasín": [
+        -89.55811,
+        20.93438
+    ],
+    "Juchitepec de Mariano Riva Palacio": [
+        -98.87987,
+        19.10224
+    ],
+    "Juchitán de Zaragoza": [
+        -95.01975,
+        16.43603
+    ],
+    "Colonia Juárez": [
+        -95.02722,
+        16.20967
+    ],
+    "Juan Marcos (San José Buenavista)": [
+        -97.19667,
+        19.72917
+    ],
+    "Joquicingo de León Guzmán": [
+        -99.53412,
+        19.04955
+    ],
+    "Jonuta": [
+        -92.13759,
+        18.09085
+    ],
+    "Jonotla": [
+        -97.57518,
+        20.03108
+    ],
+    "Jonacatepec de Leandro Valle": [
+        -98.80302,
+        18.68308
+    ],
+    "Jojutla": [
+        -99.18028,
+        18.61472
+    ],
+    "Jocotitlán": [
+        -99.78831,
+        19.71068
+    ],
+    "Jiutepec": [
+        -99.17778,
+        18.88139
+    ],
+    "Jitotol": [
+        -92.86111,
+        17.06723
+    ],
+    "Jiquipilco": [
+        -99.60772,
+        19.55713
+    ],
+    "Jiquipilas": [
+        -93.64667,
+        16.66806
+    ],
+    "Jilotzingo": [
+        -99.06194,
+        19.86889
+    ],
+    "Jilotepec de Molina Enríquez": [
+        -99.53278,
+        19.95194
+    ],
+    "Jilotepec": [
+        -96.9515,
+        19.61196
+    ],
+    "Jesús del Monte": [
+        -99.98766,
+        19.12174
+    ],
+    "Jesús Carranza": [
+        -95.02643,
+        17.43446
+    ],
+    "Jaumave": [
+        -99.37858,
+        23.40588
+    ],
+    "Jantetelco": [
+        -98.77635,
+        18.71694
+    ],
+    "Jamapa": [
+        -96.24036,
+        19.04088
+    ],
+    "Jaltocán": [
+        -98.5399,
+        21.1312
+    ],
+    "Jaltepec": [
+        -98.63487,
+        19.72844
+    ],
+    "Jaltenco": [
+        -99.0932,
+        19.75272
+    ],
+    "Jalpan": [
+        -99.47147,
+        21.21818
+    ],
+    "Jalpa de Méndez": [
+        -93.06349,
+        18.17643
+    ],
+    "Jalatlaco": [
+        -99.4173,
+        19.18517
+    ],
+    "Jalapilla": [
+        -97.08812,
+        18.82465
+    ],
+    "Xalapa de Enríquez": [
+        -96.91667,
+        19.53333
+    ],
+    "Jalapa": [
+        -92.81244,
+        17.72162
+    ],
+    "Jalacingo": [
+        -97.30711,
+        19.80311
+    ],
+    "Jacala": [
+        -99.19095,
+        21.00887
+    ],
+    "Izúcar de Matamoros": [
+        -98.46499,
+        18.60151
+    ],
+    "Izapa 1ra. Sección": [
+        -92.17083,
+        14.92083
+    ],
+    "Izamal": [
+        -89.01806,
+        20.93346
+    ],
+    "Ixtlahuaca de Rayón": [
+        -99.76694,
+        19.56889
+    ],
+    "San Jerónimo Ixtepec": [
+        -95.10223,
+        16.57855
+    ],
+    "Ixtapan de la Sal": [
+        -99.67654,
+        18.84206
+    ],
+    "Ixtapaluca": [
+        -98.88432,
+        19.31905
+    ],
+    "Iztapalapa": [
+        -99.0671,
+        19.35738
+    ],
+    "Ixtapa": [
+        -101.64165,
+        17.66782
+    ],
+    "Ixtac Zoquitlán": [
+        -97.06088,
+        18.85504
+    ],
+    "Ixtacomitán": [
+        -93.09596,
+        17.43047
+    ],
+    "Iztacalco": [
+        -99.09778,
+        19.39528
+    ],
+    "Ixmiquilpan": [
+        -99.21689,
+        20.47831
+    ],
+    "Ixil": [
+        -89.48193,
+        21.15254
+    ],
+    "Ixhuatlancillo": [
+        -97.14803,
+        18.89728
+    ],
+    "Ixhuatán": [
+        -94.48402,
+        16.35109
+    ],
+    "Ixcatlán": [
+        -98.53468,
+        21.08134
+    ],
+    "Ixcatepec": [
+        -98.00689,
+        21.23695
+    ],
+    "Ixcateopan de Cuauhtémoc": [
+        -99.79139,
+        18.50139
+    ],
+    "Isla Mujeres": [
+        -86.73105,
+        21.23114
+    ],
+    "Isla de Aguada": [
+        -91.49268,
+        18.78751
+    ],
+    "Ishuatán": [
+        -93.00749,
+        17.29264
+    ],
+    "Iguala de la Independencia": [
+        -99.53936,
+        18.34928
+    ],
+    "Ignacio de la Llave": [
+        -95.98666,
+        18.72543
+    ],
+    "Idzincab": [
+        -89.69832,
+        20.91626
+    ],
+    "Hunucmá": [
+        -89.8759,
+        21.017
+    ],
+    "Huixtla": [
+        -92.4648,
+        15.1391
+    ],
+    "Huitzuco de los Figueroa": [
+        -99.33541,
+        18.30668
+    ],
+    "Huitziltepec": [
+        -99.48013,
+        17.75633
+    ],
+    "Huitzilac": [
+        -99.26772,
+        19.02954
+    ],
+    "Huitiupán": [
+        -92.68578,
+        17.17174
+    ],
+    "Huixtepec": [
+        -98.30455,
+        16.65361
+    ],
+    "Huimanguillo": [
+        -93.39198,
+        17.83386
+    ],
+    "Huiloapan de Cuauhtémoc": [
+        -97.15444,
+        18.81722
+    ],
+    "Huiloapan": [
+        -97.31667,
+        18.75
+    ],
+    "Huichapan": [
+        -99.64926,
+        20.37524
+    ],
+    "Huhí": [
+        -89.16091,
+        20.72647
+    ],
+    "Hueytamalco": [
+        -97.28722,
+        19.93889
+    ],
+    "Hueypoxtla": [
+        -99.07527,
+        19.91182
+    ],
+    "Hueyotlipan": [
+        -98.34752,
+        19.47033
+    ],
+    "Hueyapan de Ocampo": [
+        -95.14873,
+        18.14479
+    ],
+    "Hueyapan": [
+        -98.68948,
+        18.88587
+    ],
+    "Huepalcalco (San Miguel)": [
+        -98.75,
+        18.90889
+    ],
+    "Huejutla de Reyes": [
+        -98.41944,
+        21.14
+    ],
+    "Huejotzingo": [
+        -98.40734,
+        19.15945
+    ],
+    "Huehuetoca": [
+        -99.20131,
+        19.83567
+    ],
+    "Huehuetán": [
+        -92.38333,
+        15.01873
+    ],
+    "Huazuntlán": [
+        -94.79306,
+        18.15667
+    ],
+    "Huazulco": [
+        -98.77551,
+        18.75309
+    ],
+    "Huautla de Jiménez": [
+        -96.84088,
+        18.1315
+    ],
+    "Huautla": [
+        -98.28685,
+        21.03105
+    ],
+    "Huauchinango": [
+        -98.05422,
+        20.17251
+    ],
+    "Huatusco de Chicuellar": [
+        -96.96835,
+        19.15024
+    ],
+    "Huaquechula": [
+        -98.55,
+        18.76667
+    ],
+    "Huamuxtitlán": [
+        -98.56329,
+        17.80348
+    ],
+    "Hualahuises": [
+        -99.67439,
+        24.88572
+    ],
+    "Ciudad de Huajuapam de León": [
+        -97.77643,
+        17.80967
+    ],
+    "Ex-Hacienda el Hospital": [
+        -98.99667,
+        18.83111
+    ],
+    "Hornitos": [
+        -96.42111,
+        19.46083
+    ],
+    "Hopelchén": [
+        -89.84476,
+        19.74762
+    ],
+    "Homún": [
+        -89.28609,
+        20.73836
+    ],
+    "Hoctún": [
+        -89.20168,
+        20.86381
+    ],
+    "Hocabá": [
+        -89.24651,
+        20.816
+    ],
+    "Hidalgotitlán": [
+        -94.64713,
+        17.77128
+    ],
+    "Hidalgo": [
+        -99.61855,
+        25.8569
+    ],
+    "Santa Cruz Hidalgo": [
+        -96.87982,
+        19.96684
+    ],
+    "Hecelchakán": [
+        -90.13485,
+        20.17651
+    ],
+    "Halachó": [
+        -90.08065,
+        20.47836
+    ],
+    "Gutiérrez Zamora": [
+        -97.215,
+        19.72417
+    ],
+    "Nuevo Juan del Grijalva": [
+        -93.37222,
+        17.42722
+    ],
+    "Graciano Sánchez": [
+        -99.29646,
+        23.9258
+    ],
+    "General Terán": [
+        -99.68294,
+        25.2585
+    ],
+    "General Pedro Antonio Santos": [
+        -98.9674,
+        21.59799
+    ],
+    "General Bravo": [
+        -99.1808,
+        25.79172
+    ],
+    "Frontera Hidalgo": [
+        -92.1782,
+        14.77802
+    ],
+    "Frontera Comalapa": [
+        -92.14388,
+        15.65866
+    ],
+    "Frontera": [
+        -92.6453,
+        18.54326
+    ],
+    "Francisco I. Madero": [
+        -97.27073,
+        19.52788
+    ],
+    "Fortín de las Flores": [
+        -97,
+        18.90806
+    ],
+    "Fontezuelas": [
+        -98.87306,
+        20.48861
+    ],
+    "Flor de Cacao": [
+        -90.45111,
+        16.12889
+    ],
+    "Filomeno Mata": [
+        -97.70353,
+        20.20051
+    ],
+    "Felipe Carrillo Puerto": [
+        -102.70768,
+        19.16375
+    ],
+    "Ezequiel Montes": [
+        -99.89698,
+        20.6646
+    ],
+    "Puntilla Aldama": [
+        -96.90693,
+        20.18915
+    ],
+    "Espita": [
+        -88.30707,
+        21.00933
+    ],
+    "San José Esperanza": [
+        -97.40628,
+        18.86279
+    ],
+    "Escuintla": [
+        -92.65833,
+        15.31944
+    ],
+    "Escárcega": [
+        -90.74544,
+        18.60891
+    ],
+    "Villa Emilio Carranza": [
+        -96.6108,
+        19.97032
+    ],
+    "Emiliano Zapata": [
+        -90.62083,
+        16.28917
+    ],
+    "San Lucas": [
+        -100.78521,
+        18.591
+    ],
+    "El Tejar": [
+        -96.16097,
+        19.07433
+    ],
+    "El Rincón": [
+        -99.78472,
+        20.74111
+    ],
+    "San Marcos Eloxochitlán": [
+        -97.87194,
+        20.02528
+    ],
+    "El Ocotito": [
+        -99.51539,
+        17.246
+    ],
+    "El Nopal": [
+        -92.84503,
+        16.91148
+    ],
+    "Ciudad Mante": [
+        -98.97133,
+        22.74213
+    ],
+    "El Llano": [
+        -99.31883,
+        20.06394
+    ],
+    "El Limonar": [
+        -91.37765,
+        16.96911
+    ],
+    "El Higo": [
+        -98.45131,
+        21.76729
+    ],
+    "El Espinal": [
+        -96.8725,
+        19.62444
+    ],
+    "El Cazadero": [
+        -99.87067,
+        20.30222
+    ],
+    "El Castillo": [
+        -100.49297,
+        20.58072
+    ],
+    "El Carmen Aztama": [
+        -98.21944,
+        19.22972
+    ],
+    "El Bosque": [
+        -92.72147,
+        17.06273
+    ],
+    "El Arenal": [
+        -98.91222,
+        20.22139
+    ],
+    "Ejutla de Crespo": [
+        -96.73129,
+        16.56792
+    ],
+    "Ecatzingo de Hidalgo": [
+        -98.75198,
+        18.95508
+    ],
+    "Ecatepec": [
+        -99.06601,
+        19.61725
+    ],
+    "Dzitnup": [
+        -88.24473,
+        20.64711
+    ],
+    "Dzitbalché": [
+        -90.05609,
+        20.31916
+    ],
+    "Dzitás": [
+        -88.52904,
+        20.84014
+    ],
+    "Dzilam González": [
+        -88.92949,
+        21.28185
+    ],
+    "Dzidzantún": [
+        -89.04204,
+        21.24898
+    ],
+    "Dzibalchén": [
+        -89.73141,
+        19.45875
+    ],
+    "Dzemul": [
+        -89.30956,
+        21.21036
+    ],
+    "Dzan": [
+        -89.46971,
+        20.38779
+    ],
+    "Doxhicho": [
+        -99.55769,
+        19.92914
+    ],
+    "Doxey": [
+        -99.24198,
+        20.0901
+    ],
+    "Dos Ríos": [
+        -96.79944,
+        19.48417
+    ],
+    "Domingo Arenas": [
+        -98.45751,
+        19.14064
+    ],
+    "Cuzamá": [
+        -89.31693,
+        20.74198
+    ],
+    "Cunduacán": [
+        -93.17698,
+        18.06562
+    ],
+    "Cuitláhuac": [
+        -96.72392,
+        18.8138
+    ],
+    "Cuilapan de Guerrero": [
+        -96.78137,
+        16.97809
+    ],
+    "Cuichapa": [
+        -96.8698,
+        18.77223
+    ],
+    "Cuetzalán del Progreso": [
+        -97.52288,
+        20.01832
+    ],
+    "Cuernavaca": [
+        -99.23075,
+        18.9261
+    ],
+    "Cuautlapan": [
+        -97.02171,
+        18.87642
+    ],
+    "Cuautlancingo": [
+        -98.27137,
+        19.08912
+    ],
+    "Cuautla Morelos": [
+        -98.94555,
+        18.80459
+    ],
+    "Santiago Cuautlalpan": [
+        -99.28608,
+        19.68486
+    ],
+    "Cuautitlán": [
+        -99.17865,
+        19.67029
+    ],
+    "Cuautepec de Hinojosa": [
+        -98.3105,
+        20.03573
+    ],
+    "Cuautepec": [
+        -99.00298,
+        16.74959
+    ],
+    "Cuauchichinola": [
+        -99.37583,
+        18.66389
+    ],
+    "Cuapiaxtla de Madero": [
+        -97.82031,
+        18.91462
+    ],
+    "Cuapiaxtla": [
+        -97.76917,
+        19.2968
+    ],
+    "Cuanala": [
+        -98.33472,
+        19.10892
+    ],
+    "Cuajinicuilapa": [
+        -98.41252,
+        16.47322
+    ],
+    "Cuajimalpa": [
+        -99.29388,
+        19.35993
+    ],
+    "Cuacnopalan": [
+        -97.51017,
+        18.81699
+    ],
+    "Cruz Grande": [
+        -99.12367,
+        16.72352
+    ],
+    "Cruz del Milagro": [
+        -95.01083,
+        17.90833
+    ],
+    "Nuevo Crucitas": [
+        -99.20444,
+        22.10833
+    ],
+    "Cristóbal Obregón": [
+        -93.45689,
+        16.43246
+    ],
+    "San Miguel de Cozumel": [
+        -86.94598,
+        20.501
+    ],
+    "Coyutla": [
+        -97.65771,
+        20.24754
+    ],
+    "Coyotepec": [
+        -99.2114,
+        19.77708
+    ],
+    "Coyoacán": [
+        -99.16174,
+        19.3467
+    ],
+    "Coxquihui": [
+        -97.58576,
+        20.18404
+    ],
+    "Coxcatlán": [
+        -97.14996,
+        18.26682
+    ],
+    "Cosoleacaque": [
+        -94.63542,
+        17.99794
+    ],
+    "Cosolapa": [
+        -96.68278,
+        18.60194
+    ],
+    "Heroica Coscomatepec de Bravo": [
+        -97.04807,
+        19.07253
+    ],
+    "Cosautlán de Carvajal": [
+        -96.9903,
+        19.33196
+    ],
+    "Cosamaloapan de Carpio": [
+        -95.79634,
+        18.36678
+    ],
+    "Corral Nuevo": [
+        -95.11542,
+        18.11461
+    ],
+    "Córdoba": [
+        -96.93125,
+        18.88584
+    ],
+    "Copoya": [
+        -93.12058,
+        16.71195
+    ],
+    "Copalillo": [
+        -99.04058,
+        18.03537
+    ],
+    "Copala": [
+        -98.97702,
+        16.60733
+    ],
+    "Copainalá": [
+        -93.21037,
+        17.09292
+    ],
+    "San Bernardino Contla": [
+        -98.1664,
+        19.32932
+    ],
+    "Conkal": [
+        -89.51962,
+        21.07412
+    ],
+    "Concepción Capulac (La Ex-Hacienda)": [
+        -98.06139,
+        19.09444
+    ],
+    "Comoapan": [
+        -95.17415,
+        18.40684
+    ],
+    "Comitán": [
+        -92.13425,
+        16.24471
+    ],
+    "Comitancillo": [
+        -95.15649,
+        16.49134
+    ],
+    "Comales": [
+        -98.92037,
+        26.18187
+    ],
+    "Comalcalco": [
+        -93.2214,
+        18.26295
+    ],
+    "Colotepec": [
+        -99.28333,
+        17.06667
+    ],
+    "Cocula": [
+        -103.82215,
+        20.36517
+    ],
+    "Cocoyoc": [
+        -98.98194,
+        18.88417
+    ],
+    "Cocotitlán": [
+        -98.86596,
+        19.23336
+    ],
+    "Coba": [
+        -87.73888,
+        20.48298
+    ],
+    "Coatzintla": [
+        -97.46729,
+        20.48697
+    ],
+    "Coatzacoalcos": [
+        -94.4371,
+        18.14212
+    ],
+    "Coatetelco": [
+        -99.32707,
+        18.7302
+    ],
+    "Coatepec Harinas": [
+        -99.72153,
+        18.89492
+    ],
+    "Coatepec": [
+        -97.5935,
+        19.10768
+    ],
+    "Coapilla": [
+        -93.15925,
+        17.1303
+    ],
+    "San Juan Coajomulco": [
+        -99.96861,
+        19.75306
+    ],
+    "Coacoatzintla": [
+        -96.93998,
+        19.65131
+    ],
+    "Coacalco": [
+        -99.1005,
+        19.63452
+    ],
+    "Ciudad Victoria": [
+        -99.14599,
+        23.74174
+    ],
+    "Ciudad Valles": [
+        -99.01667,
+        21.98333
+    ],
+    "Ciudad Serdán": [
+        -97.44702,
+        18.9894
+    ],
+    "Ciudad Sahagún": [
+        -98.57475,
+        19.77511
+    ],
+    "Ciudad Pemex": [
+        -92.48489,
+        17.88358
+    ],
+    "Ciudad Nezahualcóyotl": [
+        -99.01483,
+        19.40061
+    ],
+    "Ciudad Miguel Alemán": [
+        -99.1,
+        26.35
+    ],
+    "Ciudad Mendoza": [
+        -97.17777,
+        18.80615
+    ],
+    "Ciudad Madero": [
+        -97.8349,
+        22.27538
+    ],
+    "Ciudad Fernández": [
+        -100.0117,
+        21.94037
+    ],
+    "Mexico City": [
+        -99.12766,
+        19.42847
+    ],
+    "Ciudad del Maíz": [
+        -99.60056,
+        22.40153
+    ],
+    "Ciudad del Carmen": [
+        -91.82471,
+        18.64973
+    ],
+    "Cintalapa de Figueroa": [
+        -93.72352,
+        16.69567
+    ],
+    "Cieneguilla": [
+        -100.27389,
+        21.24833
+    ],
+    "Chunhuhub": [
+        -88.5922,
+        19.58533
+    ],
+    "Chumayel": [
+        -89.30111,
+        20.42833
+    ],
+    "Chumatlán": [
+        -97.5946,
+        20.20644
+    ],
+    "Chontalpa": [
+        -93.48163,
+        17.66516
+    ],
+    "San Pedro Chochula": [
+        -99.48525,
+        19.26286
+    ],
+    "Cholula": [
+        -98.30352,
+        19.06406
+    ],
+    "Cholul": [
+        -89.29097,
+        21.00981
+    ],
+    "Chocholá": [
+        -89.83024,
+        20.75096
+    ],
+    "Chocamán": [
+        -97.03178,
+        19.01228
+    ],
+    "Chinampa de Gorostiza": [
+        -97.73484,
+        21.35959
+    ],
+    "Chinameca": [
+        -94.67892,
+        18.01919
+    ],
+    "China": [
+        -99.23799,
+        25.70131
+    ],
+    "Chiná": [
+        -90.49594,
+        19.76993
+    ],
+    "San Francisco Chimalpa": [
+        -99.34136,
+        19.44287
+    ],
+    "Chilpancingo de los Bravos": [
+        -99.50578,
+        17.5506
+    ],
+    "Chilón": [
+        -92.41667,
+        17.23333
+    ],
+    "Chilapa": [
+        -105.23159,
+        22.03196
+    ],
+    "Chilapa de Alvarez": [
+        -99.17639,
+        17.59459
+    ],
+    "Chikindzonot": [
+        -88.48612,
+        20.3334
+    ],
+    "Chignautla": [
+        -97.38778,
+        19.8207
+    ],
+    "Chignahuapan": [
+        -98.03171,
+        19.83866
+    ],
+    "Chietla": [
+        -98.57889,
+        18.52028
+    ],
+    "Chicxulub": [
+        -89.51623,
+        21.13671
+    ],
+    "Chicualoque": [
+        -97.66163,
+        20.38272
+    ],
+    "Chicontepec": [
+        -98.17192,
+        20.9718
+    ],
+    "Chiconcuac": [
+        -98.89884,
+        19.55939
+    ],
+    "Chicomuselo": [
+        -92.28599,
+        15.74296
+    ],
+    "San Vicente Chicoloapan": [
+        -98.90202,
+        19.41686
+    ],
+    "Chicola": [
+        -97.10806,
+        18.90139
+    ],
+    "Chichiquila": [
+        -97.06646,
+        19.2008
+    ],
+    "Chichimilá": [
+        -88.21607,
+        20.63154
+    ],
+    "Chichihualco": [
+        -99.67721,
+        17.65886
+    ],
+    "Chichén-Itzá": [
+        -88.56667,
+        20.66667
+    ],
+    "Chiautla de Tapia": [
+        -98.6027,
+        18.30076
+    ],
+    "Chiautla": [
+        -98.88236,
+        19.54895
+    ],
+    "Chiapilla": [
+        -92.71998,
+        16.56932
+    ],
+    "Chiapa de Corzo": [
+        -92.98804,
+        16.71375
+    ],
+    "Chetumal": [
+        -88.301,
+        18.51138
+    ],
+    "Chemax": [
+        -87.93614,
+        20.65569
+    ],
+    "Chelem": [
+        -89.74277,
+        21.26915
+    ],
+    "Chapulhuacán": [
+        -98.90314,
+        21.15621
+    ],
+    "Chanal": [
+        -92.4,
+        16.71667
+    ],
+    "Chamula": [
+        -92.68959,
+        16.78416
+    ],
+    "Champotón": [
+        -90.72576,
+        19.34441
+    ],
+    "Chalco de Díaz Covarrubias": [
+        -98.89775,
+        19.26174
+    ],
+    "Chahuite": [
+        -94.18333,
+        16.3
+    ],
+    "Chacaltianguis": [
+        -95.84167,
+        18.30528
+    ],
+    "Chacalapa": [
+        -94.70271,
+        18.07801
+    ],
+    "Cerro Gordo": [
+        -101.12713,
+        20.5925
+    ],
+    "Cerro Azul": [
+        -97.74088,
+        21.192
+    ],
+    "San Miguel Cerezo (El Cerezo)": [
+        -98.72854,
+        20.15909
+    ],
+    "Cepeda": [
+        -90.10972,
+        20.50627
+    ],
+    "Cenotillo": [
+        -88.60434,
+        20.96643
+    ],
+    "Celestún": [
+        -90.39807,
+        20.86071
+    ],
+    "Cazones": [
+        -97.30977,
+        20.70408
+    ],
+    "Caxhuacán": [
+        -97.60746,
+        20.06361
+    ],
+    "Caucel": [
+        -89.70368,
+        21.01591
+    ],
+    "Catemaco": [
+        -95.11398,
+        18.42131
+    ],
+    "Castillo de Teayo": [
+        -97.6327,
+        20.7495
+    ],
+    "Carlos A. Carrillo": [
+        -95.75508,
+        18.37424
+    ],
+    "Cárdenas": [
+        -93.37835,
+        17.99647
+    ],
+    "Capulhuac": [
+        -99.46512,
+        19.19305
+    ],
+    "Cansahcab": [
+        -89.10294,
+        21.15734
+    ],
+    "Cancún": [
+        -86.84656,
+        21.17429
+    ],
+    "Cancuc": [
+        -92.48333,
+        16.91667
+    ],
+    "Campeche": [
+        -90.5277,
+        19.83803
+    ],
+    "Camargo": [
+        -98.84353,
+        26.25457
+    ],
+    "Caltenco": [
+        -97.81737,
+        18.8849
+    ],
+    "Calpulalpan": [
+        -98.5684,
+        19.58848
+    ],
+    "Calnalí": [
+        -98.58443,
+        20.89763
+    ],
+    "Calmeca": [
+        -98.63444,
+        18.63609
+    ],
+    "Calkiní": [
+        -90.05097,
+        20.3714
+    ],
+    "Calixtlahuaca": [
+        -99.68835,
+        19.33538
+    ],
+    "Calimaya de Díaz González": [
+        -99.61833,
+        19.16219
+    ],
+    "Calderitas": [
+        -88.25532,
+        18.55532
+    ],
+    "Cadereyta de Montes": [
+        -99.81535,
+        20.69779
+    ],
+    "Cadereyta": [
+        -99.98333,
+        25.58333
+    ],
+    "Cacaotepec": [
+        -96.8059,
+        17.13077
+    ],
+    "Cacalotenango": [
+        -99.64361,
+        18.54639
+    ],
+    "Cacaloxúchitl": [
+        -98.48614,
+        18.78747
+    ],
+    "Cacalomacán": [
+        -99.70578,
+        19.25234
+    ],
+    "Cacalchén": [
+        -89.22635,
+        20.98306
+    ],
+    "Cacahoatán": [
+        -92.16642,
+        14.99279
+    ],
+    "Buenavista de Cuéllar": [
+        -99.40848,
+        18.46
+    ],
+    "Buena Vista": [
+        -96.85667,
+        19.04278
+    ],
+    "Buenavista": [
+        -99.16944,
+        19.60833
+    ],
+    "Buctzotz": [
+        -88.79271,
+        21.20303
+    ],
+    "Bochil": [
+        -92.89322,
+        16.99584
+    ],
+    "Miguel Bocanegra": [
+        -99.11206,
+        19.8451
+    ],
+    "Boca del Río": [
+        -96.1,
+        19.1
+    ],
+    "Boca del Monte": [
+        -96.8298,
+        19.15842
+    ],
+    "Blasillo 1ra. Sección (Nicolás Bravo)": [
+        -93.91833,
+        18.07861
+    ],
+    "Berriozábal": [
+        -93.27249,
+        16.79925
+    ],
+    "Benito Juárez": [
+        -100.46667,
+        19.23333
+    ],
+    "Belén": [
+        -92.61294,
+        17.78891
+    ],
+    "Becal": [
+        -90.02824,
+        20.44248
+    ],
+    "Banderilla": [
+        -96.93639,
+        19.58865
+    ],
+    "Nuevo Balsas": [
+        -99.75913,
+        18.03253
+    ],
+    "Balancán de Domínguez": [
+        -91.53744,
+        17.80702
+    ],
+    "Bajos del Ejido": [
+        -99.97044,
+        16.96123
+    ],
+    "Bacalar": [
+        -88.39293,
+        18.67952
+    ],
+    "Baca": [
+        -89.39843,
+        21.10871
+    ],
+    "Azoyú": [
+        -98.60235,
+        16.73292
+    ],
+    "Azcapotzalco": [
+        -99.18594,
+        19.48698
+    ],
+    "Ayutla de los Libres": [
+        -99.21667,
+        16.9
+    ],
+    "Ayutla": [
+        -104.34355,
+        20.12906
+    ],
+    "Ayotzintepec": [
+        -96.12879,
+        17.67332
+    ],
+    "Ayometitla": [
+        -98.19306,
+        19.20722
+    ],
+    "Ayapango": [
+        -98.79988,
+        19.12692
+    ],
+    "Ayapa": [
+        -93.11026,
+        18.22507
+    ],
+    "Ciudad Ayala": [
+        -98.98222,
+        18.76694
+    ],
+    "San Miguel Axoxuca": [
+        -98.66163,
+        17.5493
+    ],
+    "Axochiapan": [
+        -98.75219,
+        18.50307
+    ],
+    "Axixintla": [
+        -99.51806,
+        18.60222
+    ],
+    "Axapusco": [
+        -98.75802,
+        19.72499
+    ],
+    "Atzitzintla": [
+        -97.32463,
+        18.89899
+    ],
+    "Atzala": [
+        -98.55306,
+        18.54639
+    ],
+    "Atzacán": [
+        -97.08377,
+        18.90675
+    ],
+    "Atoyatempan": [
+        -97.91446,
+        18.82198
+    ],
+    "Atotonilco el Grande": [
+        -98.66736,
+        20.28653
+    ],
+    "Atlzayanca": [
+        -97.79556,
+        19.43111
+    ],
+    "Atlixco": [
+        -98.43613,
+        18.90815
+    ],
+    "Atliaca": [
+        -99.37519,
+        17.65166
+    ],
+    "Atlautla": [
+        -98.77859,
+        19.02188
+    ],
+    "Atlatongo": [
+        -98.90355,
+        19.66764
+    ],
+    "Atlatlahucan": [
+        -98.89797,
+        18.93537
+    ],
+    "Atlatlahuaca": [
+        -99.60961,
+        19.06906
+    ],
+    "Atlacomulco": [
+        -99.87376,
+        19.80038
+    ],
+    "Ciudad López Mateos": [
+        -99.26034,
+        19.58547
+    ],
+    "Atizapán": [
+        -99.55,
+        19.25
+    ],
+    "Atitalaquia": [
+        -99.22163,
+        20.05964
+    ],
+    "Atengo": [
+        -99.32158,
+        20.1783
+    ],
+    "Atencingo": [
+        -98.60911,
+        18.50967
+    ],
+    "Atempan": [
+        -97.45804,
+        19.83721
+    ],
+    "Asunción Ocotlán": [
+        -96.72137,
+        16.76194
+    ],
+    "Asunción Nochixtlán": [
+        -97.22332,
+        17.45808
+    ],
+    "Asunción Ixtaltepec": [
+        -95.06076,
+        16.50312
+    ],
+    "Aquiles Serdán": [
+        -93.0134,
+        18.4135
+    ],
+    "Apizaco": [
+        -98.14358,
+        19.41333
+    ],
+    "Apaxtla de Castrejón": [
+        -99.93255,
+        18.13127
+    ],
+    "Apaxco de Ocampo": [
+        -99.17129,
+        19.97571
+    ],
+    "San Pedro Apatlaco": [
+        -98.95972,
+        18.79306
+    ],
+    "Apango": [
+        -99.32849,
+        17.74068
+    ],
+    "Apan": [
+        -98.45152,
+        19.71154
+    ],
+    "Antón Lizardo": [
+        -95.99084,
+        19.05903
+    ],
+    "Antiguo Morelos": [
+        -99.08123,
+        22.5495
+    ],
+    "Ángel R. Cabada": [
+        -95.44571,
+        18.59564
+    ],
+    "Ángel Albino Corzo": [
+        -92.72379,
+        15.87198
+    ],
+    "Anenecuilco": [
+        -98.98841,
+        18.76891
+    ],
+    "Anáhuac": [
+        -100.13222,
+        27.24056
+    ],
+    "San Pedro Amuzgos": [
+        -98.09008,
+        16.65252
+    ],
+    "Amozoc de Mota": [
+        -98.045,
+        19.04611
+    ],
+    "San Miguel Ameyalco": [
+        -99.45806,
+        19.30639
+    ],
+    "Amecameca de Juárez": [
+        -98.76649,
+        19.12384
+    ],
+    "Amayuca": [
+        -98.79746,
+        18.72371
+    ],
+    "Amatlán de los Reyes": [
+        -96.91494,
+        18.84575
+    ],
+    "Amatenango del Valle": [
+        -92.45,
+        16.51667
+    ],
+    "Amatán": [
+        -92.8184,
+        17.37339
+    ],
+    "Amacuzac": [
+        -99.36944,
+        18.59861
+    ],
+    "Álvaro Obregón": [
+        -101.04001,
+        19.82376
+    ],
+    "Alvarado": [
+        -95.76063,
+        18.77072
+    ],
+    "Altotonga": [
+        -97.24533,
+        19.76493
+    ],
+    "Alto Lucero": [
+        -97.44194,
+        20.95361
+    ],
+    "Altepexi": [
+        -97.29832,
+        18.36886
+    ],
+    "Altamirano": [
+        -92.15,
+        16.88333
+    ],
+    "Altamira": [
+        -97.93953,
+        22.39322
+    ],
+    "Alpuyeca": [
+        -99.25943,
+        18.74126
+    ],
+    "Alpoyeca": [
+        -98.50968,
+        17.67301
+    ],
+    "San Antonio Alpanocan": [
+        -98.71083,
+        18.87722
+    ],
+    "Villa de Almoloya de Juárez": [
+        -99.75836,
+        19.36915
+    ],
+    "Almoloya": [
+        -100.13301,
+        18.97293
+    ],
+    "Almoloya del Río": [
+        -99.48728,
+        19.15981
+    ],
+    "San Miguel Almaya": [
+        -99.44157,
+        19.21031
+    ],
+    "Ignacio Allende": [
+        -92.84418,
+        18.38299
+    ],
+    "Allende": [
+        -100.02146,
+        25.28412
+    ],
+    "Aljojuca": [
+        -97.52943,
+        19.0987
+    ],
+    "Alfredo M. Terrazas": [
+        -98.87581,
+        21.43916
+    ],
+    "Aldama": [
+        -101.31527,
+        20.81564
+    ],
+    "Álamo": [
+        -97.67469,
+        20.90992
+    ],
+    "Akil": [
+        -89.34774,
+        20.26471
+    ],
+    "Ajalpan": [
+        -97.25766,
+        18.37831
+    ],
+    "Ahuehuetzingo": [
+        -99.30834,
+        18.68024
+    ],
+    "Lomas de Ahuatepec": [
+        -99.18972,
+        18.97139
+    ],
+    "Ahuacatitlán Cuarto y Quinto Cuartel": [
+        -99.98694,
+        19.96222
+    ],
+    "Agua Dulce": [
+        -94.14364,
+        18.14233
+    ],
+    "Acultzingo": [
+        -97.30238,
+        18.7189
+    ],
+    "Actopan": [
+        -96.61582,
+        19.50447
+    ],
+    "Atltzayanca de Hidalgo": [
+        -97.79609,
+        19.43171
+    ],
+    "Acoyotla": [
+        -98.77748,
+        21.12536
+    ],
+    "Achichipico": [
+        -98.82611,
+        18.94861
+    ],
+    "San Jerónimo Acazulco": [
+        -99.41583,
+        19.265
+    ],
+    "Acayucan": [
+        -94.91399,
+        17.94885
+    ],
+    "Acayuca": [
+        -98.84097,
+        20.02639
+    ],
+    "Acaxochitlán": [
+        -98.20052,
+        20.15809
+    ],
+    "Acatzingo de Hidalgo": [
+        -97.78474,
+        18.98036
+    ],
+    "Acatlán de Pérez Figueroa": [
+        -96.60601,
+        18.53912
+    ],
+    "Acatlán de Osorio": [
+        -98.04864,
+        18.2025
+    ],
+    "Acatepec": [
+        -98.4275,
+        16.7375
+    ],
+    "Acatempan": [
+        -99.88386,
+        18.31818
+    ],
+    "Acapulco": [
+        -99.8901,
+        16.86336
+    ],
+    "Acapetagua": [
+        -92.69032,
+        15.28184
+    ],
+    "Acancéh": [
+        -89.45158,
+        20.81257
+    ],
+    "Acamixtla": [
+        -99.57206,
+        18.56216
+    ],
+    "Acambay": [
+        -99.84289,
+        19.95518
+    ],
+    "Acala": [
+        -92.80525,
+        16.55397
+    ],
+    "Acajete": [
+        -97.95104,
+        19.10412
+    ],
+    "Acahuizotla": [
+        -99.46759,
+        17.36054
+    ],
+    "San Antonio Acahualco": [
+        -99.77166,
+        19.27554
+    ],
+    "Acacoyagua": [
+        -92.67559,
+        15.34094
+    ],
+    "Abasolo del Valle": [
+        -95.54556,
+        17.78306
+    ],
+    "Abasolo": [
+        -101.53,
+        20.45001
+    ],
+    "Talismán": [
+        -92.14722,
+        14.96333
+    ],
+    "San Nicolás Tecomatlán": [
+        -99.03639,
+        20.17944
+    ],
+    "Ajacuba": [
+        -99.12246,
+        20.0917
+    ],
+    "San Pablo de los Remedios": [
+        -99.83833,
+        19.64111
+    ],
+    "San Mateo Tezoquipan": [
+        -98.81333,
+        19.22492
+    ],
+    "San Miguel Tecomatlán": [
+        -99.52861,
+        18.97833
+    ],
+    "Higuerón": [
+        -99.18056,
+        18.5775
+    ],
+    "Cuauhtempan (San Andrés Cuauhtempan)": [
+        -98.94639,
+        18.97472
+    ],
+    "Tlaltetelco (San Miguel Tlaltetelco)": [
+        -98.88806,
+        18.95222
+    ],
+    "Huecahuasco": [
+        -98.7825,
+        18.93694
+    ],
+    "San Lorenzo Cacaotepec": [
+        -96.8,
+        17.12833
+    ],
+    "Santiago Tlacotepec": [
+        -99.67082,
+        19.22632
+    ],
+    "San José Río Manzo": [
+        -95.88012,
+        17.67003
+    ],
+    "Santa María Puxmetacán": [
+        -95.62333,
+        17.26861
+    ],
+    "Santiago Malacatepec": [
+        -95.6075,
+        17.01639
+    ],
+    "Santo Domingo Tomaltepec": [
+        -96.62278,
+        17.06056
+    ],
+    "San Antonio de la Cal": [
+        -96.70056,
+        17.02833
+    ],
+    "San Agustin de las Juntas": [
+        -96.70806,
+        17.00389
+    ],
+    "Magdalena Apasco": [
+        -96.82083,
+        17.24083
+    ],
+    "Congregación Calles": [
+        -99.93472,
+        25.22528
+    ],
+    "Santa Rosa": [
+        -95.09944,
+        16.31655
+    ],
+    "El Bajío": [
+        -95.03528,
+        16.88917
+    ],
+    "El Arador": [
+        -97.18194,
+        16.54111
+    ],
+    "San Agustín Chayuco": [
+        -97.80694,
+        16.40139
+    ],
+    "San Juan Jicayán": [
+        -98.0125,
+        16.47583
+    ],
+    "Santiago Llano Grande": [
+        -98.28972,
+        16.48833
+    ],
+    "Santo Domingo Armenta": [
+        -98.37778,
+        16.33194
+    ],
+    "José María Morelos": [
+        -97.46736,
+        19.14068
+    ],
+    "Santiago Tetepec": [
+        -97.74778,
+        16.32126
+    ],
+    "San Cristóbal Honduras": [
+        -97.04111,
+        16.32528
+    ],
+    "Santos Reyes Nopala": [
+        -97.14435,
+        16.10694
+    ],
+    "San Miguel Figueroa": [
+        -96.40417,
+        15.78639
+    ],
+    "San Antonio Huitepec": [
+        -97.14694,
+        16.92667
+    ],
+    "Santa María Lachixío": [
+        -97.01889,
+        16.72694
+    ],
+    "El Jicaral": [
+        -98.19693,
+        17.12603
+    ],
+    "San Miguel Tlacotepec": [
+        -98.00602,
+        17.45437
+    ],
+    "Santiago Tamazola": [
+        -98.22138,
+        17.66957
+    ],
+    "Tamazulapan del Progreso": [
+        -97.57251,
+        17.67694
+    ],
+    "Mariscala de Juárez": [
+        -98.14083,
+        17.85972
+    ],
+    "San Lorenzo Vista Hermosa": [
+        -98.06852,
+        17.95888
+    ],
+    "Teotitlán de Flores Magón": [
+        -97.07068,
+        18.13225
+    ],
+    "Tezonapa": [
+        -96.68461,
+        18.60729
+    ],
+    "Piedra de Amolar": [
+        -96.45098,
+        18.12008
+    ],
+    "Isla Soyaltepec": [
+        -96.48278,
+        18.20138
+    ],
+    "Tetela": [
+        -96.4582,
+        18.5073
+    ],
+    "Benemérito Juárez": [
+        -96.00194,
+        18.11944
+    ],
+    "Macín Chico": [
+        -96.27184,
+        18.0682
+    ],
+    "Tanetze de Zaragoza": [
+        -96.30083,
+        17.37556
+    ],
+    "San Felipe Zihualtepec": [
+        -95.3678,
+        17.47661
+    ],
+    "El Paraíso": [
+        -95.14224,
+        17.51516
+    ],
+    "Paso Real de Sarabia": [
+        -95.04667,
+        17.07389
+    ],
+    "Guadalupe Etla": [
+        -96.80977,
+        17.17272
+    ],
+    "Santa María Coyotepec": [
+        -96.70513,
+        16.96663
+    ],
+    "Guadalupe Victoria": [
+        -105.3275,
+        21.67972
+    ],
+    "Santo Domingo Tepuxtepec": [
+        -96.05528,
+        16.95556
+    ],
+    "El Coyul": [
+        -95.81028,
+        15.91472
+    ],
+    "La Herradura": [
+        -96.33478,
+        15.83402
+    ],
+    "La Blanca": [
+        -94.6921,
+        16.59424
+    ],
+    "Occidente 4ta. Sección": [
+        -93.23388,
+        18.30347
+    ],
+    "Miguel Hidalgo": [
+        -99.20091,
+        19.43471
+    ],
+    "Oriente 1ra. Sección": [
+        -93.20056,
+        18.33889
+    ],
+    "Tecoluta 2da. Sección": [
+        -93.01956,
+        18.24408
+    ],
+    "Gobernador Cruz": [
+        -92.87158,
+        18.43468
+    ],
+    "Villa La Venta": [
+        -94.04668,
+        18.09809
+    ],
+    "Poblado C-11 José María Morelos y Pavón": [
+        -93.62356,
+        18.17419
+    ],
+    "El Tular": [
+        -93.3382,
+        18.15429
+    ],
+    "Cúlico 2da. Sección": [
+        -93.13222,
+        18.14116
+    ],
+    "Cumuapa 1ra. Sección": [
+        -93.13806,
+        17.98519
+    ],
+    "Saloya 2da. Sección": [
+        -92.93639,
+        18.05306
+    ],
+    "Tres Bocas 1ra. Sección": [
+        -93.87444,
+        17.93231
+    ],
+    "Huapacal 1ra. Sección": [
+        -93.76639,
+        17.92667
+    ],
+    "Paso de la Mina 3ra. Sección": [
+        -93.66582,
+        17.96335
+    ],
+    "Parrilla": [
+        -92.91775,
+        17.91418
+    ],
+    "Río de Teapa": [
+        -92.90042,
+        17.78282
+    ],
+    "Aquiles Serdán 1ra. Sección": [
+        -92.73977,
+        17.82474
+    ],
+    "Palomas": [
+        -92.47778,
+        17.65474
+    ],
+    "Libertad": [
+        -92.71502,
+        17.41028
+    ],
+    "Tepehuacán de Guerrero": [
+        -98.84278,
+        21.01361
+    ],
+    "Zacualtipanito": [
+        -98.79997,
+        21.15407
+    ],
+    "Chalahuiyapa": [
+        -98.3645,
+        21.15028
+    ],
+    "Tecacahuaco": [
+        -98.33889,
+        20.94133
+    ],
+    "Zoquitipán": [
+        -98.43218,
+        20.90922
+    ],
+    "Barrio Aztlán": [
+        -98.08553,
+        20.46562
+    ],
+    "Santa María Amajac": [
+        -98.74222,
+        20.32389
+    ],
+    "Pozuelos": [
+        -99.05972,
+        20.49333
+    ],
+    "Taxadho": [
+        -99.14921,
+        20.43328
+    ],
+    "El Nith": [
+        -99.19194,
+        20.48778
+    ],
+    "San Bartolo Ozocalpan": [
+        -99.48906,
+        20.22336
+    ],
+    "General Pedro María Anaya": [
+        -99.348,
+        20.156
+    ],
+    "Presas": [
+        -99.25242,
+        20.15946
+    ],
+    "La Cruz": [
+        -106.8925,
+        23.92126
+    ],
+    "Munitepec de Madero": [
+        -99.19948,
+        20.12858
+    ],
+    "Colonia Teñhe": [
+        -99.17866,
+        20.19291
+    ],
+    "El Huixmí": [
+        -98.81972,
+        20.07569
+    ],
+    "Nuevo Centro de Población Agrícola el Chacón": [
+        -98.73944,
+        20.07028
+    ],
+    "Carboneras": [
+        -98.70528,
+        20.09
+    ],
+    "Camelia (Barrio la Camelia)": [
+        -98.72222,
+        20.14917
+    ],
+    "Ahuehuetitla": [
+        -98.41667,
+        20.08444
+    ],
+    "Vicente Guerrero (San Javier)": [
+        -98.90135,
+        19.94991
+    ],
+    "San José Tepeyahualco": [
+        -98.26889,
+        19.59944
+    ],
+    "Lagunilla": [
+        -98.2746,
+        19.63684
+    ],
+    "La Soledad": [
+        -98.61771,
+        19.53907
+    ],
+    "San José Teacalco": [
+        -98.06455,
+        19.33558
+    ],
+    "Colonia Venustiano Carranza": [
+        -98.05822,
+        19.40005
+    ],
+    "Santa Cruz Pocitos": [
+        -97.76116,
+        19.37924
+    ],
+    "Tequixquitla": [
+        -97.65579,
+        19.32545
+    ],
+    "Huamantla": [
+        -97.92322,
+        19.31491
+    ],
+    "Ixtenco": [
+        -97.89472,
+        19.25111
+    ],
+    "Zitlaltépec": [
+        -97.90722,
+        19.20389
+    ],
+    "Colonia Cuauhtémoc": [
+        -97.96487,
+        19.33182
+    ],
+    "Tetlanohcán": [
+        -98.16433,
+        19.2603
+    ],
+    "Mazatecochco": [
+        -98.18917,
+        19.17861
+    ],
+    "Xicohtzinco": [
+        -98.23333,
+        19.17361
+    ],
+    "Concepción Chimalpa": [
+        -98.19806,
+        19.21639
+    ],
+    "Acuamanala": [
+        -98.20056,
+        19.22361
+    ],
+    "Tlaltelulco": [
+        -98.1925,
+        19.27724
+    ],
+    "Tepeyanco": [
+        -98.23471,
+        19.24569
+    ],
+    "San Jerónimo Zacualpan": [
+        -98.26139,
+        19.24083
+    ],
+    "Zacatelco": [
+        -98.23972,
+        19.21583
+    ],
+    "Tetlatlahuca": [
+        -98.29528,
+        19.23056
+    ],
+    "Santa Cruz Aquiahuac": [
+        -98.28222,
+        19.23944
+    ],
+    "Tlaxcala": [
+        -98.20959,
+        19.32076
+    ],
+    "Totolac": [
+        -98.2575,
+        19.32691
+    ],
+    "Tenancingo": [
+        -98.20211,
+        19.14667
+    ],
+    "Vicente Guerrero": [
+        -93.58306,
+        16.66028
+    ],
+    "Guadalupe Texcalac": [
+        -98.07704,
+        19.43779
+    ],
+    "Pueblo Juárez": [
+        -93.15906,
+        17.6428
+    ],
+    "Nuevo Nicapa": [
+        -93.07172,
+        17.63419
+    ],
+    "Catazajá": [
+        -92.01417,
+        17.725
+    ],
+    "Lacandón": [
+        -91.59578,
+        17.02116
+    ],
+    "Nuevo Limar": [
+        -92.3989,
+        17.45514
+    ],
+    "El Limar": [
+        -92.40293,
+        17.4149
+    ],
+    "Pueblo Nuevo Sitalá": [
+        -92.4836,
+        17.13903
+    ],
+    "Pantelhó": [
+        -92.46889,
+        17.00556
+    ],
+    "José María Morelos y Pavón": [
+        -92.70231,
+        17.24105
+    ],
+    "Rincón Chamula": [
+        -92.93873,
+        17.2072
+    ],
+    "San Miguel la Sardina": [
+        -93.3525,
+        17.29417
+    ],
+    "Adolfo López Mateos": [
+        -107.3,
+        28.46667
+    ],
+    "José María Pino Suárez": [
+        -93.73774,
+        16.50634
+    ],
+    "Alfonso Moguel": [
+        -93.50639,
+        16.6675
+    ],
+    "Hermenegildo Galeana": [
+        -98.10222,
+        18.25667
+    ],
+    "Ignacio Zaragoza (El Morro)": [
+        -93.35083,
+        16.59944
+    ],
+    "Larráinzar": [
+        -92.71333,
+        16.88361
+    ],
+    "Benemérito de las Américas": [
+        -90.65442,
+        16.51513
+    ],
+    "Chihuahua": [
+        -106.08889,
+        28.63528
+    ],
+    "Yasha": [
+        -92.06875,
+        16.39149
+    ],
+    "Mariano Matamoros": [
+        -92.58472,
+        16.48119
+    ],
+    "Ricardo Flores Magón": [
+        -92.69618,
+        16.39396
+    ],
+    "Presidente Echeverría (Laja Tendida)": [
+        -92.66861,
+        16.33583
+    ],
+    "Nueva Libertad": [
+        -92.80924,
+        16.09026
+    ],
+    "Unión Buenavista": [
+        -92.81907,
+        16.48496
+    ],
+    "Manuel Ávila Camacho": [
+        -93.01712,
+        16.14581
+    ],
+    "Doctor Domingo Chanona": [
+        -93.41667,
+        16.34611
+    ],
+    "Joaquín Miguel Gutiérrez": [
+        -93.36556,
+        16.37
+    ],
+    "Nuevo México": [
+        -101.48417,
+        20.98479
+    ],
+    "Libertad Melchor Ocampo": [
+        -93.475,
+        16.37389
+    ],
+    "Agrónomos Mexicanos": [
+        -93.53,
+        16.35
+    ],
+    "Julián Grajales": [
+        -93.71417,
+        16.42917
+    ],
+    "Tonalá": [
+        -103.23423,
+        20.62445
+    ],
+    "Tierra y Libertad": [
+        -93.86056,
+        16.37889
+    ],
+    "Tiltepec": [
+        -93.86972,
+        16.39389
+    ],
+    "Villamorelos": [
+        -93.92778,
+        16.48
+    ],
+    "Arriaga": [
+        -93.90184,
+        16.2375
+    ],
+    "San Luqueño": [
+        -93.84583,
+        16.01278
+    ],
+    "Paredón": [
+        -93.86667,
+        16.05083
+    ],
+    "Doctor Belisario Domínguez (La Barra)": [
+        -93.70404,
+        15.88947
+    ],
+    "Manuel Ávila Camacho (Ponte Duro)": [
+        -93.58933,
+        15.80973
+    ],
+    "El Palmarcito": [
+        -93.21387,
+        15.49728
+    ],
+    "Pilcaya": [
+        -99.6758,
+        18.74754
+    ],
+    "San Gaspar": [
+        -99.54861,
+        18.7775
+    ],
+    "San Andrés Nicolás Bravo": [
+        -99.46528,
+        18.76778
+    ],
+    "El Terrero": [
+        -99.64528,
+        18.79028
+    ],
+    "San José Chalmita": [
+        -99.54831,
+        18.85862
+    ],
+    "San Pablo Tejalpa": [
+        -99.59111,
+        18.86667
+    ],
+    "La Finca": [
+        -99.64028,
+        18.89047
+    ],
+    "Acatzingo (Acatzingo de la Piedra)": [
+        -99.58861,
+        18.92389
+    ],
+    "El Carmen (El Desierto del Carmen)": [
+        -99.55667,
+        18.92028
+    ],
+    "Tepalcatepec": [
+        -102.84926,
+        19.18666
+    ],
+    "Jesús Carranza (Rancho de Jesús)": [
+        -99.63056,
+        18.94528
+    ],
+    "Santiago Oxtotitlán": [
+        -99.66792,
+        18.96114
+    ],
+    "San Agustín": [
+        -99.93913,
+        18.94257
+    ],
+    "Texcapilla": [
+        -99.89561,
+        18.9459
+    ],
+    "El Salitre": [
+        -100.42288,
+        20.66596
+    ],
+    "Chalchihuapan": [
+        -99.57472,
+        18.97694
+    ],
+    "Tepoxtepec": [
+        -99.55639,
+        18.96278
+    ],
+    "San Miguel": [
+        -99.66639,
+        18.99389
+    ],
+    "Santa Cruz Pueblo Nuevo (Pueblo Nuevo)": [
+        -99.65806,
+        19.1
+    ],
+    "Cerro La Calera": [
+        -99.81667,
+        19.18333
+    ],
+    "San Juan Tlacotompa (Tlacotompa)": [
+        -98.79056,
+        18.94111
+    ],
+    "San Juan Tepecoculco": [
+        -98.7875,
+        18.98306
+    ],
+    "Tezoyuca": [
+        -98.91037,
+        19.59481
+    ],
+    "Acolman": [
+        -98.92407,
+        19.62375
+    ],
+    "San Pablo Ixquitlán": [
+        -98.78833,
+        19.70944
+    ],
+    "San Antonio de las Palmas": [
+        -98.8562,
+        19.7181
+    ],
+    "Ixtlahuaca de Cuauhtémoc": [
+        -98.86028,
+        19.88139
+    ],
+    "La Soledad Barrio": [
+        -99.82306,
+        20.09194
+    ],
+    "San Juan Daxthi": [
+        -99.52479,
+        20.09877
+    ],
+    "La Comunidad": [
+        -99.57611,
+        20.02111
+    ],
+    "Ganzda": [
+        -99.8475,
+        19.99
+    ],
+    "Bobashi de Guadalupe": [
+        -99.91167,
+        19.87583
+    ],
+    "San Luis Anáhuac (Toriles)": [
+        -99.40029,
+        19.79679
+    ],
+    "Santiago Casandeje": [
+        -99.96917,
+        19.76972
+    ],
+    "Santa Ana Ixtlahuaca (Santa Ana Ixtlahuacingo)": [
+        -99.8875,
+        19.58472
+    ],
+    "Jaltocan": [
+        -97.81787,
+        20.61968
+    ],
+    "Atla": [
+        -98.12538,
+        20.2753
+    ],
+    "San Pedro Tlaolantongo": [
+        -97.80139,
+        20.23139
+    ],
+    "Ciudad de Tlatlauquitepec": [
+        -97.49528,
+        19.85278
+    ],
+    "San Andrés Cholula": [
+        -98.3,
+        19.05
+    ],
+    "González Ortega": [
+        -97.2686,
+        19.34191
+    ],
+    "San Miguel Zoapan": [
+        -97.3535,
+        19.08386
+    ],
+    "San José Cuyachapa": [
+        -97.31463,
+        18.85356
+    ],
+    "Chapuco": [
+        -97.40006,
+        18.63536
+    ],
+    "San Pedro Temamatla": [
+        -97.51144,
+        18.92575
+    ],
+    "Actipan": [
+        -97.80337,
+        18.95796
+    ],
+    "Dolores Hidalgo": [
+        -99.92639,
+        19.65528
+    ],
+    "Santa Cruz Ajajalpan": [
+        -97.95066,
+        18.94976
+    ],
+    "San Antonio Juárez": [
+        -97.98964,
+        18.79379
+    ],
+    "Santa Lucía Cosamaloapan": [
+        -98.35194,
+        18.88361
+    ],
+    "San Pablo Ahuatempa": [
+        -98.35889,
+        18.98139
+    ],
+    "San Isidro Huilotepec": [
+        -98.38306,
+        18.88083
+    ],
+    "Teacalco de Dorantes (San José Teacalco)": [
+        -98.50722,
+        18.80444
+    ],
+    "Raboso": [
+        -98.44025,
+        18.5718
+    ],
+    "San Diego el Organal": [
+        -98.51667,
+        18.73083
+    ],
+    "Santa Cruz Cuautomatitla": [
+        -98.65917,
+        18.88917
+    ],
+    "Huehuetlán El Chico": [
+        -98.69061,
+        18.37355
+    ],
+    "Tlancualpican": [
+        -98.7,
+        18.43333
+    ],
+    "Ciudad de Chiautla de Tapia": [
+        -98.60389,
+        18.3
+    ],
+    "Ixcamilpa": [
+        -98.6966,
+        18.02785
+    ],
+    "Acaxtlahuacán de Albino Zertuche": [
+        -98.54111,
+        18.01861
+    ],
+    "Telpatlán": [
+        -97.15222,
+        18.48417
+    ],
+    "Caipan": [
+        -97.16419,
+        18.29364
+    ],
+    "Jolalpan": [
+        -98.84566,
+        18.32779
+    ],
+    "Villa Madero": [
+        -101.27872,
+        19.39195
+    ],
+    "Santo Domingo Kesté": [
+        -90.51139,
+        19.49972
+    ],
+    "San Pablo Pixtún": [
+        -90.73194,
+        19.13361
+    ],
+    "Colonia Emiliano Zapata": [
+        -105.21972,
+        21.82861
+    ],
+    "Haro": [
+        -90.79153,
+        18.44418
+    ],
+    "San Juan de Dios (Naranjas de Dios)": [
+        -99.55583,
+        18.54972
+    ],
+    "Tecuexcontitlán (Tecoescontitlán)": [
+        -99.57787,
+        18.14254
+    ],
+    "Maxela": [
+        -99.59395,
+        18.05363
+    ],
+    "Axaxacualco": [
+        -99.46164,
+        17.80292
+    ],
+    "El Fresno": [
+        -99.58605,
+        17.43143
+    ],
+    "Julián Blanco (Dos Caminos)": [
+        -99.52472,
+        17.21889
+    ],
+    "Lomas de Chapultepec": [
+        -99.60973,
+        16.71516
+    ],
+    "Cerro de Piedra": [
+        -99.62933,
+        16.77615
+    ],
+    "Llano de la Puerta": [
+        -99.52654,
+        16.74351
+    ],
+    "Campanario": [
+        -99.57122,
+        16.83472
+    ],
+    "Llano Grande": [
+        -99.4332,
+        16.93996
+    ],
+    "Ocotitlán": [
+        -99.36817,
+        16.93951
+    ],
+    "Tecolcuautla": [
+        -98.94878,
+        17.78634
+    ],
+    "Pochutla": [
+        -98.89755,
+        17.66038
+    ],
+    "San Francisco": [
+        -99.28306,
+        17.00583
+    ],
+    "La Dicha": [
+        -99.01064,
+        16.76777
+    ],
+    "Marquelia": [
+        -98.81686,
+        16.58335
+    ],
+    "Xalatzala": [
+        -98.57312,
+        17.47355
+    ],
+    "Paraje Montero (Paraje Montero de Zaragoza)": [
+        -98.70394,
+        17.16349
+    ],
+    "San Pablo Atzompa": [
+        -98.37,
+        17.24722
+    ],
+    "Rancho Viejo (Rancho Nuevo de la Democracia)": [
+        -98.22389,
+        17.03257
+    ],
+    "San Luis Acatlán": [
+        -98.73333,
+        16.81667
+    ],
+    "El Pitahayo": [
+        -98.52782,
+        16.53178
+    ],
+    "Panabá": [
+        -88.27056,
+        21.29639
+    ],
+    "Sucilá": [
+        -88.31361,
+        21.15444
+    ],
+    "Tixhualactún": [
+        -88.14267,
+        20.64389
+    ],
+    "Kinil": [
+        -89.13345,
+        20.32349
+    ],
+    "Kantunilkin": [
+        -87.48666,
+        21.10202
+    ],
+    "Alfredo V. Bonfil": [
+        -86.84945,
+        21.08527
+    ],
+    "Leona Vicario": [
+        -87.20194,
+        20.98876
+    ],
+    "X-Cabil": [
+        -88.46381,
+        20.16514
+    ],
+    "La Presumida": [
+        -88.75389,
+        19.80083
+    ],
+    "Kancabchén": [
+        -88.86167,
+        19.71389
+    ],
+    "X-Hazil Sur": [
+        -88.07417,
+        19.39167
+    ],
+    "Los Divorciados": [
+        -88.45649,
+        19.07614
+    ],
+    "El Paraíso (La Charca)": [
+        -96.355,
+        19.42889
+    ],
+    "Cabezas": [
+        -96.38278,
+        19.37167
+    ],
+    "El Hatito": [
+        -96.39361,
+        19.2775
+    ],
+    "Plan del Río": [
+        -96.6525,
+        19.40184
+    ],
+    "Bella Esperanza": [
+        -96.8661,
+        19.43351
+    ],
+    "Cuiyachapa": [
+        -97.17348,
+        19.04514
+    ],
+    "Tetlaxco": [
+        -97.06378,
+        19.03981
+    ],
+    "Ixcatla": [
+        -96.91889,
+        19.07528
+    ],
+    "San José Tenejapa": [
+        -96.84306,
+        19.01556
+    ],
+    "Mata de Indio": [
+        -96.84057,
+        19.23099
+    ],
+    "Sonora": [
+        -96.63524,
+        19.11233
+    ],
+    "San Francisco Nacaxtle": [
+        -96.59583,
+        19.11083
+    ],
+    "Las Amapolas": [
+        -96.19778,
+        19.15194
+    ],
+    "Paraje Nuevo": [
+        -96.86054,
+        18.87868
+    ],
+    "Trapiche Viejo": [
+        -96.94556,
+        18.84306
+    ],
+    "Rincón de Buena Vista": [
+        -96.86861,
+        18.75556
+    ],
+    "San José de Tapia": [
+        -96.95389,
+        18.84722
+    ],
+    "Monte Salas": [
+        -97.01833,
+        18.93722
+    ],
+    "Campo Chico": [
+        -97.02779,
+        18.83622
+    ],
+    "La Cuesta": [
+        -97.16806,
+        18.79028
+    ],
+    "San Isidro el Berro": [
+        -97.20556,
+        18.92722
+    ],
+    "San José Súchil": [
+        -97.23722,
+        18.88778
+    ],
+    "El Aguacate": [
+        -94.97028,
+        18.19778
+    ],
+    "Ixhuapan": [
+        -94.87667,
+        18.01333
+    ],
+    "Tlacuilolapan": [
+        -94.26306,
+        17.97778
+    ],
+    "Coacotla": [
+        -94.66667,
+        17.93611
+    ],
+    "Las Lomas de Tacamichapan": [
+        -94.70833,
+        17.86611
+    ],
+    "Colonia Lealtad": [
+        -94.9025,
+        17.96306
+    ],
+    "Congregación Hidalgo": [
+        -94.97056,
+        17.9375
+    ],
+    "Dehesa": [
+        -94.99806,
+        17.94167
+    ],
+    "San Pedro Coyutla": [
+        -98.43006,
+        21.22334
+    ],
+    "Texcatepec": [
+        -98.36528,
+        20.58417
+    ],
+    "Pisaflores": [
+        -97.92782,
+        20.60941
+    ],
+    "La Victoria (La Peñita)": [
+        -97.3725,
+        20.93694
+    ],
+    "Barra de Cazones": [
+        -97.2025,
+        20.72222
+    ],
+    "Polutla": [
+        -97.25919,
+        20.52778
+    ],
+    "Macedonio Alonso": [
+        -97.69194,
+        20.27417
+    ],
+    "Mecatlán": [
+        -97.68083,
+        20.20917
+    ],
+    "Ignacio Zaragoza": [
+        -107.22741,
+        28.39389
+    ],
+    "San Marcos Atesquilapan": [
+        -96.88537,
+        19.68972
+    ],
+    "Monte Verde Chivería": [
+        -96.69601,
+        19.70304
+    ],
+    "Palma Sola": [
+        -96.43204,
+        19.77225
+    ],
+    "Tapalapan": [
+        -95.3061,
+        18.53197
+    ],
+    "Presidio (Plan de Libres)": [
+        -96.77194,
+        18.68056
+    ],
+    "Santa Rosa Abata": [
+        -95.16765,
+        18.4619
+    ],
+    "Juan Jacobo Torres [Bodega de Totontepec]": [
+        -95.26033,
+        18.33645
+    ],
+    "Tilapan": [
+        -95.32806,
+        18.34917
+    ],
+    "Estación Juanita": [
+        -95.2175,
+        17.80889
+    ],
+    "Juan Rodríguez Clara": [
+        -95.40139,
+        17.99389
+    ],
+    "Aguilera": [
+        -95.015,
+        17.81083
+    ],
+    "Venustiano Carranza (Peña Blanca)": [
+        -94.75417,
+        17.64194
+    ],
+    "San Lorenzo Tenochtitlán": [
+        -94.76028,
+        17.755
+    ],
+    "Poblado Cinco": [
+        -94.55137,
+        17.27398
+    ],
+    "Boxasní": [
+        -99.84861,
+        20.67083
+    ],
+    "La Llave": [
+        -99.9933,
+        20.46616
+    ],
+    "Santa Cruz Escandón": [
+        -99.95572,
+        20.41556
+    ],
+    "Paso de Mata": [
+        -99.92697,
+        20.3413
+    ],
+    "Yosphí": [
+        -99.95222,
+        20.17083
+    ],
+    "San Bartolo el Viejo": [
+        -99.82389,
+        19.29889
+    ],
+    "San Pedro de la Hortaliza (Ejido Almoloyán)": [
+        -99.81778,
+        19.38806
+    ],
+    "Las Peñas": [
+        -99.99944,
+        19.44972
+    ],
+    "El Rincón de los Perales": [
+        -99.82806,
+        19.54222
+    ],
+    "Guadalupe Cachi": [
+        -99.825,
+        19.60111
+    ],
+    "Emiliano Zapata (Santo Domingo)": [
+        -99.78806,
+        19.57972
+    ],
+    "San Francisco de Guzmán": [
+        -99.77472,
+        19.62028
+    ],
+    "Fresno Nichi": [
+        -99.94889,
+        19.56694
+    ],
+    "Mina Vieja": [
+        -99.94389,
+        19.5525
+    ],
+    "Palos Amarillos (Palos Amarillos Yebuciví)": [
+        -99.91667,
+        19.53944
+    ],
+    "Cuadrilla Vieja": [
+        -99.98692,
+        19.51205
+    ],
+    "Barrio de San Isidro": [
+        -99.95861,
+        19.52139
+    ],
+    "San Antonio de las Huertas": [
+        -99.97111,
+        19.56222
+    ],
+    "San Juan Cote Ejido": [
+        -99.95913,
+        19.60516
+    ],
+    "San Jerónimo Bonchete": [
+        -99.94949,
+        19.63106
+    ],
+    "Santa Cruz Mextepec": [
+        -99.95306,
+        19.65972
+    ],
+    "Ejido del Tunal Nenaxi": [
+        -99.90889,
+        19.74389
+    ],
+    "San Lucas Ocotepec": [
+        -99.97194,
+        19.67833
+    ],
+    "El Carmen Ocotepec": [
+        -99.97417,
+        19.68722
+    ],
+    "San Juan Jalpa Centro": [
+        -99.93,
+        19.69806
+    ],
+    "San Agustín Mextepec": [
+        -99.93052,
+        19.64248
+    ],
+    "Santa Ana la Ladera": [
+        -99.87,
+        19.59583
+    ],
+    "San Isidro Boxipe": [
+        -99.89083,
+        19.60111
+    ],
+    "Santa María Endare": [
+        -99.81583,
+        19.72556
+    ],
+    "Mavoro": [
+        -99.82222,
+        19.70417
+    ],
+    "Emilio Portes Gil": [
+        -99.91667,
+        19.64444
+    ],
+    "San Juan de las Manzanas": [
+        -99.83833,
+        19.55111
+    ],
+    "La Concepción Enyege": [
+        -99.84139,
+        19.56472
+    ],
+    "Santiago Citendejé": [
+        -99.92917,
+        19.78139
+    ],
+    "Cuendo": [
+        -99.94778,
+        19.80028
+    ],
+    "San Lorenzo Tlacotepec": [
+        -99.91222,
+        19.8125
+    ],
+    "San Juan de los Jarros": [
+        -99.91611,
+        19.86194
+    ],
+    "San Luis Boro": [
+        -99.8558,
+        19.81316
+    ],
+    "Tecoac (Santa María Nativitas)": [
+        -99.85306,
+        19.78917
+    ],
+    "San Bartolo Lanzados": [
+        -99.89389,
+        19.86639
+    ],
+    "San José del Tunal": [
+        -99.84,
+        19.79056
+    ],
+    "El Rincón de la Candelaria": [
+        -99.84306,
+        19.79
+    ],
+    "San Francisco Chalchihuapan": [
+        -99.82167,
+        19.77
+    ],
+    "San Antonio Enchisi": [
+        -99.81667,
+        19.75472
+    ],
+    "San Pedro del Rosal": [
+        -99.8125,
+        19.77806
+    ],
+    "San Felipe Pueblo Nuevo": [
+        -99.75833,
+        19.76778
+    ],
+    "Tixmadeje Chiquito": [
+        -99.91444,
+        19.96556
+    ],
+    "Detiña (San Antonio Detiña)": [
+        -99.88389,
+        19.97028
+    ],
+    "La Caridad": [
+        -99.83694,
+        19.94778
+    ],
+    "San Mateo el Viejo": [
+        -99.91083,
+        19.91444
+    ],
+    "San Jerónimo de los Jarros": [
+        -99.92333,
+        19.87861
+    ],
+    "Chosto de los Jarros": [
+        -99.91,
+        19.86333
+    ],
+    "San José Toxi": [
+        -99.93861,
+        19.86639
+    ],
+    "Santa Cruz Bombatevi": [
+        -99.88667,
+        19.805
+    ],
+    "Tercera Manzana de Zaragoza": [
+        -99.75278,
+        19.89556
+    ],
+    "Las Huertas": [
+        -99.55611,
+        19.97222
+    ],
+    "Jalpa de los Baños": [
+        -99.87389,
+        19.67833
+    ],
+    "San Marcos Tlazalpan": [
+        -99.7175,
+        19.80611
+    ],
+    "San José Boqui": [
+        -99.72861,
+        19.70167
+    ],
+    "Huemetla": [
+        -99.73583,
+        19.715
+    ],
+    "Barrio de Boyecha": [
+        -99.68444,
+        19.70778
+    ],
+    "San Antonio Nixini": [
+        -99.68472,
+        19.67472
+    ],
+    "San Lorenzo Malacota": [
+        -99.61333,
+        19.64972
+    ],
+    "Rancho Alegre": [
+        -99.68361,
+        19.62528
+    ],
+    "Santa María del Llano": [
+        -99.725,
+        19.63444
+    ],
+    "Barrio de San Pedro la Cabecera": [
+        -99.75,
+        19.56528
+    ],
+    "San Miguel Yuxtepec": [
+        -99.7125,
+        19.54056
+    ],
+    "Enthavi": [
+        -99.57455,
+        19.49858
+    ],
+    "Pothé": [
+        -99.60306,
+        19.47417
+    ],
+    "San Pedro de Abajo": [
+        -99.56671,
+        19.47996
+    ],
+    "San Mateo Capulhuac": [
+        -99.52611,
+        19.47028
+    ],
+    "Ejido de Dolores": [
+        -99.61278,
+        19.43083
+    ],
+    "San José Pathé": [
+        -99.63111,
+        19.43528
+    ],
+    "La Cabecera": [
+        -99.74806,
+        19.35611
+    ],
+    "San Martín Toltepec": [
+        -99.70583,
+        19.35194
+    ],
+    "Yachihuacaltepec": [
+        -99.67922,
+        19.32378
+    ],
+    "San Mateo Otzacatipan": [
+        -99.60349,
+        19.33241
+    ],
+    "San María Totoltepec": [
+        -99.59399,
+        19.3056
+    ],
+    "El Cerrillo Vista Hermosa": [
+        -99.5425,
+        19.32337
+    ],
+    "San Antonio Buenavista": [
+        -99.71306,
+        19.26028
+    ],
+    "San Pedro Tultepec": [
+        -99.50844,
+        19.26538
+    ],
+    "San Bartolomé Tlaltelulco": [
+        -99.63018,
+        19.22762
+    ],
+    "San Juan Tilapa": [
+        -99.66019,
+        19.21997
+    ],
+    "San Pedro Tlaltizapan": [
+        -99.49872,
+        19.19957
+    ],
+    "San Andrés Ocotlán": [
+        -99.58636,
+        19.19256
+    ],
+    "San Francisco Putla": [
+        -99.63556,
+        19.12778
+    ],
+    "San Gabriel Zepayautla": [
+        -99.55194,
+        19.01306
+    ],
+    "San Pedro Zictepec": [
+        -99.57732,
+        19.03655
+    ],
+    "Maxtleca de Galeana": [
+        -99.55722,
+        19.02889
+    ],
+    "Santa María Jajalpa": [
+        -99.54,
+        19.11139
+    ],
+    "San Antonio la Isla": [
+        -99.56722,
+        19.16306
+    ],
+    "Tlacomulco": [
+        -99.4475,
+        19.12111
+    ],
+    "San Lorenzo Huehuetitlán": [
+        -99.48222,
+        19.13417
+    ],
+    "Santiago Tilapa": [
+        -99.41913,
+        19.19075
+    ],
+    "Tres Marías": [
+        -99.24315,
+        19.05513
+    ],
+    "San Pedro Cholula": [
+        -99.48639,
+        19.26444
+    ],
+    "San Mateo Atarasquillo": [
+        -99.46002,
+        19.32163
+    ],
+    "Benito Juarez": [
+        -99.15766,
+        19.3984
+    ],
+    "Huixquilucan": [
+        -99.35016,
+        19.35985
+    ],
+    "Zacamulpa": [
+        -99.333,
+        19.35551
+    ],
+    "San Bartolomé Coatepec": [
+        -99.28736,
+        19.40376
+    ],
+    "Santa Cruz Huitzizilapan": [
+        -99.44806,
+        19.39694
+    ],
+    "Loma del Río": [
+        -99.35056,
+        19.60056
+    ],
+    "San Miguel Hila": [
+        -99.32528,
+        19.59361
+    ],
+    "San José el Vidrio": [
+        -99.38417,
+        19.65333
+    ],
+    "San Luis Taxhimay": [
+        -99.39861,
+        19.83972
+    ],
+    "Santiago Tlapanaloya": [
+        -99.35083,
+        19.87056
+    ],
+    "Cantera de Villagrán": [
+        -99.30917,
+        19.84083
+    ],
+    "Santiago Tlautla": [
+        -99.37222,
+        19.96444
+    ],
+    "Santa María Ilucan": [
+        -99.33889,
+        19.98889
+    ],
+    "San Miguel Vindho": [
+        -99.31718,
+        19.99703
+    ],
+    "Unidad San Miguel Jagüeyes": [
+        -99.28889,
+        19.82361
+    ],
+    "Emiliano Zapata (San José Bata)": [
+        -99.00667,
+        19.91111
+    ],
+    "San Pedro Xalpa": [
+        -99.18492,
+        19.82638
+    ],
+    "Melchor Ocampo": [
+        -99.1438,
+        19.70246
+    ],
+    "Huilango": [
+        -99.25639,
+        19.68056
+    ],
+    "Santiago Teyahualco": [
+        -99.1234,
+        19.65791
+    ],
+    "Santa María Tonatitla": [
+        -99.05384,
+        19.68921
+    ],
+    "Ojo de Agua": [
+        -99.01,
+        19.68028
+    ],
+    "Santo Tomas Chiconautla": [
+        -99.00833,
+        19.64056
+    ],
+    "Río Muerto": [
+        -110.247,
+        27.417
+    ],
+    "Rosario": [
+        -109.36806,
+        27.84111
+    ],
+    "Vicam": [
+        -110.29351,
+        27.64354
+    ],
+    "Miguel Alemán (La Doce)": [
+        -111.4775,
+        28.84028
+    ],
+    "El Diamante (La Retranca)": [
+        -112.63972,
+        30.84556
+    ],
+    "El Nigromante": [
+        -101.71056,
+        22.15373
+    ],
+    "Colonia José María Morelos": [
+        -101.79449,
+        22.36794
+    ],
+    "Piedra Gorda": [
+        -102.3311,
+        22.50754
+    ],
+    "General Pánfilo Natera": [
+        -102.10999,
+        22.66558
+    ],
+    "Pozo de Jarillas": [
+        -102.19782,
+        22.65279
+    ],
+    "La Luz": [
+        -100.43829,
+        20.86821
+    ],
+    "El Lampotal": [
+        -102.41944,
+        22.89583
+    ],
+    "General Enrique Estrada": [
+        -102.74256,
+        22.99747
+    ],
+    "Las Catarinas": [
+        -102.61582,
+        23.09072
+    ],
+    "Cañas": [
+        -103.24401,
+        23.74366
+    ],
+    "Villa Juarez": [
+        -100.26689,
+        22.32617
+    ],
+    "La Esperanza": [
+        -100.76477,
+        22.00798
+    ],
+    "Los Zacatones": [
+        -102.05,
+        22.95
+    ],
+    "Dulce Grande": [
+        -102.17666,
+        23.00284
+    ],
+    "Praxédis Guerrero": [
+        -106.01667,
+        31.36667
+    ],
+    "Julimes": [
+        -105.43056,
+        28.42306
+    ],
+    "José Esteban Coronado": [
+        -105.15833,
+        26.73722
+    ],
+    "Ejido Benito Juárez": [
+        -106.88362,
+        30.14937
+    ],
+    "Ojo de Agua de Palmillas": [
+        -105.60389,
+        22.61972
+    ],
+    "Cristo Rey": [
+        -105.72444,
+        22.58167
+    ],
+    "Tecualilla": [
+        -105.67167,
+        22.76667
+    ],
+    "Isla del Bosque": [
+        -105.84556,
+        22.73306
+    ],
+    "El Huajote": [
+        -106.05889,
+        23.12889
+    ],
+    "Concordia": [
+        -103.11696,
+        25.77982
+    ],
+    "Eldorado": [
+        -107.36722,
+        24.32444
+    ],
+    "Las Aguamitas": [
+        -107.80056,
+        24.57556
+    ],
+    "Lo de Jesús (Campo Romero)": [
+        -107.54556,
+        24.68
+    ],
+    "El Limón de los Ramos": [
+        -107.52333,
+        24.91361
+    ],
+    "Dautillos": [
+        -107.97528,
+        24.72167
+    ],
+    "Gabriel Leyva Solano": [
+        -108.63456,
+        25.66407
+    ],
+    "El Huitusi": [
+        -108.77875,
+        25.50974
+    ],
+    "Benito Juárez (Vinatería)": [
+        -108.87315,
+        25.97376
+    ],
+    "El Refugio": [
+        -103.73929,
+        20.6714
+    ],
+    "Cihuatlán": [
+        -104.56512,
+        19.2366
+    ],
+    "Jaboncillo": [
+        -103.26548,
+        25.74809
+    ],
+    "Minas de Barroterán": [
+        -101.28212,
+        27.65144
+    ],
+    "Seis de Octubre": [
+        -103.57488,
+        25.81345
+    ],
+    "Camalú": [
+        -116.06185,
+        30.84189
+    ],
+    "Primo Tapia": [
+        -116.9139,
+        32.22226
+    ],
+    "Estación Coahuila": [
+        -114.99933,
+        32.19304
+    ],
+    "Doctor Alberto Oviedo Mota": [
+        -115.16792,
+        32.22756
+    ],
+    "Delta": [
+        -115.19618,
+        32.35497
+    ],
+    "Islas Agrarias Grupo A": [
+        -115.3315,
+        32.61096
+    ],
+    "Zirándaro": [
+        -100.97852,
+        18.47694
+    ],
+    "Zinapécuaro": [
+        -100.82678,
+        19.86101
+    ],
+    "Zihuatanejo": [
+        -101.55212,
+        17.64344
+    ],
+    "Zapotlanejo": [
+        -103.06766,
+        20.62248
+    ],
+    "Zapotlán del Rey": [
+        -102.92611,
+        20.46639
+    ],
+    "Zapotiltic": [
+        -103.41752,
+        19.62749
+    ],
+    "El Zapote": [
+        -102.80555,
+        21.11257
+    ],
+    "Zapopan": [
+        -103.38479,
+        20.72356
+    ],
+    "Zamora de Hidalgo": [
+        -102.28477,
+        19.98912
+    ],
+    "Zacoalco de Torres": [
+        -103.5687,
+        20.22816
+    ],
+    "Zacatecas": [
+        -102.58141,
+        22.76843
+    ],
+    "Zacapú": [
+        -101.79042,
+        19.81389
+    ],
+    "Yuriria": [
+        -101.13212,
+        20.21081
+    ],
+    "Yurécuaro": [
+        -102.28342,
+        20.33738
+    ],
+    "Yerbabuena": [
+        -101.27321,
+        20.97081
+    ],
+    "Yavaros": [
+        -109.52004,
+        26.70523
+    ],
+    "Yahualica de González Gallo": [
+        -102.88611,
+        21.17978
+    ],
+    "Yago": [
+        -105.06451,
+        21.836
+    ],
+    "Vistahermosa de Negrete": [
+        -102.475,
+        20.27286
+    ],
+    "Villa Union": [
+        -100.71667,
+        28.21667
+    ],
+    "Villa Unión": [
+        -106.2172,
+        23.18987
+    ],
+    "Villa Ocampo": [
+        -105.50642,
+        26.44085
+    ],
+    "Villanueva": [
+        -102.88361,
+        22.35653
+    ],
+    "Villamar": [
+        -102.59738,
+        20.02021
+    ],
+    "Villa Juárez": [
+        -102.06929,
+        22.09448
+    ],
+    "Villa Hidalgo": [
+        -102.58854,
+        21.67919
+    ],
+    "Villagrán": [
+        -100.9967,
+        20.51499
+    ],
+    "Villa González Ortega": [
+        -101.91616,
+        22.51222
+    ],
+    "Villa García": [
+        -101.9553,
+        22.16246
+    ],
+    "Ciudad Frontera": [
+        -101.45212,
+        26.92814
+    ],
+    "Villa Escalante": [
+        -101.63833,
+        19.40641
+    ],
+    "Villa de Reyes": [
+        -100.93222,
+        21.80418
+    ],
+    "Villa de García": [
+        -100.5941,
+        25.81147
+    ],
+    "Villa de Cos": [
+        -102.35024,
+        23.29329
+    ],
+    "Ciudad de Villa de Álvarez": [
+        -103.73778,
+        19.26722
+    ],
+    "Villa Corona": [
+        -103.66416,
+        20.41564
+    ],
+    "Villachuato": [
+        -101.63458,
+        20.14848
+    ],
+    "Miguel Ahumada": [
+        -106.51222,
+        30.61861
+    ],
+    "El Vegil": [
+        -100.35024,
+        20.43111
+    ],
+    "Viesca": [
+        -102.80421,
+        25.33979
+    ],
+    "El Vergel": [
+        -103.52098,
+        25.6386
+    ],
+    "Valtierrilla": [
+        -101.12666,
+        20.53248
+    ],
+    "Valparaíso": [
+        -103.57036,
+        22.77061
+    ],
+    "Valle de Santiago": [
+        -101.18917,
+        20.39321
+    ],
+    "Valle de Juárez": [
+        -102.94364,
+        19.9337
+    ],
+    "Valle de Guadalupe": [
+        -102.61683,
+        21.01114
+    ],
+    "Valle de Bravo": [
+        -100.13394,
+        19.19387
+    ],
+    "Valle de Banderas": [
+        -105.24802,
+        20.80682
+    ],
+    "Valle de Ignacio Allende": [
+        -105.4,
+        26.93333
+    ],
+    "Valentín Gómez Farías": [
+        -106.58333,
+        28.21667
+    ],
+    "Valencia de Cerro Gordo": [
+        -101.08191,
+        20.60113
+    ],
+    "Usmajac": [
+        -103.54001,
+        19.87455
+    ],
+    "Uruapan del Progreso": [
+        -102.05278,
+        19.41362
+    ],
+    "Uriangato": [
+        -101.1825,
+        20.14085
+    ],
+    "Ures": [
+        -110.38762,
+        29.42708
+    ],
+    "Unión de Tula": [
+        -104.26901,
+        19.95755
+    ],
+    "Unión de San Antonio": [
+        -102.00544,
+        21.12774
+    ],
+    "Tzintzuntzán": [
+        -101.57857,
+        19.62903
+    ],
+    "Tuxpan": [
+        -103.37587,
+        19.55555
+    ],
+    "Tres Mezquites": [
+        -101.62667,
+        20.26223
+    ],
+    "Trapiche de Abra": [
+        -103.81977,
+        20.53958
+    ],
+    "Trancoso": [
+        -102.36638,
+        22.7349
+    ],
+    "Tototlán": [
+        -102.79222,
+        20.54217
+    ],
+    "Torreón": [
+        -103.4176,
+        25.54333
+    ],
+    "Topolobampo": [
+        -109.05408,
+        25.60367
+    ],
+    "Tonila": [
+        -103.51657,
+        19.43365
+    ],
+    "Tonaya": [
+        -103.97074,
+        19.78703
+    ],
+    "Tomendán": [
+        -101.86027,
+        19.31142
+    ],
+    "Tolimán": [
+        -103.91452,
+        19.60004
+    ],
+    "Todos Santos": [
+        -110.2233,
+        23.44649
+    ],
+    "Tlazazalca": [
+        -102.05652,
+        19.9708
+    ],
+    "Tlaquepaque": [
+        -103.29327,
+        20.6409
+    ],
+    "Tlapehuala": [
+        -100.53787,
+        18.24101
+    ],
+    "Tlalpujahua de Rayón": [
+        -100.17306,
+        19.80527
+    ],
+    "Tlalchapa": [
+        -100.47728,
+        18.41019
+    ],
+    "Tlajomulco de Zúñiga": [
+        -103.44654,
+        20.47421
+    ],
+    "Tlahualilo de Zaragoza": [
+        -103.44163,
+        26.10794
+    ],
+    "Tlacote el Bajo": [
+        -100.50703,
+        20.66151
+    ],
+    "Tizapán el Alto": [
+        -103.04397,
+        20.16138
+    ],
+    "Tiquicheo": [
+        -100.73725,
+        18.90187
+    ],
+    "Tingüindín": [
+        -102.48253,
+        19.73839
+    ],
+    "Tingambato": [
+        -101.85305,
+        19.50208
+    ],
+    "Tijuana": [
+        -117.00371,
+        32.5027
+    ],
+    "Tierranueva": [
+        -100.57274,
+        21.66797
+    ],
+    "Teul de González Ortega": [
+        -103.46131,
+        21.4634
+    ],
+    "Teuchitlán": [
+        -103.8492,
+        20.68476
+    ],
+    "Tesistán": [
+        -103.46993,
+        20.80051
+    ],
+    "Tepic": [
+        -104.88936,
+        21.5008
+    ],
+    "Tepezalá": [
+        -102.16667,
+        22.21667
+    ],
+    "Tepechitlán": [
+        -103.32704,
+        21.67147
+    ],
+    "Tepec": [
+        -103.64162,
+        19.98941
+    ],
+    "Tepatitlán de Morelos": [
+        -102.76347,
+        20.81692
+    ],
+    "Teocuitatlán de Corona": [
+        -103.378,
+        20.09223
+    ],
+    "Teocaltiche": [
+        -102.57449,
+        21.43421
+    ],
+    "Tenería": [
+        -100.79789,
+        20.59956
+    ],
+    "Tenamaxtlán": [
+        -104.16372,
+        20.21673
+    ],
+    "Tejupilco de Hidalgo": [
+        -100.15301,
+        18.90467
+    ],
+    "Tecuala": [
+        -105.45675,
+        22.39779
+    ],
+    "Tecpan de Galeana": [
+        -100.64121,
+        17.22278
+    ],
+    "Tecomatán": [
+        -102.49606,
+        20.11503
+    ],
+    "Tecomán": [
+        -103.87564,
+        18.91463
+    ],
+    "Tecolots": [
+        -114.98333,
+        32.56667
+    ],
+    "Tecolotlán": [
+        -104.04667,
+        20.19942
+    ],
+    "Tecate": [
+        -116.62509,
+        32.56716
+    ],
+    "Tecalitlán": [
+        -103.30749,
+        19.47137
+    ],
+    "Teacapán": [
+        -105.738,
+        22.53983
+    ],
+    "Tayoltita": [
+        -105.93083,
+        24.10278
+    ],
+    "Tarimoro": [
+        -100.75612,
+        20.28704
+    ],
+    "Campestre Tarímbaro": [
+        -101.12917,
+        19.775
+    ],
+    "Taretán": [
+        -101.91833,
+        19.33263
+    ],
+    "Tarandacuao": [
+        -100.51911,
+        20.00237
+    ],
+    "Tapalpa": [
+        -103.75855,
+        19.94624
+    ],
+    "Tanhuato de Guerrero": [
+        -102.32974,
+        20.28583
+    ],
+    "Tangancícuaro de Arista": [
+        -102.20514,
+        19.88667
+    ],
+    "Tancítaro": [
+        -102.36231,
+        19.33766
+    ],
+    "Tamazula de Gordiano": [
+        -103.25225,
+        19.67754
+    ],
+    "Tamazula": [
+        -108.45528,
+        25.44639
+    ],
+    "Tamándaro": [
+        -102.28305,
+        19.94819
+    ],
+    "Talpa de Allende": [
+        -104.82213,
+        20.38084
+    ],
+    "Tala": [
+        -103.70092,
+        20.6536
+    ],
+    "Tacuro (Santa María Tacuro)": [
+        -102.05084,
+        19.85696
+    ],
+    "Tacoaleche": [
+        -102.40452,
+        22.82073
+    ],
+    "Tacámbaro de Codallos": [
+        -101.45817,
+        19.23514
+    ],
+    "Tabasco": [
+        -102.91105,
+        21.86286
+    ],
+    "Suchitlán": [
+        -103.70994,
+        19.37498
+    ],
+    "Soyatlán del Oro": [
+        -104.28056,
+        20.30194
+    ],
+    "Sonoyta": [
+        -112.8513,
+        31.86165
+    ],
+    "Sombrerete": [
+        -103.64214,
+        23.63482
+    ],
+    "Soledad Díez Gutiérrez": [
+        -100.94192,
+        22.18778
+    ],
+    "Socavón (El Carmen)": [
+        -100.87184,
+        21.85138
+    ],
+    "Siqueros": [
+        -106.24157,
+        23.34175
+    ],
+    "Sinaloa de Leyva": [
+        -108.2224,
+        25.82315
+    ],
+    "Sinahuisa": [
+        -109.43761,
+        26.91092
+    ],
+    "Silao": [
+        -101.42964,
+        20.94356
+    ],
+    "Sevina": [
+        -101.90042,
+        19.62892
+    ],
+    "Serrano": [
+        -101.39508,
+        20.77858
+    ],
+    "Sayula": [
+        -103.59722,
+        19.88361
+    ],
+    "Saucillo": [
+        -105.29172,
+        28.02927
+    ],
+    "Sapioris": [
+        -103.71641,
+        25.45176
+    ],
+    "San Vicente": [
+        -105.29707,
+        21.95043
+    ],
+    "Santo Tomás Huatzindeo": [
+        -100.92068,
+        20.22204
+    ],
+    "Santo Tomás": [
+        -102.08499,
+        19.84516
+    ],
+    "Ejido la Pitahaya (Santo Domingo)": [
+        -100.76111,
+        21.60611
+    ],
+    "Santiaguito (Santiaguito de Velázquez)": [
+        -102.23716,
+        20.72533
+    ],
+    "Santiago Tangamandapio": [
+        -102.43636,
+        19.95572
+    ],
+    "Santiago Papasquiaro": [
+        -105.41917,
+        25.04389
+    ],
+    "Santiago Ixcuintla": [
+        -105.20789,
+        21.81102
+    ],
+    "Santiago de Cuenda": [
+        -100.99518,
+        20.59844
+    ],
+    "Santiago": [
+        -101.45909,
+        22.45464
+    ],
+    "Santa Teresa": [
+        -101.31617,
+        20.95942
+    ],
+    "Santa Rosa Jáuregui": [
+        -100.44615,
+        20.74206
+    ],
+    "José María Morelos (Santa Mónica)": [
+        -103.11028,
+        23.60556
+    ],
+    "Santa María del Río": [
+        -100.73684,
+        21.79693
+    ],
+    "Santa María del Oro": [
+        -104.58696,
+        21.3339
+    ],
+    "Santa María de la Paz": [
+        -103.40611,
+        21.51167
+    ],
+    "Veinte de Noviembre (Santa Lucía)": [
+        -103.15127,
+        25.78923
+    ],
+    "José Guadalupe Aguilera (Santa Lucía)": [
+        -104.70888,
+        24.4542
+    ],
+    "Santa Isabel": [
+        -113.42005,
+        28.30103
+    ],
+    "Santa Fe de la Laguna": [
+        -101.55416,
+        19.67252
+    ],
+    "Santa Cruz el Grande": [
+        -102.86382,
+        20.37514
+    ],
+    "Santa Cruz del Valle": [
+        -103.43333,
+        20.53333
+    ],
+    "Santa Cruz de las Flores": [
+        -103.50278,
+        20.48056
+    ],
+    "Santa Clara": [
+        -103.35694,
+        24.475
+    ],
+    "Santa Catarina de Tepehuanes": [
+        -105.72323,
+        25.3403
+    ],
+    "Santa Bárbara": [
+        -105.81902,
+        26.80527
+    ],
+    "Santa Anita": [
+        -103.44,
+        20.55056
+    ],
+    "Santa Ana Zirosto": [
+        -102.32333,
+        19.53445
+    ],
+    "Santa Ana Pacueco": [
+        -102.01583,
+        20.34722
+    ],
+    "Santa Ana Maya": [
+        -101.01987,
+        20.00778
+    ],
+    "Santa Ana Amatlán": [
+        -102.53942,
+        19.16057
+    ],
+    "San Simón de la Laguna": [
+        -100.08071,
+        19.29273
+    ],
+    "San Sebastián el Grande": [
+        -103.41667,
+        20.51667
+    ],
+    "San Roque": [
+        -101.85253,
+        20.97132
+    ],
+    "San Quintín": [
+        -115.94357,
+        30.56364
+    ],
+    "San Pedro Piedra Gorda": [
+        -102.35,
+        22.4482
+    ],
+    "San Pedro Lagunillas": [
+        -104.75228,
+        21.2192
+    ],
+    "San Pedro Itzicán": [
+        -102.95406,
+        20.31724
+    ],
+    "San Pedro de los Naranjos": [
+        -100.93875,
+        20.2283
+    ],
+    "San Pedro de la Cueva": [
+        -109.73707,
+        29.28661
+    ],
+    "San Pedro": [
+        -103.21667,
+        25.43333
+    ],
+    "San Patricio": [
+        -104.70341,
+        19.22472
+    ],
+    "San Nicolás de los Garza": [
+        -100.30222,
+        25.74167
+    ],
+    "San Nicolás Tolentino": [
+        -100.24111,
+        19.18472
+    ],
+    "San Miguel Zapotitlán": [
+        -109.0497,
+        25.94734
+    ],
+    "San Miguel Octopan": [
+        -100.74785,
+        20.57428
+    ],
+    "San Miguel el Alto": [
+        -102.40414,
+        21.03011
+    ],
+    "San Miguel de Papasquiaro": [
+        -105.3373,
+        24.83026
+    ],
+    "San Miguel de Allende": [
+        -100.74389,
+        20.91528
+    ],
+    "San Martín Hidalgo": [
+        -103.92878,
+        20.43538
+    ],
+    "San Luis Río Colorado": [
+        -114.77186,
+        32.45612
+    ],
+    "San Luis Potosí": [
+        -100.9828,
+        22.14993
+    ],
+    "San Luis de la Paz": [
+        -100.51676,
+        21.29787
+    ],
+    "San Luis": [
+        -113.75,
+        28.43333
+    ],
+    "San Lucas del Pulque": [
+        -100.02806,
+        19.10139
+    ],
+    "Cabo San Lucas": [
+        -109.91238,
+        22.89088
+    ],
+    "San Lucas Evangelista": [
+        -103.3608,
+        20.40815
+    ],
+    "San Julián": [
+        -102.17975,
+        21.01093
+    ],
+    "San Juan de los Lagos": [
+        -102.33184,
+        21.24891
+    ],
+    "San Juan de la Vega": [
+        -100.76143,
+        20.62577
+    ],
+    "San Juan de Abajo": [
+        -105.19154,
+        20.81484
+    ],
+    "San Juan Cosalá": [
+        -103.34109,
+        20.28756
+    ],
+    "San Juan de la Vaquería": [
+        -101.21833,
+        25.25333
+    ],
+    "Xoconoxtle el Grande": [
+        -100.98075,
+        20.93915
+    ],
+    "San José Temascatío": [
+        -101.26475,
+        20.69532
+    ],
+    "San José Iturbide": [
+        -100.38379,
+        21.00116
+    ],
+    "San José el Alto": [
+        -100.3819,
+        20.65524
+    ],
+    "San José de Viñedo": [
+        -103.40162,
+        25.64885
+    ],
+    "San José del Castillo": [
+        -103.23796,
+        20.51405
+    ],
+    "San José del Cabo": [
+        -109.69771,
+        23.05888
+    ],
+    "San José de Gracia": [
+        -102.41583,
+        22.14833
+    ],
+    "San José de Aura": [
+        -101.3725,
+        27.58778
+    ],
+    "Estación San José": [
+        -102.78472,
+        23.18972
+    ],
+    "San Jerónimo Totoltepec": [
+        -100.20288,
+        19.31494
+    ],
+    "San Jerónimo de Juárez": [
+        -100.46832,
+        17.13674
+    ],
+    "San Jeronimito": [
+        -101.34499,
+        17.56818
+    ],
+    "San Jacinto": [
+        -102.23361,
+        22.34861
+    ],
+    "San Ignacio de Hidalgo": [
+        -101.86056,
+        20.91167
+    ],
+    "San Ignacio": [
+        -106.42612,
+        23.93931
+    ],
+    "Doctor Miguel Silva (San Guillermo)": [
+        -101.17417,
+        19.96583
+    ],
+    "San Gabriel": [
+        -104,
+        19.76667
+    ],
+    "San Francisco Pichataro": [
+        -101.80751,
+        19.57335
+    ],
+    "San Francisco Peribán": [
+        -102.39861,
+        19.55625
+    ],
+    "San Francisco del Rincón": [
+        -101.85695,
+        21.01958
+    ],
+    "San Francisco de los Romos": [
+        -102.26667,
+        22.08333
+    ],
+    "San Francisco de Horizonte (Horizonte)": [
+        -103.41688,
+        25.9369
+    ],
+    "San Felipe": [
+        -101.21593,
+        21.47777
+    ],
+    "San Felipe Aztatán": [
+        -105.41951,
+        22.38417
+    ],
+    "San Felipe de los Herreros": [
+        -102.18128,
+        19.61701
+    ],
+    "San Diego de la Unión": [
+        -100.87277,
+        21.46575
+    ],
+    "San Diego de Alejandría": [
+        -101.99481,
+        20.99434
+    ],
+    "San Cristóbal": [
+        -101.47583,
+        20.65795
+    ],
+    "Tlaltenango de Sánchez Román": [
+        -103.30298,
+        21.78221
+    ],
+    "San Blas": [
+        -105.28458,
+        21.54374
+    ],
+    "Francisco Serrato (San Bartolo)": [
+        -100.26,
+        19.5068
+    ],
+    "San Bartolo": [
+        -100.05583,
+        19.24889
+    ],
+    "San Antonio la Labor": [
+        -102.30028,
+        19.02887
+    ],
+    "San Antonio": [
+        -100.05844,
+        25.63868
+    ],
+    "San Andrés Ixtlán": [
+        -103.47144,
+        19.82059
+    ],
+    "San Andrés Ziróndaro": [
+        -101.63221,
+        19.66943
+    ],
+    "Sanalona": [
+        -107.14,
+        24.80222
+    ],
+    "San Agustín del Pulque": [
+        -101.07306,
+        19.96196
+    ],
+    "Nicolás R Casillas": [
+        -103.46622,
+        20.54638
+    ],
+    "Salvatierra": [
+        -100.87923,
+        20.21249
+    ],
+    "Salto de Tepuxtepec": [
+        -100.22505,
+        19.99083
+    ],
+    "Saltillo": [
+        -101.00128,
+        25.41942
+    ],
+    "Salitral de Carrera": [
+        -102.08305,
+        22.86605
+    ],
+    "Salinas de Hidalgo": [
+        -101.71417,
+        22.62795
+    ],
+    "Salamanca": [
+        -101.19119,
+        20.57224
+    ],
+    "Saín Alto": [
+        -103.24814,
+        23.58023
+    ],
+    "Sahuayo de Morelos": [
+        -102.71575,
+        20.05858
+    ],
+    "Sahuaripa": [
+        -109.23328,
+        29.05476
+    ],
+    "Sabinas Hidalgo": [
+        -100.18187,
+        26.50358
+    ],
+    "Ciudad Sabinas": [
+        -101.11738,
+        27.85591
+    ],
+    "Ruiz": [
+        -105.14383,
+        21.95107
+    ],
+    "Rosarito": [
+        -117.04645,
+        32.36044
+    ],
+    "Rosamorada": [
+        -105.20644,
+        22.12208
+    ],
+    "Rosales": [
+        -105.55824,
+        28.18787
+    ],
+    "Roque": [
+        -100.83736,
+        20.58186
+    ],
+    "Romita": [
+        -101.51666,
+        20.87179
+    ],
+    "Romero de Guzmán": [
+        -102.25876,
+        20.02974
+    ],
+    "Rodeo": [
+        -104.55949,
+        25.1786
+    ],
+    "Río Grande": [
+        -103.03178,
+        23.82521
+    ],
+    "Rincón de Tamayo": [
+        -100.75513,
+        20.42402
+    ],
+    "Rincón de Romos": [
+        -102.32156,
+        22.22869
+    ],
+    "Lázaro Cárdenas (Rancho Grande)": [
+        -102.9625,
+        23.45056
+    ],
+    "Ramos Arizpe": [
+        -100.94772,
+        25.54227
+    ],
+    "Quiroga": [
+        -101.52426,
+        19.66499
+    ],
+    "Quila": [
+        -107.21977,
+        24.42395
+    ],
+    "Santiago de Querétaro": [
+        -100.38806,
+        20.58806
+    ],
+    "Queréndaro": [
+        -100.94932,
+        19.88402
+    ],
+    "Puruarán": [
+        -101.52167,
+        19.09634
+    ],
+    "Puruándiro": [
+        -101.51418,
+        20.08695
+    ],
+    "Purificación": [
+        -104.60534,
+        19.71738
+    ],
+    "Purépero": [
+        -102.00361,
+        19.90917
+    ],
+    "Puga": [
+        -104.82318,
+        21.58443
+    ],
+    "Puerto Vallarta": [
+        -105.23066,
+        20.62041
+    ],
+    "Puerto Peñasco": [
+        -113.53392,
+        31.32141
+    ],
+    "Puerto Palomas": [
+        -107.63439,
+        31.77718
+    ],
+    "Puerta de Mangos": [
+        -105.33529,
+        21.71732
+    ],
+    "Pueblo Yaqui": [
+        -110.03383,
+        27.35492
+    ],
+    "Providencia": [
+        -111.58687,
+        28.72271
+    ],
+    "Pozo Gamboa": [
+        -102.57047,
+        22.94796
+    ],
+    "Potam": [
+        -110.41578,
+        27.626
+    ],
+    "Poncitlán": [
+        -102.92557,
+        20.37963
+    ],
+    "Poanas": [
+        -103.60703,
+        25.77111
+    ],
+    "Plateros": [
+        -102.84026,
+        23.22727
+    ],
+    "Plan de Ayala (Campo Cinco)": [
+        -109.04121,
+        25.7691
+    ],
+    "Pitiquito": [
+        -112.05359,
+        30.67639
+    ],
+    "Santa María Pipioltepec (Pipioltepec)": [
+        -100.0975,
+        19.24056
+    ],
+    "Pinos": [
+        -101.57512,
+        22.29734
+    ],
+    "Pihuamo": [
+        -103.38275,
+        19.24991
+    ],
+    "Picardías": [
+        -103.48588,
+        25.32466
+    ],
+    "Petatlán": [
+        -101.26685,
+        17.53892
+    ],
+    "Pesquería": [
+        -100.05071,
+        25.78482
+    ],
+    "Pesqueira": [
+        -110.89611,
+        29.37972
+    ],
+    "Pericos": [
+        -105.35402,
+        22.04925
+    ],
+    "Peribán de Ramos": [
+        -102.41482,
+        19.52017
+    ],
+    "Peñón Blanco": [
+        -104.02659,
+        24.79289
+    ],
+    "Pénjamo": [
+        -101.7213,
+        20.43222
+    ],
+    "Penjamillo de Degollado": [
+        -101.93333,
+        20.10737
+    ],
+    "Pedro Escobedo": [
+        -100.14214,
+        20.49943
+    ],
+    "Pedernales": [
+        -101.46915,
+        19.14113
+    ],
+    "Pátzcuaro": [
+        -101.6097,
+        19.51931
+    ],
+    "Patuán": [
+        -101.91528,
+        19.39181
+    ],
+    "Pastoría": [
+        -102.08162,
+        22.48666
+    ],
+    "Paso de Hidalgo (Paso de Álamos)": [
+        -102.54528,
+        20.27278
+    ],
+    "Parras de la Fuente": [
+        -102.1792,
+        25.44156
+    ],
+    "Paredoncito": [
+        -109.91293,
+        27.05727
+    ],
+    "Parácuaro": [
+        -100.76211,
+        20.14473
+    ],
+    "Paracho de Verduzco": [
+        -102.04763,
+        19.64654
+    ],
+    "Pánuco de Coronado": [
+        -104.32512,
+        24.54034
+    ],
+    "Panindícuaro de la Reforma": [
+        -101.76069,
+        19.98278
+    ],
+    "Palo Alto": [
+        -101.96542,
+        21.91837
+    ],
+    "Palmito del Verde": [
+        -105.77111,
+        22.65861
+    ],
+    "Palau": [
+        -101.42319,
+        27.89232
+    ],
+    "Pajacuarán": [
+        -102.56568,
+        20.11924
+    ],
+    "Pabellón de Hidalgo": [
+        -102.33944,
+        22.17708
+    ],
+    "Orduña de Abajo": [
+        -100.78278,
+        20.75806
+    ],
+    "Opopeo": [
+        -101.60512,
+        19.41113
+    ],
+    "Ojuelos de Jalisco": [
+        -101.59279,
+        21.86529
+    ],
+    "Ojo Caliente": [
+        -100.75384,
+        21.84695
+    ],
+    "Ojinaga": [
+        -104.54487,
+        29.56689
+    ],
+    "Ocho de Enero": [
+        -101.49755,
+        26.99558
+    ],
+    "Obrajuelo": [
+        -100.84943,
+        20.10854
+    ],
+    "Numarán": [
+        -101.95106,
+        20.25572
+    ],
+    "Nuevo Zirosto": [
+        -102.34833,
+        19.54806
+    ],
+    "Nuevo Urecho": [
+        -101.86763,
+        19.16558
+    ],
+    "Nuevo San Juan Parangaricutiro": [
+        -102.12986,
+        19.41722
+    ],
+    "Nuevo Ideal": [
+        -105.07462,
+        24.88633
+    ],
+    "Churumuco de Morelos": [
+        -101.64639,
+        18.66411
+    ],
+    "Nuevo Casas Grandes": [
+        -107.90948,
+        30.42298
+    ],
+    "Nueva Rosita": [
+        -101.21812,
+        27.94028
+    ],
+    "Nueva Italia de Ruiz": [
+        -102.09136,
+        19.02612
+    ],
+    "Nombre de Dios": [
+        -104.2455,
+        23.84699
+    ],
+    "Nocupétaro": [
+        -101.16166,
+        19.04404
+    ],
+    "Nochistlán": [
+        -102.84659,
+        21.36545
+    ],
+    "Nieves": [
+        -103.01907,
+        23.9964
+    ],
+    "Nazas": [
+        -104.11389,
+        25.2275
+    ],
+    "Nazareno": [
+        -103.42066,
+        25.39916
+    ],
+    "Navolato": [
+        -107.69724,
+        24.76712
+    ],
+    "Navojoa": [
+        -109.44391,
+        27.07015
+    ],
+    "Nava": [
+        -100.76565,
+        28.42071
+    ],
+    "El Naranjillo": [
+        -101.00056,
+        20.71417
+    ],
+    "Naranja de Tapia": [
+        -101.76056,
+        19.7767
+    ],
+    "Naica": [
+        -105.49233,
+        27.85736
+    ],
+    "Nahuatzén": [
+        -101.91639,
+        19.655
+    ],
+    "Nacozari Viejo": [
+        -109.65,
+        30.4
+    ],
+    "Naco": [
+        -109.94835,
+        31.32821
+    ],
+    "Mulegé": [
+        -111.98255,
+        26.89141
+    ],
+    "Moroleón": [
+        -101.19208,
+        20.12571
+    ],
+    "Morelos": [
+        -102.61051,
+        22.86255
+    ],
+    "Morelia": [
+        -101.18443,
+        19.70078
+    ],
+    "Morales": [
+        -100.80878,
+        20.77817
+    ],
+    "Monterrey": [
+        -100.31846,
+        25.67506
+    ],
+    "Monte Escobedo": [
+        -103.56276,
+        22.3025
+    ],
+    "Monclova": [
+        -101.42056,
+        26.90687
+    ],
+    "Mompaní": [
+        -100.50612,
+        20.6933
+    ],
+    "Moctezuma": [
+        -109.67969,
+        29.80493
+    ],
+    "Mocorito": [
+        -107.92008,
+        25.48202
+    ],
+    "Mochicahui": [
+        -108.93049,
+        25.95156
+    ],
+    "Mineral de Angangueo": [
+        -100.28436,
+        19.62056
+    ],
+    "Mina": [
+        -100.52988,
+        26.0011
+    ],
+    "Miguel Auza": [
+        -103.45,
+        24.29292
+    ],
+    "Mezquital del Oro": [
+        -103.36278,
+        21.21667
+    ],
+    "Mexticacán": [
+        -102.77985,
+        21.26538
+    ],
+    "Mexicali": [
+        -115.46107,
+        32.65002
+    ],
+    "Mesillas": [
+        -106.04834,
+        23.24703
+    ],
+    "Pedro Meoqui": [
+        -105.48333,
+        28.28333
+    ],
+    "Menores": [
+        -101.395,
+        20.92028
+    ],
+    "Melchor Múzquiz": [
+        -101.51615,
+        27.87933
+    ],
+    "Medina": [
+        -101.6225,
+        21.14972
+    ],
+    "Mazamitla": [
+        -103.02043,
+        19.91692
+    ],
+    "Matehuala": [
+        -100.64334,
+        23.64824
+    ],
+    "Matanzas": [
+        -101.65528,
+        21.63333
+    ],
+    "Matancillas (San Isidro Matancillas)": [
+        -101.65059,
+        21.89036
+    ],
+    "Matamoros": [
+        -103.22847,
+        25.52699
+    ],
+    "Mascota": [
+        -104.78782,
+        20.52576
+    ],
+    "Hacienda de Márquez": [
+        -101.35979,
+        20.78037
+    ],
+    "Marín": [
+        -100.03244,
+        25.87896
+    ],
+    "Jesús Gómez Portugal": [
+        -102.29095,
+        21.99607
+    ],
+    "Margaritas": [
+        -102.47417,
+        20.45306
+    ],
+    "Marfil": [
+        -101.28752,
+        20.99884
+    ],
+    "Maravatío": [
+        -100.44229,
+        19.89167
+    ],
+    "Mapimí": [
+        -103.84609,
+        25.8338
+    ],
+    "Manzanillo": [
+        -104.31879,
+        19.05011
+    ],
+    "Rodolfo Sánchez Taboada": [
+        -116.57184,
+        31.72099
+    ],
+    "Malagana (San Antonio del Monte)": [
+        -101.7535,
+        21.0467
+    ],
+    "Magdalena de Kino": [
+        -110.95987,
+        30.62793
+    ],
+    "Madrid": [
+        -103.87071,
+        19.08408
+    ],
+    "Madera": [
+        -108.148,
+        29.1942
+    ],
+    "Macapule": [
+        -109.14821,
+        25.88607
+    ],
+    "Luvianos": [
+        -100.4,
+        18.91667
+    ],
+    "Luis Moya": [
+        -102.24864,
+        22.43237
+    ],
+    "Los Tepames": [
+        -103.6225,
+        19.09389
+    ],
+    "Los Pocitos": [
+        -103.9372,
+        20.53724
+    ],
+    "Los Pilares": [
+        -102.37318,
+        20.32599
+    ],
+    "Los Nogales": [
+        -102.15616,
+        19.85669
+    ],
+    "Los Mochis": [
+        -108.99463,
+        25.79116
+    ],
+    "Los Hoyos": [
+        -109.78222,
+        30.12444
+    ],
+    "Los Algodones": [
+        -114.73333,
+        32.7
+    ],
+    "Loreto": [
+        -101.98898,
+        22.27248
+    ],
+    "Lombardía": [
+        -102.05111,
+        19.15806
+    ],
+    "Loma Pelada": [
+        -101.29417,
+        20.57222
+    ],
+    "Lo de Marcos": [
+        -105.35333,
+        20.95694
+    ],
+    "Lo Arado": [
+        -104.53444,
+        19.62139
+    ],
+    "León": [
+        -101.66801,
+        21.12131
+    ],
+    "La Ventilla": [
+        -101.03028,
+        21.77389
+    ],
+    "La Venta del Astillero": [
+        -103.54509,
+        20.72795
+    ],
+    "La Unión": [
+        -101.80717,
+        17.98632
+    ],
+    "La Trinidad": [
+        -108.48284,
+        25.73301
+    ],
+    "San Nicolás de la Torre": [
+        -100.10139,
+        20.07806
+    ],
+    "La Tijera": [
+        -104.4,
+        19.9
+    ],
+    "Las Varas": [
+        -105.13531,
+        21.17942
+    ],
+    "San José Tepuzas": [
+        -100.37528,
+        20.35417
+    ],
+    "Las Quemazones": [
+        -108.45202,
+        25.6865
+    ],
+    "Las Pintas de Arriba": [
+        -103.32345,
+        20.57376
+    ],
+    "Las Juntas": [
+        -104.70634,
+        19.43028
+    ],
+    "Las Cuevas": [
+        -103.54862,
+        25.49757
+    ],
+    "Rosa Blanca": [
+        -104.35815,
+        21.1234
+    ],
+    "La Quesería": [
+        -103.57243,
+        19.38609
+    ],
+    "La Pila": [
+        -100.86677,
+        22.03438
+    ],
+    "La Piedad Cavadas": [
+        -102.02806,
+        20.34763
+    ],
+    "La Pendencia": [
+        -101.57583,
+        22.43778
+    ],
+    "La Paz": [
+        -110.31274,
+        24.1423
+    ],
+    "La Palma": [
+        -100.17356,
+        20.52218
+    ],
+    "La Orilla": [
+        -102.22694,
+        17.99583
+    ],
+    "Lampazos de Naranjo": [
+        -100.50528,
+        27.02549
+    ],
+    "La Moncada": [
+        -100.8059,
+        20.28297
+    ],
+    "La Mira Tumbiscatio": [
+        -102.28333,
+        18.68333
+    ],
+    "La Loma (La Loma de Quila)": [
+        -107.22649,
+        24.38061
+    ],
+    "La Lira": [
+        -100.16185,
+        20.47478
+    ],
+    "La Labor": [
+        -102.69626,
+        21.96207
+    ],
+    "Ejido la Joya": [
+        -101.73922,
+        21.14325
+    ],
+    "La Jarretadera": [
+        -105.04031,
+        21.92501
+    ],
+    "La Huerta": [
+        -104.64378,
+        19.4844
+    ],
+    "La Huacana": [
+        -101.80725,
+        18.96259
+    ],
+    "La Higuera": [
+        -103.40955,
+        19.42358
+    ],
+    "Lagos de Moreno": [
+        -101.93399,
+        21.3559
+    ],
+    "La Goma": [
+        -103.68797,
+        25.48466
+    ],
+    "La Fuente": [
+        -100.03611,
+        20.55213
+    ],
+    "La Flor": [
+        -103.36837,
+        25.68138
+    ],
+    "La Estancia": [
+        -100.06528,
+        20.42183
+    ],
+    "La Estacada": [
+        -100.40716,
+        20.82179
+    ],
+    "San José de la Era": [
+        -102.42239,
+        22.85073
+    ],
+    "La Ciudad": [
+        -105.69053,
+        23.73178
+    ],
+    "La Cañada": [
+        -100.33143,
+        20.60811
+    ],
+    "La Calera": [
+        -100.84562,
+        20.30152
+    ],
+    "La Brecha": [
+        -108.41922,
+        25.37078
+    ],
+    "La Barca": [
+        -102.54565,
+        20.29028
+    ],
+    "Banderas del Águila": [
+        -105.33953,
+        23.92596
+    ],
+    "Puente Grande": [
+        -103.15377,
+        20.56977
+    ],
+    "La Aldea": [
+        -101.47898,
+        20.90146
+    ],
+    "Juventino Rosas": [
+        -100.99239,
+        20.64364
+    ],
+    "Jungapeo": [
+        -100.49496,
+        19.45883
+    ],
+    "Juchitlán": [
+        -104.09837,
+        20.08472
+    ],
+    "Juchipila": [
+        -103.11663,
+        21.40862
+    ],
+    "Juárez": [
+        -100.09582,
+        25.64724
+    ],
+    "Pueblo Juárez (La Magdalena)": [
+        -103.93111,
+        19.16722
+    ],
+    "Juan Escutia (Borbollón)": [
+        -104.86698,
+        21.16741
+    ],
+    "Juan Aldama": [
+        -103.39249,
+        24.29154
+    ],
+    "Juanacatlán": [
+        -103.17025,
+        20.50888
+    ],
+    "Jocotepec": [
+        -103.42897,
+        20.28527
+    ],
+    "J. Jesús Díaz Tzirio": [
+        -102.39722,
+        19.76667
+    ],
+    "Jiquilpan de Juárez": [
+        -102.71919,
+        19.99419
+    ],
+    "Jiménez": [
+        -105.4,
+        28.33333
+    ],
+    "Jesús María": [
+        -102.35,
+        21.96667
+    ],
+    "Jerez de García Salinas": [
+        -102.99034,
+        22.64862
+    ],
+    "Jerécuaro": [
+        -100.50865,
+        20.15319
+    ],
+    "Jáuregui": [
+        -100.71937,
+        20.5928
+    ],
+    "Jaral del Progreso": [
+        -101.06361,
+        20.37266
+    ],
+    "Jarácuaro": [
+        -101.67779,
+        19.56084
+    ],
+    "Jamay": [
+        -102.70754,
+        20.29348
+    ],
+    "Jaluco": [
+        -104.68527,
+        19.23089
+    ],
+    "Jalpa": [
+        -102.98004,
+        21.63432
+    ],
+    "Jalostotitlán": [
+        -102.46386,
+        21.16741
+    ],
+    "Jalcocotán": [
+        -105.10064,
+        21.48071
+    ],
+    "Jala": [
+        -104.43834,
+        21.10475
+    ],
+    "Ixtlán del Río": [
+        -104.3706,
+        21.03821
+    ],
+    "Ixtlán": [
+        -102.39364,
+        20.16894
+    ],
+    "Ixtlahuacán del Río": [
+        -103.24029,
+        20.86405
+    ],
+    "Ixtlahuacán de los Membrillos": [
+        -103.19336,
+        20.3486
+    ],
+    "Irapuato": [
+        -101.34654,
+        20.6784
+    ],
+    "Irámuco": [
+        -100.92307,
+        19.96174
+    ],
+    "Indaparapeo": [
+        -100.96862,
+        19.78834
+    ],
+    "Imuris": [
+        -110.85813,
+        30.77933
+    ],
+    "Huimilpan": [
+        -100.27737,
+        20.37199
+    ],
+    "Huetamo de Núñez": [
+        -100.89885,
+        18.63028
+    ],
+    "Huepaco": [
+        -108.86056,
+        25.98417
+    ],
+    "Huejuquilla el Alto": [
+        -103.89874,
+        22.62525
+    ],
+    "Huejúcar": [
+        -103.21142,
+        22.35881
+    ],
+    "Huatabampo": [
+        -109.64217,
+        26.8261
+    ],
+    "Huanímaro": [
+        -101.49888,
+        20.36819
+    ],
+    "Huandacareo": [
+        -101.27597,
+        19.9914
+    ],
+    "Huajicori": [
+        -105.31972,
+        22.63667
+    ],
+    "Hostotipaquillo": [
+        -104.05091,
+        21.06035
+    ],
+    "Hormiguero": [
+        -103.3407,
+        25.68346
+    ],
+    "Higueras de Abuya": [
+        -107.07092,
+        24.26058
+    ],
+    "El Higueral": [
+        -107.34803,
+        24.31044
+    ],
+    "Higuera de Zaragoza": [
+        -109.2979,
+        25.96789
+    ],
+    "Hidalgo del Parral": [
+        -105.6662,
+        26.92961
+    ],
+    "Heroica Zitácuaro": [
+        -100.35691,
+        19.43661
+    ],
+    "Heroica Caborca": [
+        -112.15847,
+        30.72043
+    ],
+    "Hermosillo": [
+        -114.92278,
+        32.51097
+    ],
+    "Hacienda Toribio": [
+        -102.68333,
+        23.08333
+    ],
+    "Guaymas": [
+        -110.89973,
+        27.91818
+    ],
+    "Guasave": [
+        -108.46907,
+        25.56648
+    ],
+    "Guanajuato": [
+        -101.2591,
+        21.01858
+    ],
+    "Guamúchil": [
+        -108.07976,
+        25.45842
+    ],
+    "Guadalupe y Calvo": [
+        -106.96262,
+        26.09117
+    ],
+    "Guadalupe": [
+        -102.5225,
+        22.75433
+    ],
+    "Guadalajara": [
+        -103.39182,
+        20.66682
+    ],
+    "Gómez Palacio": [
+        -103.4958,
+        25.56473
+    ],
+    "Ejido Gogorrón (Ex-Hacienda de Gogorrón)": [
+        -100.91138,
+        21.84019
+    ],
+    "General Zuazua": [
+        -100.10686,
+        25.89535
+    ],
+    "General Vicente Guerrero": [
+        -103.98265,
+        23.73253
+    ],
+    "General Juan José Ríos": [
+        -108.82585,
+        25.75686
+    ],
+    "General Escobedo": [
+        -100.3146,
+        25.79516
+    ],
+    "General Cepeda": [
+        -101.47571,
+        25.37766
+    ],
+    "Guaymitas": [
+        -109.43833,
+        27.11028
+    ],
+    "Garza García": [
+        -100.37758,
+        25.65384
+    ],
+    "Trinidad García de la Cadena": [
+        -103.46444,
+        21.21
+    ],
+    "Galeana": [
+        -100.07782,
+        24.82642
+    ],
+    "Fresnillo de González Echeverría": [
+        -102.86942,
+        23.17569
+    ],
+    "Francisco Sarabia (Cerrito Pelón)": [
+        -102.70158,
+        20.03086
+    ],
+    "Flor Azul": [
+        -109.0084,
+        25.86987
+    ],
+    "Etzatlán": [
+        -104.07736,
+        20.76839
+    ],
+    "Etúcuaro": [
+        -102.12971,
+        19.89251
+    ],
+    "Etchoropo": [
+        -109.68241,
+        26.76789
+    ],
+    "Etchojoa": [
+        -109.62613,
+        26.91094
+    ],
+    "La Estanzuela": [
+        -103.82609,
+        20.66892
+    ],
+    "Las Varas (Estación Babícora)": [
+        -108.02556,
+        29.48083
+    ],
+    "Esqueda": [
+        -109.58683,
+        30.72402
+    ],
+    "Escuinapa de Hidalgo": [
+        -105.77539,
+        22.83253
+    ],
+    "Escuadrón Doscientos Uno": [
+        -103.3485,
+        25.6747
+    ],
+    "Escalerillas": [
+        -101.07289,
+        22.11105
+    ],
+    "Ensenada": [
+        -116.59972,
+        31.86612
+    ],
+    "Encarnación de Díaz": [
+        -102.23975,
+        21.52727
+    ],
+    "Empalme Escobedo": [
+        -100.74741,
+        20.67197
+    ],
+    "Empalme": [
+        -110.81038,
+        27.96521
+    ],
+    "El Verde": [
+        -103.27901,
+        20.55567
+    ],
+    "El Tobarito": [
+        -109.88961,
+        27.36914
+    ],
+    "El Sauzal": [
+        -116.69256,
+        31.89329
+    ],
+    "El Sauz": [
+        -100.11536,
+        20.47802
+    ],
+    "El Salto": [
+        -104.5,
+        20.33333
+    ],
+    "El Salero": [
+        -102.32323,
+        22.38706
+    ],
+    "El Rosario": [
+        -107.18278,
+        24.25556
+    ],
+    "El Roble": [
+        -106.20583,
+        23.24556
+    ],
+    "El Quince": [
+        -103.28467,
+        20.54388
+    ],
+    "El Pueblito": [
+        -100.44139,
+        20.53972
+    ],
+    "El Potrero de Sataya": [
+        -107.70917,
+        24.69
+    ],
+    "El Oro de Hidalgo": [
+        -100.13062,
+        19.8026
+    ],
+    "El Limón": [
+        -104.15594,
+        19.82558
+    ],
+    "El Habal": [
+        -106.41722,
+        23.35111
+    ],
+    "El Grullo": [
+        -104.21707,
+        19.80647
+    ],
+    "El Fuerte": [
+        -108.61832,
+        26.41532
+    ],
+    "El Dorado": [
+        -107.36028,
+        24.32028
+    ],
+    "El Coyote": [
+        -103.28425,
+        25.6951
+    ],
+    "El Colorado": [
+        -100.24478,
+        20.56147
+    ],
+    "El Colomo": [
+        -104.25813,
+        19.06038
+    ],
+    "El Coacoyul": [
+        -101.47571,
+        17.6381
+    ],
+    "El Chayote": [
+        -102.23866,
+        22.28719
+    ],
+    "El Carrizo": [
+        -106.85147,
+        24.01713
+    ],
+    "El Cambio": [
+        -103.325,
+        25.64028
+    ],
+    "Villa Insurgentes (El Calabazal)": [
+        -103.8425,
+        23.74306
+    ],
+    "El Burrión": [
+        -108.41199,
+        25.53913
+    ],
+    "Arenal": [
+        -103.69304,
+        20.77512
+    ],
+    "Ejutla": [
+        -104.16194,
+        19.90639
+    ],
+    "Ejido Yucatán": [
+        -115.0938,
+        32.60434
+    ],
+    "Ejido Tabasco": [
+        -114.92658,
+        32.56187
+    ],
+    "Ejido Saltillo": [
+        -115.1248,
+        32.4243
+    ],
+    "Puebla": [
+        -115.3534,
+        32.56654
+    ],
+    "Ejido Plan de Ayala": [
+        -115.03158,
+        32.22023
+    ],
+    "Ejido Jiquilpan": [
+        -115.06382,
+        32.50131
+    ],
+    "Villa Insurgentes": [
+        -111.77685,
+        25.26029
+    ],
+    "Ejido El Largo": [
+        -108.26667,
+        29.68333
+    ],
+    "Ecuandureo": [
+        -102.1934,
+        20.16188
+    ],
+    "Victoria de Durango": [
+        -104.65756,
+        24.02032
+    ],
+    "Duarte": [
+        -101.5237,
+        21.087
+    ],
+    "Doctor Arroyo": [
+        -100.18134,
+        23.67211
+    ],
+    "Degollado": [
+        -102.14976,
+        20.46702
+    ],
+    "San Miguel Cuyutlán": [
+        -103.38987,
+        20.41633
+    ],
+    "Cutzamalá de Pinzón": [
+        -100.57886,
+        18.46789
+    ],
+    "Cupareo": [
+        -101.01806,
+        20.22876
+    ],
+    "Cúmpas": [
+        -109.77948,
+        29.99403
+    ],
+    "Culiacancito": [
+        -107.53393,
+        24.82466
+    ],
+    "Culiacán": [
+        -107.39734,
+        24.80737
+    ],
+    "Cuitzeo del Porvenir": [
+        -101.1407,
+        19.96944
+    ],
+    "Cuitzeo (La Estancia)": [
+        -102.78389,
+        20.34278
+    ],
+    "San Bartolo Cuitareo": [
+        -100.60111,
+        19.65139
+    ],
+    "Cuexcomatitlán": [
+        -103.36189,
+        20.4281
+    ],
+    "Cuerámaro": [
+        -101.67201,
+        20.62498
+    ],
+    "Cuencamé": [
+        -103.69975,
+        24.87058
+    ],
+    "Palmar de Cuautla": [
+        -105.6475,
+        22.21972
+    ],
+    "Cuanajo": [
+        -101.50778,
+        19.48489
+    ],
+    "El Crucero de Santa María": [
+        -103.86131,
+        20.38317
+    ],
+    "Creel": [
+        -107.63597,
+        27.75027
+    ],
+    "Coyula": [
+        -103.2,
+        20.63333
+    ],
+    "Coyuca de Catalán": [
+        -100.69843,
+        18.32552
+    ],
+    "Coyuca de Benítez": [
+        -100.08748,
+        17.00918
+    ],
+    "Cotija de la Paz": [
+        -102.70107,
+        19.80919
+    ],
+    "Villa de Costa Rica": [
+        -107.3875,
+        24.5875
+    ],
+    "Cosío": [
+        -102.3,
+        22.35
+    ],
+    "Cosalá": [
+        -106.68972,
+        24.4157
+    ],
+    "Cortazar": [
+        -100.96067,
+        20.48008
+    ],
+    "Coroneo": [
+        -100.36485,
+        20.19968
+    ],
+    "Coquimatlán": [
+        -103.81008,
+        19.20501
+    ],
+    "Copándaro de Galeana": [
+        -101.21362,
+        19.89278
+    ],
+    "Copándaro (Copándaro del Cuatro)": [
+        -101.65945,
+        19.90057
+    ],
+    "Contepec": [
+        -100.16383,
+        19.9542
+    ],
+    "Constancia": [
+        -107.18607,
+        24.22362
+    ],
+    "Congregación Ortíz": [
+        -105.51922,
+        28.25375
+    ],
+    "Concepción del Oro": [
+        -101.41781,
+        24.61318
+    ],
+    "Concepción de Buenos Aires": [
+        -103.25941,
+        19.97942
+    ],
+    "La Concha (La Concepción)": [
+        -105.4525,
+        22.5325
+    ],
+    "Compostela": [
+        -104.9001,
+        21.23777
+    ],
+    "Comonfort": [
+        -100.76056,
+        20.72154
+    ],
+    "Comala": [
+        -103.76054,
+        19.32764
+    ],
+    "Comachuén": [
+        -101.90506,
+        19.57106
+    ],
+    "Colotlán": [
+        -103.26664,
+        22.11343
+    ],
+    "Colorines": [
+        -100.21639,
+        19.17639
+    ],
+    "Colonia Vicente Guerrero": [
+        -115.99086,
+        30.73145
+    ],
+    "Antonio Rosales": [
+        -109.85306,
+        27.35111
+    ],
+    "Colonia Plenitud": [
+        -103.075,
+        23.2325
+    ],
+    "Colonia Nicolás Bravo (Kilómetro Noventa y Dos)": [
+        -105.52778,
+        28.09222
+    ],
+    "Ampliación Colonia Lázaro Cárdenas": [
+        -105.61667,
+        28.38333
+    ],
+    "Colonia Abraham González (La Quemada)": [
+        -105.4075,
+        28.20667
+    ],
+    "Colón": [
+        -100.04977,
+        20.78388
+    ],
+    "Colima": [
+        -103.72767,
+        19.24341
+    ],
+    "Cojumatlán de Régules": [
+        -102.85182,
+        20.11858
+    ],
+    "Cofradía de Navolato (Cofradía de los Rocha)": [
+        -107.64806,
+        24.76806
+    ],
+    "Cofradía": [
+        -103.55,
+        19.43333
+    ],
+    "Coeneo": [
+        -101.58472,
+        19.82195
+    ],
+    "Cócorit": [
+        -109.95906,
+        27.57518
+    ],
+    "Coalcomán de Vázquez Pallares": [
+        -103.16,
+        18.7775
+    ],
+    "Coahuayana": [
+        -103.66704,
+        18.75188
+    ],
+    "Ciudad Obregón": [
+        -109.9395,
+        27.49221
+    ],
+    "Ciudad Manuel Doblado": [
+        -101.95242,
+        20.72882
+    ],
+    "Ciudad Lerdo": [
+        -103.52524,
+        25.53538
+    ],
+    "Ciudad Juárez": [
+        -106.48333,
+        31.73333
+    ],
+    "Ciudad Hidalgo": [
+        -100.55739,
+        19.69229
+    ],
+    "Ciudad Guzmán": [
+        -103.4617,
+        19.70466
+    ],
+    "Ciudad Delicias": [
+        -105.47012,
+        28.19013
+    ],
+    "Ciudad Constitución": [
+        -111.65991,
+        25.03371
+    ],
+    "Ciudad Camargo": [
+        -105.17136,
+        27.67842
+    ],
+    "Ciudad Anáhuac": [
+        -100.13229,
+        27.24457
+    ],
+    "Ciudad Altamirano": [
+        -100.66611,
+        18.35472
+    ],
+    "Ciudad Acuña": [
+        -100.95217,
+        29.32322
+    ],
+    "Ciénega de Flores": [
+        -100.16742,
+        25.95488
+    ],
+    "Churintzio": [
+        -102.06469,
+        20.15056
+    ],
+    "Chucándiro": [
+        -101.33166,
+        19.90002
+    ],
+    "Choix": [
+        -108.32446,
+        26.71037
+    ],
+    "Jitonhueca": [
+        -109.605,
+        27.06167
+    ],
+    "Chiquilistlán": [
+        -103.81667,
+        20.2
+    ],
+    "Chilchota": [
+        -102.11846,
+        19.8464
+    ],
+    "Cherán": [
+        -101.95361,
+        19.68514
+    ],
+    "Chavinda": [
+        -102.45971,
+        20.00651
+    ],
+    "Charo": [
+        -101.045,
+        19.74737
+    ],
+    "Charcas": [
+        -101.11414,
+        23.12799
+    ],
+    "Charapán": [
+        -102.25071,
+        19.65005
+    ],
+    "Chapala": [
+        -103.19123,
+        20.29616
+    ],
+    "Chametla": [
+        -105.9575,
+        22.8775
+    ],
+    "Chalchihuites": [
+        -103.88295,
+        23.47633
+    ],
+    "Cerritos": [
+        -100.28474,
+        22.42836
+    ],
+    "Cerano": [
+        -101.38709,
+        20.10877
+    ],
+    "Celaya": [
+        -100.81566,
+        20.52353
+    ],
+    "Los Cedros": [
+        -103.2325,
+        20.3898
+    ],
+    "Ceballos": [
+        -104.12945,
+        26.5258
+    ],
+    "Castaños": [
+        -101.43211,
+        26.78932
+    ],
+    "Casimiro Castillo": [
+        -104.43572,
+        19.60429
+    ],
+    "Casas Grandes": [
+        -107.95628,
+        30.38269
+    ],
+    "Carranco": [
+        -101.09761,
+        21.82006
+    ],
+    "Carácuaro": [
+        -101.12525,
+        19.01947
+    ],
+    "Capula": [
+        -101.8,
+        19.7
+    ],
+    "El Capomal": [
+        -105.12116,
+        21.83935
+    ],
+    "Capilla de Guadalupe": [
+        -102.59185,
+        20.82739
+    ],
+    "Capácuaro": [
+        -102.05236,
+        19.54626
+    ],
+    "Cañitas de Felipe Pescador": [
+        -102.72639,
+        23.60584
+    ],
+    "Canatlán": [
+        -104.77327,
+        24.52576
+    ],
+    "Cananea": [
+        -110.29134,
+        30.98633
+    ],
+    "Cañada de Caracheo": [
+        -100.94539,
+        20.37549
+    ],
+    "Campo Sesenta": [
+        -110.1,
+        27.45
+    ],
+    "Campo Gobierno": [
+        -107.53927,
+        24.66019
+    ],
+    "Calvillo": [
+        -102.71849,
+        21.84583
+    ],
+    "Víctor Rosales": [
+        -102.70222,
+        22.94889
+    ],
+    "Cajititlán": [
+        -103.3094,
+        20.43174
+    ],
+    "Bustamante": [
+        -100.5,
+        26.53333
+    ],
+    "Buenos Aires": [
+        -102.18042,
+        19.0746
+    ],
+    "Buenavista Tomatlán": [
+        -102.58689,
+        19.21016
+    ],
+    "Buenaventura": [
+        -107.45955,
+        29.84321
+    ],
+    "Bucerías": [
+        -105.33422,
+        20.75502
+    ],
+    "Briseñas": [
+        -102.56208,
+        20.26856
+    ],
+    "Bimbaletes Aguascalientes (El Álamo)": [
+        -102.01917,
+        22.23444
+    ],
+    "Bermejillo": [
+        -103.62143,
+        25.88815
+    ],
+    "Benjamín Hill": [
+        -111.11331,
+        30.1679
+    ],
+    "Bellavista": [
+        -103.63742,
+        20.43408
+    ],
+    "Gonzales Ortega": [
+        -102.47575,
+        23.17989
+    ],
+    "Bahía de Kino": [
+        -111.94083,
+        28.82278
+    ],
+    "Bagojo Colectivo": [
+        -109.11778,
+        25.87417
+    ],
+    "Badiraguato": [
+        -107.55021,
+        25.36541
+    ],
+    "Bácum": [
+        -110.08325,
+        27.55142
+    ],
+    "Bacubirito": [
+        -107.915,
+        25.80944
+    ],
+    "Bachomobampo Número Dos": [
+        -109.14694,
+        25.73927
+    ],
+    "Autlán de Navarro": [
+        -104.36531,
+        19.77249
+    ],
+    "Aután": [
+        -105.30706,
+        21.68986
+    ],
+    "Atoyac de Álvarez": [
+        -100.43306,
+        17.20667
+    ],
+    "Atoyac": [
+        -103.51652,
+        20.0097
+    ],
+    "Atotonilquillo": [
+        -103.12356,
+        20.39287
+    ],
+    "Atotonilco el Alto": [
+        -102.50942,
+        20.55078
+    ],
+    "Aticama": [
+        -105.19701,
+        21.48376
+    ],
+    "San Juan Atezcapan": [
+        -100.18583,
+        19.16722
+    ],
+    "Atequiza": [
+        -103.14065,
+        20.39006
+    ],
+    "Atapan": [
+        -102.42392,
+        19.65137
+    ],
+    "Asientos": [
+        -102.08943,
+        22.23836
+    ],
+    "Ascención": [
+        -107.98333,
+        31.1
+    ],
+    "Arteaga": [
+        -102.29014,
+        18.3587
+    ],
+    "Armería": [
+        -103.96531,
+        18.93725
+    ],
+    "Ario de Rosales": [
+        -101.70701,
+        19.2092
+    ],
+    "Ario de Rayón": [
+        -102.34758,
+        20.02618
+    ],
+    "Arcelia": [
+        -100.28345,
+        18.31788
+    ],
+    "Arandas": [
+        -102.34635,
+        20.70519
+    ],
+    "Apozol": [
+        -103.09076,
+        21.46952
+    ],
+    "Apodaca": [
+        -100.16287,
+        25.75976
+    ],
+    "Apatzingán de la Constitución": [
+        -102.35162,
+        19.09522
+    ],
+    "Apaseo el Grande": [
+        -100.6843,
+        20.5448
+    ],
+    "Apaseo el Alto": [
+        -100.6224,
+        20.45748
+    ],
+    "Antunes": [
+        -102.20488,
+        19.01477
+    ],
+    "Antonio Escobedo": [
+        -104.01667,
+        20.8
+    ],
+    "Angostura": [
+        -108.16061,
+        25.36605
+    ],
+    "Angamacutiro de la Unión": [
+        -101.71126,
+        20.14902
+    ],
+    "Angahuán": [
+        -102.22522,
+        19.54773
+    ],
+    "Ameca": [
+        -104.04678,
+        20.54906
+    ],
+    "Amealco": [
+        -100.14526,
+        20.18716
+    ],
+    "Amatlán de Cañas": [
+        -104.40408,
+        20.80699
+    ],
+    "Amatitán": [
+        -103.73015,
+        20.8344
+    ],
+    "Amatepec": [
+        -100.18583,
+        18.68222
+    ],
+    "Amascala": [
+        -100.26467,
+        20.70257
+    ],
+    "Amanalco de Becerra": [
+        -100.01667,
+        19.31667
+    ],
+    "Altar": [
+        -111.83653,
+        30.71626
+    ],
+    "Alista": [
+        -103.7889,
+        19.63401
+    ],
+    "Alhuey": [
+        -108.13028,
+        25.37806
+    ],
+    "Alcocer": [
+        -100.70381,
+        20.8687
+    ],
+    "Álamos": [
+        -108.93442,
+        27.02326
+    ],
+    "Ajuchitlán del Progreso": [
+        -100.48353,
+        18.15189
+    ],
+    "Ajuchitlán": [
+        -100.01893,
+        20.70611
+    ],
+    "Ajijic": [
+        -103.25476,
+        20.30325
+    ],
+    "Ahuirán": [
+        -102.07302,
+        19.66585
+    ],
+    "Ahualulco de Mercado": [
+        -103.97461,
+        20.70137
+    ],
+    "Ahualulco": [
+        -101.16614,
+        22.40019
+    ],
+    "Ahuacatlán": [
+        -104.48448,
+        21.05414
+    ],
+    "Ahome": [
+        -109.17321,
+        25.91985
+    ],
+    "Aguililla": [
+        -102.79032,
+        18.73843
+    ],
+    "Agua Verde": [
+        -105.97479,
+        22.89339
+    ],
+    "Aguascalientes": [
+        -102.28259,
+        21.88234
+    ],
+    "Agua Prieta": [
+        -109.54876,
+        31.33071
+    ],
+    "Agua Caliente Grande (De Gastélum)": [
+        -108.34814,
+        26.53762
+    ],
+    "Adolfo Ruíz Cortínes": [
+        -108.75,
+        25.75
+    ],
+    "Acuitzio del Canje": [
+        -101.33331,
+        19.49472
+    ],
+    "Acatic": [
+        -102.91056,
+        20.77995
+    ],
+    "Acaponeta": [
+        -105.36267,
+        22.49317
+    ],
+    "Acámbaro": [
+        -100.72249,
+        20.03024
+    ],
+    "Ramón Corona": [
+        -103.63028,
+        24.18611
+    ],
+    "La Presa": [
+        -105.39349,
+        22.3433
+    ],
+    "Mesa Grande": [
+        -102.72167,
+        21.805
+    ],
+    "San Antonio de los Ríos": [
+        -102.4708,
+        22.16071
+    ],
+    "Jesús Gómez Portugal (Margaritas)": [
+        -102.29139,
+        21.99917
+    ],
+    "Paseos de la Providencia [Fraccionamiento]": [
+        -102.2771,
+        22.02425
+    ],
+    "Peñuelas (El Cienegal)": [
+        -102.27583,
+        21.7225
+    ],
+    "El Refugio de Providencia (Providencia)": [
+        -102.25778,
+        22.34667
+    ],
+    "Puertecito de la Virgen": [
+        -102.26889,
+        21.96028
+    ],
+    "Jaltomate": [
+        -102.14583,
+        22.01528
+    ],
+    "Noria del Borrego (Norias)": [
+        -102.04194,
+        22.28722
+    ],
+    "Guadalupe de Atlas": [
+        -102.03139,
+        22.26778
+    ],
+    "Bahía Asunción": [
+        -114.29562,
+        27.13994
+    ],
+    "Villa Morelos": [
+        -111.62806,
+        24.93
+    ],
+    "El Pescadero": [
+        -110.16833,
+        23.36417
+    ],
+    "Victoria": [
+        -100.21534,
+        21.21078
+    ],
+    "Doctor Mora": [
+        -100.31906,
+        21.1425
+    ],
+    "Palo Colorado": [
+        -100.72896,
+        21.00808
+    ],
+    "San Isidro de la Estacada": [
+        -100.68473,
+        21.14746
+    ],
+    "Dolores Hidalgo Cuna de la Independencia Nacional": [
+        -100.9325,
+        21.15611
+    ],
+    "El Refugio de los Sauces": [
+        -101.53084,
+        21.01488
+    ],
+    "San José del Torreón": [
+        -101.47056,
+        21.47444
+    ],
+    "Xichú": [
+        -100.05528,
+        21.29972
+    ],
+    "El Tejocote (El Domingo)": [
+        -100.915,
+        21.67611
+    ],
+    "Chirimoya (Estación Chirimoya)": [
+        -101.09139,
+        21.59278
+    ],
+    "Maravatío del Encinal": [
+        -100.96331,
+        20.20514
+    ],
+    "Mezquite de Luna": [
+        -101.89288,
+        20.29743
+    ],
+    "Zapote de Barajas": [
+        -101.69948,
+        20.37587
+    ],
+    "El Sauz (El Sauz de Villaseñor)": [
+        -100.79667,
+        20.41056
+    ],
+    "San Juan Bautista Cacalote": [
+        -100.78833,
+        20.34806
+    ],
+    "El Salto de Espejo": [
+        -100.50566,
+        20.45028
+    ],
+    "San Cayetano": [
+        -100.81944,
+        20.60333
+    ],
+    "Gasca": [
+        -100.85639,
+        20.60444
+    ],
+    "Franco Tavera": [
+        -100.92704,
+        20.60595
+    ],
+    "El Divisador": [
+        -101.15806,
+        20.57722
+    ],
+    "San José de la Montaña": [
+        -101.07216,
+        20.60049
+    ],
+    "C. Militar Sarabia": [
+        -101.06125,
+        20.52192
+    ],
+    "Mexicanos": [
+        -101.07105,
+        20.53104
+    ],
+    "La Tinaja": [
+        -101.21556,
+        20.49028
+    ],
+    "La Capilla": [
+        -101.30009,
+        20.55691
+    ],
+    "San Vicente de Flores": [
+        -101.25268,
+        20.62184
+    ],
+    "Cuchicuato": [
+        -101.46163,
+        20.66072
+    ],
+    "Colonia Morelos de Guadalupe de Rivera": [
+        -101.44833,
+        20.59556
+    ],
+    "San Ignacio de Rivera (Ojo de Agua)": [
+        -101.46127,
+        20.55926
+    ],
+    "Plan Guanajuato (La Sandía)": [
+        -101.69694,
+        20.92167
+    ],
+    "Medio Sitio": [
+        -101.35711,
+        20.86952
+    ],
+    "Bajío de Bonillas": [
+        -101.49528,
+        20.94944
+    ],
+    "San José del Rodeo": [
+        -101.21639,
+        20.92083
+    ],
+    "Potrerillos (Guanajal)": [
+        -101.86986,
+        21.08154
+    ],
+    "La Ortiga": [
+        -101.00056,
+        19.96222
+    ],
+    "Los Fierros": [
+        -100.75936,
+        20.19407
+    ],
+    "Ansihuacuaro": [
+        -101.80778,
+        20.19972
+    ],
+    "Isaac Arriaga (Santa Ana Mancera)": [
+        -101.49361,
+        20.24583
+    ],
+    "San Antonio Molinos": [
+        -100.2146,
+        20.07515
+    ],
+    "Santa María de los Ángeles": [
+        -100.19938,
+        19.78629
+    ],
+    "Manzana de San Luis": [
+        -100.27704,
+        19.56236
+    ],
+    "Irimbo": [
+        -100.47841,
+        19.70004
+    ],
+    "Mesón Nuevo (Cañada de la Magdalena)": [
+        -101.16597,
+        19.81474
+    ],
+    "Santiago Azajo": [
+        -101.68639,
+        19.70667
+    ],
+    "Zopoco": [
+        -102.07518,
+        19.84066
+    ],
+    "Las Cañas": [
+        -101.97611,
+        18.56583
+    ],
+    "Las Guacamayas": [
+        -102.21268,
+        18.02108
+    ],
+    "Infiernillo (Morelos de Infiernillo)": [
+        -101.90111,
+        18.2825
+    ],
+    "Santa Ana Zicatecoyan": [
+        -100.22,
+        18.57167
+    ],
+    "San Simón de Guerrero": [
+        -100.00417,
+        19.02111
+    ],
+    "San Pedro Tenayac": [
+        -100.17694,
+        19.04667
+    ],
+    "Zacazonapan": [
+        -100.25518,
+        19.07278
+    ],
+    "Cuadrilla de Dolores": [
+        -100.06944,
+        19.14
+    ],
+    "Casas Viejas": [
+        -100.10778,
+        19.15167
+    ],
+    "Santa Rosa de Lima": [
+        -100.10307,
+        19.7828
+    ],
+    "Las Rosas": [
+        -100.15628,
+        19.54589
+    ],
+    "Pantla": [
+        -101.63639,
+        17.73861
+    ],
+    "San José Ixtapa (Barrio Viejo)": [
+        -101.61944,
+        17.70222
+    ],
+    "Los Almendros": [
+        -101.43917,
+        17.61167
+    ],
+    "San Jerónimo el Grande": [
+        -100.50179,
+        18.21167
+    ],
+    "El Ticui": [
+        -100.44472,
+        17.21639
+    ],
+    "Arenal de Álvarez (Arenal de Paco)": [
+        -100.455,
+        17.12611
+    ],
+    "Colonia Luces en el Mar": [
+        -100.01592,
+        16.92195
+    ],
+    "Las Jarretaderas": [
+        -105.27389,
+        20.6925
+    ],
+    "Las Lajitas": [
+        -100.40028,
+        20.80404
+    ],
+    "Montenegro": [
+        -100.42861,
+        20.76333
+    ],
+    "Colonia los Ángeles": [
+        -100.48828,
+        20.53523
+    ],
+    "Los Cerritos": [
+        -100.06314,
+        20.56194
+    ],
+    "Apapátaro": [
+        -100.36861,
+        20.46806
+    ],
+    "Charco Blanco": [
+        -100.47127,
+        20.43454
+    ],
+    "Las Taponas": [
+        -100.38333,
+        20.41667
+    ],
+    "Santiago Mexquititlán Barrio 4to.": [
+        -100.06833,
+        20.06306
+    ],
+    "San Juan De Los Platanos": [
+        -102.43929,
+        19.1371
+    ],
+    "francisco villa": [
+        -97.76442,
+        18.84406
+    ],
+    "Huapinol": [
+        -92.9109,
+        17.92285
+    ],
+    "Zapopan2": [
+        -103.4,
+        20.7167
+    ],
+    "Colonia del Valle": [
+        -99.16204,
+        19.38611
+    ],
+    "Colonia Lindavista": [
+        -99.12475,
+        19.49156
+    ],
+    "Col. Bosques de las Lomas": [
+        -99.26587,
+        19.37893
+    ],
+    "Colonia Nativitas": [
+        -99.13685,
+        19.38119
+    ],
+    "Las Higuerillas": [
+        -97.43611,
+        25.26222
+    ],
+    "El Barrancón del Tío Blas (El Barrancón)": [
+        -97.71694,
+        25.01556
+    ],
+    "La Isla Km 10": [
+        -97.4995,
+        20.60677
+    ],
+    "Poblado Lázaro Cárdenas (La Veintiocho)": [
+        -115.06528,
+        32.37333
+    ],
+    "Ejido Doctor Alberto Oviedo Mota (El Indiviso)": [
+        -114.98361,
+        32.02444
+    ],
+    "San Pedro Garza Garcia": [
+        -100.40268,
+        25.65716
+    ]
+}

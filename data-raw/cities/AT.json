@@ -1,0 +1,6618 @@
+{
+    "Neu-Guntramsdorf": [
+        16.31573,
+        48.0642
+    ],
+    "Kleinarl": [
+        13.31955,
+        47.27725
+    ],
+    "Edelstauden": [
+        15.61667,
+        46.98333
+    ],
+    "Neuhaus am Klausenbach": [
+        16.02889,
+        46.87056
+    ],
+    "Millstatt": [
+        13.58056,
+        46.80417
+    ],
+    "Zwölfaxing": [
+        16.46267,
+        48.1099
+    ],
+    "Zwettl Stift": [
+        15.2,
+        48.61667
+    ],
+    "Zwettl an der Rodl": [
+        14.27133,
+        48.46552
+    ],
+    "Zurndorf": [
+        17.00315,
+        47.98314
+    ],
+    "Zöblen": [
+        10.48333,
+        47.5
+    ],
+    "Zöbern": [
+        16.11667,
+        47.5
+    ],
+    "Zistersdorf": [
+        16.75,
+        48.53333
+    ],
+    "Zirl": [
+        11.23333,
+        47.28333
+    ],
+    "Zillingtal": [
+        16.40928,
+        47.81442
+    ],
+    "Zillingdorf": [
+        16.33333,
+        47.85
+    ],
+    "Ziersdorf": [
+        15.91667,
+        48.51667
+    ],
+    "Zeutschach": [
+        14.36667,
+        47.06667
+    ],
+    "Zettling": [
+        15.41667,
+        46.95
+    ],
+    "Zerlach": [
+        15.65,
+        46.93333
+    ],
+    "Zeltweg": [
+        14.75,
+        47.18333
+    ],
+    "Zellerndorf": [
+        15.95,
+        48.68333
+    ],
+    "Zellberg": [
+        11.85,
+        47.23333
+    ],
+    "Zell am Ziller": [
+        11.88333,
+        47.23333
+    ],
+    "Zell am See": [
+        12.79444,
+        47.32556
+    ],
+    "Zell am Pettenfirst": [
+        13.58333,
+        48.06667
+    ],
+    "Zell am Moos": [
+        13.31667,
+        47.9
+    ],
+    "Zeillern": [
+        14.8,
+        48.11667
+    ],
+    "Zederhaus": [
+        13.5,
+        47.15
+    ],
+    "Zams": [
+        10.5897,
+        47.15844
+    ],
+    "Zagersdorf": [
+        16.51382,
+        47.76471
+    ],
+    "Ybbsitz": [
+        14.88333,
+        47.93333
+    ],
+    "Ybbs an der Donau": [
+        15.08333,
+        48.16667
+    ],
+    "Würmla": [
+        15.86031,
+        48.25497
+    ],
+    "Würflach": [
+        16.05463,
+        47.77648
+    ],
+    "Wundschuh": [
+        15.45111,
+        46.92639
+    ],
+    "Wullersdorf": [
+        16.10089,
+        48.62792
+    ],
+    "Wulkaprodersdorf": [
+        16.50447,
+        47.79753
+    ],
+    "Wörth an der Lafnitz": [
+        16.06667,
+        47.2
+    ],
+    "Wörterberg": [
+        16.1,
+        47.21667
+    ],
+    "Wörschach": [
+        14.15,
+        47.55
+    ],
+    "Wörgl": [
+        12.06667,
+        47.48333
+    ],
+    "Wördern": [
+        16.21016,
+        48.334
+    ],
+    "Wolkersdorf im Weinviertel": [
+        16.51667,
+        48.38333
+    ],
+    "Wolfurt": [
+        9.75,
+        47.46667
+    ],
+    "Wolfsthal": [
+        17,
+        48.13333
+    ],
+    "Wolfsgraben": [
+        16.12098,
+        48.1587
+    ],
+    "Wolfsegg am Hausruck": [
+        13.67274,
+        48.10669
+    ],
+    "Wolfsberg im Schwarzautal": [
+        15.65889,
+        46.84389
+    ],
+    "Wolfsberg": [
+        14.84417,
+        46.84056
+    ],
+    "Wolfsbach": [
+        14.66667,
+        48.06667
+    ],
+    "Wolfpassing": [
+        15.05,
+        48.06667
+    ],
+    "Wolfau": [
+        16.1,
+        47.25
+    ],
+    "Winklern bei Oberwölz": [
+        14.23333,
+        47.2
+    ],
+    "Winklern": [
+        12.87472,
+        46.87361
+    ],
+    "Winklarn": [
+        14.83333,
+        48.08333
+    ],
+    "Windigsteig": [
+        15.28333,
+        48.76667
+    ],
+    "Winden am See": [
+        16.75,
+        47.95
+    ],
+    "Wimpassing an der Leitha": [
+        16.43333,
+        47.91667
+    ],
+    "Wimpassing im Schwarzatale": [
+        16.03334,
+        47.70295
+    ],
+    "Willendorf am Steinfelde": [
+        16.05686,
+        47.78929
+    ],
+    "Wilhelmsburg": [
+        15.60539,
+        48.10571
+    ],
+    "Wilfersdorf": [
+        16.63333,
+        48.58333
+    ],
+    "Wildon": [
+        15.51667,
+        46.88333
+    ],
+    "Wildermieming": [
+        11.01667,
+        47.31667
+    ],
+    "Wildalpen": [
+        14.98333,
+        47.65
+    ],
+    "Wiesmath": [
+        16.28333,
+        47.61667
+    ],
+    "Wiesing": [
+        11.79708,
+        47.40486
+    ],
+    "Wiesfleck": [
+        16.13333,
+        47.38333
+    ],
+    "Wiesen": [
+        16.33798,
+        47.73776
+    ],
+    "Wieselburg": [
+        15.13333,
+        48.13333
+    ],
+    "Wies": [
+        15.27194,
+        46.72028
+    ],
+    "Wiener Neustadt": [
+        16.25,
+        47.8
+    ],
+    "Wiener Neudorf": [
+        16.31384,
+        48.08278
+    ],
+    "Vienna": [
+        16.37208,
+        48.20849
+    ],
+    "Weyer": [
+        14.66409,
+        47.85717
+    ],
+    "Wetzelsdorf": [
+        15.39923,
+        47.05293
+    ],
+    "Wettmannstätten": [
+        15.38722,
+        46.83056
+    ],
+    "Westendorf": [
+        12.21667,
+        47.43333
+    ],
+    "Wernersdorf": [
+        15.2,
+        46.71667
+    ],
+    "Werndorf": [
+        15.49083,
+        46.92417
+    ],
+    "Wernberg": [
+        13.93333,
+        46.61667
+    ],
+    "Werfenweng": [
+        13.25,
+        47.46667
+    ],
+    "Werfen": [
+        13.18333,
+        47.46667
+    ],
+    "Weppersdorf": [
+        16.42679,
+        47.57954
+    ],
+    "Wenns": [
+        10.73333,
+        47.16667
+    ],
+    "Wels": [
+        14.03333,
+        48.16667
+    ],
+    "Weiz": [
+        15.61667,
+        47.21667
+    ],
+    "Weitra": [
+        14.88333,
+        48.7
+    ],
+    "Weitersfeld": [
+        15.8,
+        48.76667
+    ],
+    "Weitendorf": [
+        15.46694,
+        46.89611
+    ],
+    "Weiten": [
+        15.25,
+        48.28333
+    ],
+    "Weistrach": [
+        14.58333,
+        48.05
+    ],
+    "Weißkirchen in Steiermark": [
+        14.73333,
+        47.15
+    ],
+    "Weißenbach bei Liezen": [
+        14.21667,
+        47.56667
+    ],
+    "Weissenbach an der Triesting": [
+        16.03935,
+        47.98211
+    ],
+    "Weinzierl bei Krems": [
+        15.6,
+        48.4
+    ],
+    "Weinzierl am Walde": [
+        15.43333,
+        48.41667
+    ],
+    "Weingraben": [
+        16.36375,
+        47.51393
+    ],
+    "Weinburg am Saßbach": [
+        15.72111,
+        46.75361
+    ],
+    "Weinburg": [
+        15.53295,
+        48.11351
+    ],
+    "Weiler": [
+        9.65,
+        47.29972
+    ],
+    "Weikersdorf am Steinfelde": [
+        16.14389,
+        47.80612
+    ],
+    "Weikendorf": [
+        16.76651,
+        48.34438
+    ],
+    "Weiden bei Rechnitz": [
+        16.35,
+        47.3
+    ],
+    "Weiden am See": [
+        16.86899,
+        47.92532
+    ],
+    "Weichselbaum": [
+        16.1875,
+        46.9425
+    ],
+    "Weer": [
+        11.63333,
+        47.3
+    ],
+    "Wattens": [
+        11.6,
+        47.28333
+    ],
+    "Wattenberg": [
+        11.6,
+        47.28333
+    ],
+    "Wartmannstetten": [
+        16.07506,
+        47.69359
+    ],
+    "Warth": [
+        10.18333,
+        47.25
+    ],
+    "Wängle": [
+        10.68995,
+        47.48658
+    ],
+    "Wang": [
+        15.02672,
+        48.04538
+    ],
+    "Walpersbach": [
+        16.23333,
+        47.71667
+    ],
+    "Wallern im Burgenland": [
+        16.93706,
+        47.72847
+    ],
+    "Waldzell": [
+        13.42701,
+        48.13562
+    ],
+    "Waldneukirchen": [
+        14.25879,
+        47.99854
+    ],
+    "Waldkirchen an der Thaya": [
+        15.35,
+        48.93333
+    ],
+    "Walding": [
+        14.1576,
+        48.35209
+    ],
+    "Wald im Pinzgau": [
+        12.23333,
+        47.25
+    ],
+    "Waldhausen": [
+        15.25,
+        48.51667
+    ],
+    "Waldenstein": [
+        15.01667,
+        48.71667
+    ],
+    "Waldegg": [
+        16.05154,
+        47.86852
+    ],
+    "Wald am Schoberpaß": [
+        14.66667,
+        47.45
+    ],
+    "Walchsee": [
+        12.31868,
+        47.65163
+    ],
+    "Waidring": [
+        12.56667,
+        47.58333
+    ],
+    "Waidmannsfeld": [
+        15.98116,
+        47.87042
+    ],
+    "Waidhofen an der Ybbs": [
+        14.77361,
+        47.96004
+    ],
+    "Waidhofen an der Thaya": [
+        15.28333,
+        48.81667
+    ],
+    "Wagrain": [
+        13.29889,
+        47.33528
+    ],
+    "Wagna": [
+        15.55,
+        46.75
+    ],
+    "Vösendorf": [
+        16.34036,
+        48.12107
+    ],
+    "Murau": [
+        14.16667,
+        47.1
+    ],
+    "Vordernberg": [
+        15,
+        47.46667
+    ],
+    "Vorderhornbach": [
+        10.53333,
+        47.36667
+    ],
+    "Vorchdorf": [
+        13.92122,
+        48.00388
+    ],
+    "Vorau": [
+        15.88333,
+        47.4
+    ],
+    "Vomp": [
+        11.68333,
+        47.33333
+    ],
+    "Völs": [
+        11.33333,
+        47.25
+    ],
+    "Völkermarkt": [
+        14.63444,
+        46.66222
+    ],
+    "Volders": [
+        11.56667,
+        47.28333
+    ],
+    "Voitsberg": [
+        15.15,
+        47.03333
+    ],
+    "Vöcklamarkt": [
+        13.48383,
+        48.0025
+    ],
+    "Vöcklabruck": [
+        13.65,
+        48.01667
+    ],
+    "Vitis": [
+        15.18259,
+        48.75964
+    ],
+    "Virgen": [
+        12.45,
+        47
+    ],
+    "Vils": [
+        10.63333,
+        47.55
+    ],
+    "Villach": [
+        13.85583,
+        46.61028
+    ],
+    "Viktorsberg": [
+        9.66667,
+        47.29972
+    ],
+    "Viehhofen": [
+        12.73333,
+        47.36667
+    ],
+    "Velden am Wörthersee": [
+        14.0413,
+        46.61301
+    ],
+    "Veitsch": [
+        15.4945,
+        47.57815
+    ],
+    "Uttendorf": [
+        12.56667,
+        47.28333
+    ],
+    "Unterwart": [
+        16.23333,
+        47.25
+    ],
+    "Untertauern": [
+        13.5,
+        47.3
+    ],
+    "Unterstinkenbrunn": [
+        16.33333,
+        48.66667
+    ],
+    "Untersiebenbrunn": [
+        16.73333,
+        48.25
+    ],
+    "Rohrbach an der Gölsen": [
+        15.74169,
+        48.04699
+    ],
+    "Unterpremstätten": [
+        15.40417,
+        46.96472
+    ],
+    "Unterperfuss": [
+        11.25,
+        47.26667
+    ],
+    "Unterlamm": [
+        16.06389,
+        46.97694
+    ],
+    "Unterkohlstätten": [
+        16.31667,
+        47.38333
+    ],
+    "Grünburg": [
+        14.26472,
+        47.97234
+    ],
+    "Unterfrauenhaid": [
+        16.49885,
+        47.57116
+    ],
+    "Unterfladnitz": [
+        15.66667,
+        47.18333
+    ],
+    "Unterbergla": [
+        15.28333,
+        46.73333
+    ],
+    "Unterauersbach": [
+        15.77028,
+        46.86556
+    ],
+    "Unken": [
+        12.71667,
+        47.65
+    ],
+    "Ungerdorf": [
+        15.66667,
+        47.08333
+    ],
+    "Ungenach": [
+        13.61667,
+        48.05
+    ],
+    "Umhausen": [
+        10.93333,
+        47.13333
+    ],
+    "Ulrichsberg": [
+        13.91049,
+        48.67498
+    ],
+    "Uderns": [
+        11.86667,
+        47.31667
+    ],
+    "Übersbach": [
+        16.05,
+        47.01667
+    ],
+    "Übersaxen": [
+        9.6708,
+        47.25284
+    ],
+    "Übelbach": [
+        15.23615,
+        47.22534
+    ],
+    "Tweng": [
+        13.6,
+        47.18333
+    ],
+    "Türnitz": [
+        15.49295,
+        47.93095
+    ],
+    "Turnau": [
+        15.33333,
+        47.55
+    ],
+    "Tulln": [
+        16.05858,
+        48.32829
+    ],
+    "Tulfes": [
+        11.53333,
+        47.25
+    ],
+    "Tulbing": [
+        16.12226,
+        48.29336
+    ],
+    "Tschanigraben": [
+        16.3,
+        47.01667
+    ],
+    "Tschagguns": [
+        9.9,
+        47.08333
+    ],
+    "Trumau": [
+        16.34268,
+        47.99348
+    ],
+    "Trössing": [
+        15.81667,
+        46.81667
+    ],
+    "Trofaiach": [
+        15,
+        47.41667
+    ],
+    "Tristach": [
+        12.78972,
+        46.81611
+    ],
+    "Trins": [
+        11.41667,
+        47.08333
+    ],
+    "Triebendorf": [
+        14.23333,
+        47.11667
+    ],
+    "Trieben": [
+        14.48333,
+        47.48333
+    ],
+    "Treglwang": [
+        14.58333,
+        47.46667
+    ],
+    "Trebesing": [
+        13.51028,
+        46.88639
+    ],
+    "Trautmannsdorf in Oststeiermark": [
+        15.88333,
+        46.86667
+    ],
+    "Trautmannsdorf an der Leitha": [
+        16.63333,
+        48.01667
+    ],
+    "Trausdorf an der Wulka": [
+        16.5576,
+        47.8135
+    ],
+    "Traunstein": [
+        15.1,
+        48.43333
+    ],
+    "Traun": [
+        14.23459,
+        48.22656
+    ],
+    "Trattenbach": [
+        15.86667,
+        47.6
+    ],
+    "Traismauer": [
+        15.73333,
+        48.35
+    ],
+    "Traiskirchen": [
+        16.29324,
+        48.01485
+    ],
+    "Traisen": [
+        15.6,
+        48.03333
+    ],
+    "Trahütten": [
+        15.15694,
+        46.825
+    ],
+    "Traboch": [
+        14.98333,
+        47.36667
+    ],
+    "Tobaj": [
+        16.3,
+        47.08333
+    ],
+    "Tobadill": [
+        10.51667,
+        47.11667
+    ],
+    "Timelkam": [
+        13.6076,
+        48.00394
+    ],
+    "Tieschen": [
+        15.94222,
+        46.78611
+    ],
+    "Tiefgraben": [
+        13.35,
+        47.88333
+    ],
+    "Thüringen": [
+        9.76667,
+        47.2
+    ],
+    "Thörl": [
+        15.21667,
+        47.51667
+    ],
+    "Thomatal": [
+        13.75,
+        47.06667
+    ],
+    "Thomasberg": [
+        16.13333,
+        47.56667
+    ],
+    "Theresienfeld": [
+        16.23333,
+        47.85
+    ],
+    "Thaya": [
+        15.28902,
+        48.85489
+    ],
+    "Thaur": [
+        11.46667,
+        47.3
+    ],
+    "Thalheim bei Wels": [
+        14.03333,
+        48.15
+    ],
+    "Thalgau": [
+        13.25,
+        47.83333
+    ],
+    "Teufenbach": [
+        14.35,
+        47.13333
+    ],
+    "Ternitz": [
+        16.03575,
+        47.71565
+    ],
+    "Ternberg": [
+        14.35,
+        47.93333
+    ],
+    "Terfens": [
+        11.65,
+        47.31667
+    ],
+    "Telfs": [
+        11.06667,
+        47.3
+    ],
+    "Telfes im Stubai": [
+        11.36667,
+        47.16667
+    ],
+    "Teesdorf": [
+        16.28333,
+        47.95
+    ],
+    "Taxenbach": [
+        12.96667,
+        47.28333
+    ],
+    "Tauplitz": [
+        14.01293,
+        47.56005
+    ],
+    "Tattendorf": [
+        16.3,
+        47.95
+    ],
+    "Tarrenz": [
+        10.76667,
+        47.26667
+    ],
+    "Tannheim": [
+        10.51667,
+        47.48333
+    ],
+    "Tamsweg": [
+        13.81102,
+        47.12808
+    ],
+    "Tadten": [
+        16.98333,
+        47.76667
+    ],
+    "Sulzberg": [
+        9.9,
+        47.51667
+    ],
+    "Sulz": [
+        9.65183,
+        47.28721
+    ],
+    "Sulztal an der Weinstraße": [
+        15.55,
+        46.68333
+    ],
+    "Stummerberg": [
+        11.91667,
+        47.28333
+    ],
+    "Stumm": [
+        11.88333,
+        47.28333
+    ],
+    "Stuhlfelden": [
+        12.51667,
+        47.28333
+    ],
+    "Studenzen": [
+        15.75417,
+        47.00583
+    ],
+    "Stubenberg": [
+        15.8,
+        47.23333
+    ],
+    "Stronsdorf": [
+        16.28333,
+        48.65
+    ],
+    "Strobl": [
+        13.48333,
+        47.71667
+    ],
+    "Strengen": [
+        10.45,
+        47.13333
+    ],
+    "Strengberg": [
+        14.63333,
+        48.13333
+    ],
+    "Strem": [
+        16.41426,
+        47.04498
+    ],
+    "Stratzing": [
+        15.6,
+        48.45
+    ],
+    "Strasswalchen": [
+        13.25,
+        47.98333
+    ],
+    "Straß in Steiermark": [
+        15.62444,
+        46.72722
+    ],
+    "Strasshof an der Nordbahn": [
+        16.66667,
+        48.31667
+    ],
+    "Strassen": [
+        12.48417,
+        46.75389
+    ],
+    "Straßburg": [
+        14.32861,
+        46.89444
+    ],
+    "Strass im Zillertal": [
+        11.81966,
+        47.39556
+    ],
+    "Strallegg": [
+        15.71667,
+        47.4
+    ],
+    "Straden": [
+        15.86806,
+        46.80917
+    ],
+    "Stotzing": [
+        16.55,
+        47.9
+    ],
+    "Stössing": [
+        15.81379,
+        48.12267
+    ],
+    "Stoob": [
+        16.4776,
+        47.52845
+    ],
+    "Stocking": [
+        15.53333,
+        46.88333
+    ],
+    "Stockerau": [
+        16.21667,
+        48.38333
+    ],
+    "Stockenboi": [
+        13.52306,
+        46.72611
+    ],
+    "Stiwoll": [
+        15.21667,
+        47.1
+    ],
+    "Steinbrunn": [
+        16.41667,
+        47.83333
+    ],
+    "Stinatz": [
+        16.11667,
+        47.2
+    ],
+    "Steyregg": [
+        14.36995,
+        48.28513
+    ],
+    "Steyr": [
+        14.42127,
+        48.04274
+    ],
+    "Steuerberg": [
+        14.11667,
+        46.78333
+    ],
+    "Stetten": [
+        16.38333,
+        48.36667
+    ],
+    "Stetteldorf am Wagram": [
+        16.01667,
+        48.4
+    ],
+    "Stenzengreith": [
+        15.51667,
+        47.2
+    ],
+    "Steinhaus": [
+        14.0189,
+        48.11614
+    ],
+    "Steinfeld": [
+        13.27167,
+        46.76556
+    ],
+    "Steindorf am Ossiacher See": [
+        14.00917,
+        46.69833
+    ],
+    "Steinbach am Attersee": [
+        13.55,
+        47.81667
+    ],
+    "Steinakirchen am Forst": [
+        15.03333,
+        48.06667
+    ],
+    "Steinach am Brenner": [
+        11.46667,
+        47.08333
+    ],
+    "Stein": [
+        16.08694,
+        46.99778
+    ],
+    "Stegersbach": [
+        16.16667,
+        47.16667
+    ],
+    "Steeg": [
+        10.29436,
+        47.24393
+    ],
+    "Statzendorf": [
+        15.64127,
+        48.30752
+    ],
+    "Stattegg": [
+        15.41667,
+        47.13333
+    ],
+    "Stanz bei Landeck": [
+        10.5534,
+        47.14758
+    ],
+    "Stanzach": [
+        10.56667,
+        47.38333
+    ],
+    "Stans": [
+        11.71667,
+        47.36667
+    ],
+    "Stams": [
+        10.98315,
+        47.27603
+    ],
+    "Stambach": [
+        15.93333,
+        47.33333
+    ],
+    "Stallhofen": [
+        15.21667,
+        47.05
+    ],
+    "Stallhof": [
+        15.28333,
+        46.88333
+    ],
+    "Stallehr": [
+        9.85,
+        47.13306
+    ],
+    "Stall": [
+        13.03694,
+        46.89056
+    ],
+    "Stainz bei Straden": [
+        15.89222,
+        46.82444
+    ],
+    "Stainz": [
+        15.26722,
+        46.89444
+    ],
+    "Stainach": [
+        14.10872,
+        47.53343
+    ],
+    "Stadtschlaining": [
+        16.28333,
+        47.31667
+    ],
+    "Stadl-Paura": [
+        13.86667,
+        48.08333
+    ],
+    "Stadl an der Mur": [
+        13.96667,
+        47.08333
+    ],
+    "Staatz": [
+        16.48333,
+        48.66667
+    ],
+    "Spitz": [
+        15.41416,
+        48.3656
+    ],
+    "Spittal an der Drau": [
+        13.5,
+        46.8
+    ],
+    "Spital am Semmering": [
+        15.75096,
+        47.61345
+    ],
+    "Spillern": [
+        16.25,
+        48.38333
+    ],
+    "Spielfeld": [
+        15.63722,
+        46.70556
+    ],
+    "Spielberg bei Knittelfeld": [
+        14.78333,
+        47.21667
+    ],
+    "Spannberg": [
+        16.73647,
+        48.46393
+    ],
+    "Sonntagberg": [
+        14.76065,
+        47.99561
+    ],
+    "Sommerein": [
+        16.65,
+        47.98333
+    ],
+    "Sollenau": [
+        16.25,
+        47.88333
+    ],
+    "Söll": [
+        12.19221,
+        47.50378
+    ],
+    "Sölden": [
+        11,
+        46.96667
+    ],
+    "Hall in Tirol": [
+        11.51667,
+        47.28333
+    ],
+    "Södingberg": [
+        15.16667,
+        47.1
+    ],
+    "Söchau": [
+        16.01667,
+        47.03333
+    ],
+    "Soboth": [
+        15.07833,
+        46.68139
+    ],
+    "Sitzendorf an der Schmida": [
+        15.93333,
+        48.58333
+    ],
+    "Sittersdorf": [
+        14.60583,
+        46.54444
+    ],
+    "Sistrans": [
+        11.45,
+        47.23333
+    ],
+    "Sinabelkirchen": [
+        15.81667,
+        47.1
+    ],
+    "Silz": [
+        10.93333,
+        47.26667
+    ],
+    "Sillian": [
+        12.42111,
+        46.75278
+    ],
+    "Silbertal": [
+        9.98314,
+        47.09368
+    ],
+    "Sigmundsherberg": [
+        15.75,
+        48.68333
+    ],
+    "Sierning": [
+        14.30935,
+        48.04343
+    ],
+    "Sierndorf": [
+        16.15,
+        48.41667
+    ],
+    "Sieghartskirchen": [
+        16.01223,
+        48.25531
+    ],
+    "Sieggraben": [
+        16.37993,
+        47.65128
+    ],
+    "Siegersdorf bei Herberstein": [
+        15.78333,
+        47.2
+    ],
+    "Sibratsgfäll": [
+        10.03806,
+        47.42667
+    ],
+    "Serfaus": [
+        10.6,
+        47.03333
+    ],
+    "Senftenberg": [
+        15.55,
+        48.43333
+    ],
+    "Semriach": [
+        15.4,
+        47.21667
+    ],
+    "Semmering": [
+        15.82993,
+        47.63347
+    ],
+    "Selzthal": [
+        14.33333,
+        47.55
+    ],
+    "Seitenstetten Markt": [
+        14.65,
+        48.03333
+    ],
+    "Seiersberg": [
+        15.4,
+        47
+    ],
+    "Seibersdorf": [
+        16.51667,
+        47.96667
+    ],
+    "Seggauberg": [
+        15.51667,
+        46.76667
+    ],
+    "Seewalchen": [
+        13.58382,
+        47.95246
+    ],
+    "Seekirchen am Wallersee": [
+        13.13333,
+        47.9
+    ],
+    "Seeham": [
+        13.08333,
+        47.96667
+    ],
+    "Seefeld in Tirol": [
+        11.18786,
+        47.33016
+    ],
+    "Seeboden": [
+        13.5143,
+        46.81909
+    ],
+    "Seebenstein": [
+        16.13333,
+        47.68333
+    ],
+    "See": [
+        10.46667,
+        47.08333
+    ],
+    "Seckau": [
+        14.78333,
+        47.26667
+    ],
+    "Sebersdorf": [
+        15.98333,
+        47.2
+    ],
+    "Schwoich": [
+        12.14049,
+        47.546
+    ],
+    "Schwendt": [
+        12.38333,
+        47.63333
+    ],
+    "Schwendau": [
+        11.85897,
+        47.19753
+    ],
+    "Schweiggers": [
+        15.06667,
+        48.66667
+    ],
+    "Schwechat": [
+        16.46667,
+        48.13333
+    ],
+    "Schwaz": [
+        11.71014,
+        47.35169
+    ],
+    "Schwarzenbach an der Pielach": [
+        15.38333,
+        47.93333
+    ],
+    "Schwarzenbach": [
+        16.35109,
+        47.63547
+    ],
+    "Schwarzenau": [
+        15.25838,
+        48.74436
+    ],
+    "Schwarzau im Schwarzautal": [
+        15.66667,
+        46.86667
+    ],
+    "Schwarzau im Gebirge": [
+        15.70581,
+        47.81223
+    ],
+    "Schwarzach im Pongau": [
+        13.15,
+        47.31667
+    ],
+    "Schwarzach": [
+        9.76213,
+        47.44904
+    ],
+    "Schwanenstadt": [
+        13.77505,
+        48.05537
+    ],
+    "Schwanberg": [
+        15.20833,
+        46.75833
+    ],
+    "Schwadorf": [
+        16.58333,
+        48.06667
+    ],
+    "Schützen am Gebirge": [
+        16.62334,
+        47.85233
+    ],
+    "Schruns": [
+        9.91667,
+        47.06667
+    ],
+    "Schrems bei Frohnleiten": [
+        15.35,
+        47.26667
+    ],
+    "Schrems": [
+        15.06667,
+        48.78333
+    ],
+    "Schrattenthal": [
+        15.9,
+        48.7
+    ],
+    "Schrattenberg": [
+        16.71667,
+        48.71667
+    ],
+    "Schrattenbach": [
+        15.9906,
+        47.77902
+    ],
+    "Schottwien": [
+        15.8725,
+        47.65683
+    ],
+    "Schoppernau": [
+        10.0175,
+        47.31333
+    ],
+    "Schönwies": [
+        10.65742,
+        47.19665
+    ],
+    "Schönberg im Stubaital": [
+        11.41667,
+        47.18333
+    ],
+    "Schönbach": [
+        15.03333,
+        48.45
+    ],
+    "Schönau an der Triesting": [
+        16.25376,
+        47.93452
+    ],
+    "Schöder": [
+        14.1,
+        47.18333
+    ],
+    "Schnifis": [
+        9.73306,
+        47.21667
+    ],
+    "Schnepfau": [
+        9.95,
+        47.35
+    ],
+    "Schmirn": [
+        11.56667,
+        47.08333
+    ],
+    "Schlitters": [
+        11.83333,
+        47.36667
+    ],
+    "Schlins": [
+        9.7,
+        47.2
+    ],
+    "Schleedorf": [
+        13.15,
+        47.95
+    ],
+    "Schlatt": [
+        13.78904,
+        48.07177
+    ],
+    "Schlägl": [
+        13.9656,
+        48.63665
+    ],
+    "Schladming": [
+        13.68699,
+        47.39289
+    ],
+    "Schiefling am See": [
+        14.0975,
+        46.60444
+    ],
+    "Schenkenfelden": [
+        14.36188,
+        48.50273
+    ],
+    "Scheifling": [
+        14.4,
+        47.15
+    ],
+    "Scheibbs": [
+        15.16817,
+        48.00474
+    ],
+    "Scheffau am Wilden Kaiser": [
+        12.25139,
+        47.52943
+    ],
+    "Scheffau am Tennengebirge": [
+        13.2202,
+        47.58831
+    ],
+    "Schattwald": [
+        10.45,
+        47.51667
+    ],
+    "Schattendorf": [
+        16.50979,
+        47.70973
+    ],
+    "Scharnstein": [
+        13.96135,
+        47.90426
+    ],
+    "Scharnitz": [
+        11.26455,
+        47.38899
+    ],
+    "Scharndorf": [
+        16.78333,
+        48.08333
+    ],
+    "Schärding": [
+        13.43722,
+        48.45294
+    ],
+    "Schandorf": [
+        16.42267,
+        47.24183
+    ],
+    "Schäffern": [
+        16.1,
+        47.46667
+    ],
+    "Schachendorf": [
+        16.43333,
+        47.26667
+    ],
+    "Sautens": [
+        10.86667,
+        47.2
+    ],
+    "Sattledt": [
+        14.05,
+        48.06667
+    ],
+    "Satteins": [
+        9.66667,
+        47.21667
+    ],
+    "Sankt Wolfgang im Salzkammergut": [
+        13.44666,
+        47.73932
+    ],
+    "Sankt Veit im Pongau": [
+        13.15,
+        47.33333
+    ],
+    "Sankt Veit an der Gölsen": [
+        15.66942,
+        48.0432
+    ],
+    "Sankt Veit an der Glan": [
+        14.36028,
+        46.76806
+    ],
+    "Sankt Veit am Vogau": [
+        15.61667,
+        46.73333
+    ],
+    "Sankt Valentin": [
+        14.51667,
+        48.16667
+    ],
+    "Sankt Ulrich bei Steyr": [
+        14.42419,
+        48.02185
+    ],
+    "Sankt Ulrich am Waasen": [
+        15.53333,
+        46.93333
+    ],
+    "Sankt Stefan ob Stainz": [
+        15.25889,
+        46.92861
+    ],
+    "Sankt Stefan ob Leoben": [
+        14.98333,
+        47.3
+    ],
+    "Sankt Stefan im Rosental": [
+        15.71,
+        46.90389
+    ],
+    "Sankt Ruprecht an der Raab": [
+        15.66256,
+        47.15336
+    ],
+    "Sankt Radegund bei Graz": [
+        15.48333,
+        47.16667
+    ],
+    "Sankt Pölten": [
+        15.63333,
+        48.2
+    ],
+    "Sankt Peter ob Judenburg": [
+        14.58639,
+        47.18417
+    ],
+    "Sankt Peter im Sulmtal": [
+        15.25,
+        46.75
+    ],
+    "Sankt Peter-Freienstein": [
+        15.01667,
+        47.38333
+    ],
+    "Sankt Peter am Ottersbach": [
+        15.75917,
+        46.79778
+    ],
+    "Sankt Peter am Kammersberg": [
+        14.18333,
+        47.18333
+    ],
+    "Sankt Paul im Levanttal": [
+        14.87556,
+        46.70056
+    ],
+    "Sankt Oswald bei Plankenwarth": [
+        15.26667,
+        47.08333
+    ],
+    "Sankt Nikolai ob Draßling": [
+        15.65083,
+        46.80889
+    ],
+    "Sankt Nikolai im Sölktal": [
+        14.05,
+        47.31667
+    ],
+    "Sankt Nikolai im Sausal": [
+        15.45194,
+        46.82111
+    ],
+    "Sankt Michael in Obersteiermark": [
+        15,
+        47.33333
+    ],
+    "Sankt Michael im Lungau": [
+        13.63333,
+        47.1
+    ],
+    "Sankt Michael im Burgenland": [
+        16.26667,
+        47.13333
+    ],
+    "Sankt Martin im Sulmtal": [
+        15.29722,
+        46.75611
+    ],
+    "Sankt Martin bei Lofer": [
+        12.7,
+        47.56667
+    ],
+    "Sankt Martin an der Raab": [
+        16.13611,
+        46.9225
+    ],
+    "Sankt Martin am Grimming": [
+        13.98105,
+        47.48873
+    ],
+    "Sankt Marienkirchen bei Schärding": [
+        13.45078,
+        48.3871
+    ],
+    "Sankt Margarethen im Lungau": [
+        13.68333,
+        47.08333
+    ],
+    "Sankt Margarethen im Burgenland": [
+        16.60875,
+        47.80335
+    ],
+    "Sankt Margarethen bei Knittelfeld": [
+        14.86667,
+        47.21667
+    ],
+    "Sankt Margarethen an der Sierning": [
+        15.49055,
+        48.1591
+    ],
+    "Sankt Margarethen an der Raab": [
+        15.75,
+        47.05
+    ],
+    "Sankt Marein im Mürztal": [
+        15.36667,
+        47.46667
+    ],
+    "Sankt Marein bei Neumarkt": [
+        14.42908,
+        47.06591
+    ],
+    "Sankt Marein bei Knittelfeld": [
+        14.86667,
+        47.26667
+    ],
+    "Sankt Marein bei Graz": [
+        15.68389,
+        47.01583
+    ],
+    "Sankt Lorenzen im Mürztal": [
+        15.36667,
+        47.48333
+    ],
+    "Sankt Lorenzen bei Scheifling": [
+        14.40583,
+        47.14556
+    ],
+    "Sankt Lorenzen bei Knittelfeld": [
+        14.88333,
+        47.25
+    ],
+    "Sankt Lorenzen am Wechsel": [
+        15.95,
+        47.43333
+    ],
+    "Sankt Lorenz": [
+        13.36667,
+        47.81667
+    ],
+    "Sankt Leonhard am Forst": [
+        15.28333,
+        48.13333
+    ],
+    "Sankt Lambrecht": [
+        14.3,
+        47.06667
+    ],
+    "Sankt Kathrein am Offenegg": [
+        15.58333,
+        47.3
+    ],
+    "Sankt Kathrein am Hauenstein": [
+        15.68333,
+        47.48333
+    ],
+    "Sankt Katharein an der Laming": [
+        15.16319,
+        47.47069
+    ],
+    "Sankt Josef (Weststeiermark)": [
+        15.33639,
+        46.90917
+    ],
+    "Sankt Johann in Tirol": [
+        12.4232,
+        47.5233
+    ],
+    "Sankt Johann in der Haide": [
+        16.01667,
+        47.26667
+    ],
+    "Sankt Johann im Saggautal": [
+        15.40278,
+        46.70389
+    ],
+    "Sankt Johann im Pongau": [
+        13.2,
+        47.35
+    ],
+    "Sankt Johann bei Herberstein": [
+        15.8,
+        47.2
+    ],
+    "Sankt Johann am Tauern": [
+        14.46667,
+        47.35
+    ],
+    "Sankt Jakob im Walde": [
+        15.78333,
+        47.46667
+    ],
+    "Sankt Jakob": [
+        14.05722,
+        46.54778
+    ],
+    "Sankt Ilgen": [
+        15.16667,
+        47.55
+    ],
+    "Sankt Gotthard im Mühlkreis": [
+        14.13185,
+        48.3802
+    ],
+    "Sankt Gilgen": [
+        13.36667,
+        47.76667
+    ],
+    "Sankt Georgen ob Murau": [
+        14.1,
+        47.1
+    ],
+    "Sankt Georgen ob Judenburg": [
+        14.5,
+        47.2
+    ],
+    "Sankt Georgen im Attergau": [
+        13.48306,
+        47.93595
+    ],
+    "Sankt Georgen an der Stiefing": [
+        15.57972,
+        46.87333
+    ],
+    "Sankt Georgen an der Leys": [
+        15.22722,
+        48.03149
+    ],
+    "Sankt Georgen am Ybbsfelde": [
+        14.95,
+        48.13333
+    ],
+    "Sankt Gallenkirch": [
+        9.96667,
+        47.01667
+    ],
+    "Sankt Gallen": [
+        14.6,
+        47.68333
+    ],
+    "Sankt Florian am Inn": [
+        13.44263,
+        48.44122
+    ],
+    "Sankt Corona am Wechsel": [
+        16,
+        47.58333
+    ],
+    "Sankt Blasen": [
+        14.3,
+        47.08333
+    ],
+    "Sankt Bartholomä": [
+        15.25,
+        47.06667
+    ],
+    "Sankt Anton im Montafon": [
+        9.86667,
+        47.11667
+    ],
+    "Sankt Anton am Arlberg": [
+        10.26372,
+        47.1275
+    ],
+    "Sankt Anna am Aigen": [
+        15.97139,
+        46.83111
+    ],
+    "Sankt Andrä im Lungau": [
+        13.78333,
+        47.15
+    ],
+    "Sankt Andrä am Zicksee": [
+        16.94195,
+        47.7841
+    ],
+    "Sankt Andrä": [
+        14.82361,
+        46.76611
+    ],
+    "Salzburg": [
+        13.04399,
+        47.79941
+    ],
+    "Sallingberg": [
+        15.23333,
+        48.46667
+    ],
+    "Salla": [
+        14.96667,
+        47.1
+    ],
+    "Sachsenburg": [
+        13.355,
+        46.82917
+    ],
+    "Saalfelden am Steinernen Meer": [
+        12.848,
+        47.42681
+    ],
+    "Saalbach": [
+        12.63642,
+        47.39138
+    ],
+    "Rutzenham": [
+        13.71883,
+        48.06076
+    ],
+    "Rüstorf": [
+        13.78982,
+        48.04326
+    ],
+    "Rust": [
+        16.67158,
+        47.80122
+    ],
+    "Ruprechtshofen": [
+        15.27675,
+        48.13648
+    ],
+    "Rum": [
+        11.45,
+        47.28333
+    ],
+    "Rudersdorf": [
+        16.11667,
+        47.05
+    ],
+    "Ruden": [
+        14.77639,
+        46.65833
+    ],
+    "Rottenmann": [
+        14.35,
+        47.51667
+    ],
+    "Röthis": [
+        9.65484,
+        47.29332
+    ],
+    "Röthelstein": [
+        15.36667,
+        47.31667
+    ],
+    "Rotenturm an der Pinka": [
+        16.25,
+        47.25
+    ],
+    "Rosegg": [
+        14.03333,
+        46.58333
+    ],
+    "Röschitz": [
+        15.81774,
+        48.64312
+    ],
+    "Roppen": [
+        10.81667,
+        47.21667
+    ],
+    "Röns": [
+        9.7,
+        47.21667
+    ],
+    "Rohr im Gebirge": [
+        15.73603,
+        47.89471
+    ],
+    "Rohr im Burgenland": [
+        16.16667,
+        47.11667
+    ],
+    "Röhrenbach": [
+        15.5,
+        48.65
+    ],
+    "Rohrbach bei Mattersburg": [
+        16.43005,
+        47.7052
+    ],
+    "Rohrbach an der Lafnitz": [
+        16,
+        47.38333
+    ],
+    "Rohrau": [
+        16.85,
+        48.06667
+    ],
+    "Ritzing": [
+        16.49546,
+        47.61316
+    ],
+    "Rinn": [
+        11.5,
+        47.25
+    ],
+    "Rietz": [
+        11.05,
+        47.28333
+    ],
+    "Riegersburg": [
+        15.93028,
+        47
+    ],
+    "Riefensberg": [
+        9.96667,
+        47.5
+    ],
+    "Riedlingsdorf": [
+        16.13333,
+        47.35
+    ],
+    "Ried im Oberinntal": [
+        10.65,
+        47.05
+    ],
+    "Ried im Innkreis": [
+        13.48855,
+        48.21123
+    ],
+    "Reutte": [
+        10.71667,
+        47.48333
+    ],
+    "Reuthe": [
+        9.89044,
+        47.37022
+    ],
+    "Retznei": [
+        15.56667,
+        46.73333
+    ],
+    "Retz": [
+        15.95,
+        48.75
+    ],
+    "Rettenschöss": [
+        12.26872,
+        47.65718
+    ],
+    "Rettenegg": [
+        15.78333,
+        47.53333
+    ],
+    "Reith bei Seefeld": [
+        11.2,
+        47.3
+    ],
+    "Reith bei Kitzbühel": [
+        12.35,
+        47.46667
+    ],
+    "Reith im Alpbachtal": [
+        11.87785,
+        47.41694
+    ],
+    "Reisenberg": [
+        16.51667,
+        48
+    ],
+    "Reinsberg": [
+        15.07067,
+        47.98567
+    ],
+    "Reingers": [
+        15.13333,
+        48.96667
+    ],
+    "Reifling": [
+        14.66667,
+        47.13333
+    ],
+    "Reichraming": [
+        14.45,
+        47.88333
+    ],
+    "Reichenthal": [
+        14.38471,
+        48.54286
+    ],
+    "Reichenfels": [
+        14.75,
+        47
+    ],
+    "Reichendorf": [
+        15.75,
+        47.18333
+    ],
+    "Reichenau im Mühlkreis": [
+        14.34875,
+        48.45704
+    ],
+    "Reichenau an der Rax": [
+        15.84572,
+        47.69509
+    ],
+    "Redlham": [
+        13.73333,
+        48.01667
+    ],
+    "Redleiten": [
+        13.55,
+        48.06667
+    ],
+    "Rechnitz": [
+        16.44095,
+        47.30467
+    ],
+    "Raxendorf": [
+        15.26667,
+        48.33333
+    ],
+    "Ravelsbach": [
+        15.85,
+        48.55
+    ],
+    "Rauris": [
+        12.99459,
+        47.22656
+    ],
+    "Rauchenwarth": [
+        16.51667,
+        48.08333
+    ],
+    "Rattenberg": [
+        11.89407,
+        47.43941
+    ],
+    "Ratten": [
+        15.71667,
+        47.48333
+    ],
+    "Ratschendorf": [
+        15.81583,
+        46.74222
+    ],
+    "Ratsch an der Weinstraße": [
+        15.57111,
+        46.68944
+    ],
+    "Rastenfeld": [
+        15.33176,
+        48.57348
+    ],
+    "Rassach": [
+        15.27,
+        46.86028
+    ],
+    "Rappottenstein": [
+        15.07925,
+        48.52161
+    ],
+    "Ranten": [
+        14.08333,
+        47.15
+    ],
+    "Rankweil": [
+        9.64308,
+        47.27108
+    ],
+    "Raning": [
+        15.81667,
+        46.85
+    ],
+    "Ranggen": [
+        11.2,
+        47.26667
+    ],
+    "Rangersdorf": [
+        12.97833,
+        46.86528
+    ],
+    "Randegg": [
+        14.97334,
+        48.01198
+    ],
+    "Ramsau": [
+        15.80332,
+        48.00313
+    ],
+    "Ramsau im Zillertal": [
+        11.87545,
+        47.20383
+    ],
+    "Ramingstein": [
+        13.83333,
+        47.06667
+    ],
+    "Raiding": [
+        16.53056,
+        47.56581
+    ],
+    "Ragnitz": [
+        15.59278,
+        46.83667
+    ],
+    "Raggal": [
+        9.83688,
+        47.21082
+    ],
+    "Radstadt": [
+        13.45,
+        47.38333
+    ],
+    "Bad Radkersburg": [
+        15.98806,
+        46.68806
+    ],
+    "Radfeld": [
+        11.91424,
+        47.44806
+    ],
+    "Radenthein": [
+        13.71167,
+        46.80056
+    ],
+    "Rachau": [
+        14.9,
+        47.21667
+    ],
+    "Rabenwald": [
+        15.8,
+        47.3
+    ],
+    "Rabenstein an der Pielach": [
+        15.46772,
+        48.06535
+    ],
+    "Rabensburg": [
+        16.9,
+        48.65
+    ],
+    "Raasdorf": [
+        16.56532,
+        48.24657
+    ],
+    "Raach am Hochgebirge": [
+        15.93333,
+        47.63333
+    ],
+    "Raabs an der Thaya": [
+        15.5,
+        48.85
+    ],
+    "Raabau": [
+        15.91167,
+        46.96278
+    ],
+    "Raaba": [
+        15.5,
+        47.03333
+    ],
+    "Pyhra": [
+        15.68624,
+        48.1591
+    ],
+    "Pusterwald": [
+        14.37556,
+        47.30611
+    ],
+    "Purkersdorf": [
+        16.17539,
+        48.20769
+    ],
+    "Purgstall": [
+        15.13478,
+        48.05841
+    ],
+    "Pulkau": [
+        15.86031,
+        48.70484
+    ],
+    "Pühret": [
+        13.71667,
+        48.03333
+    ],
+    "Puchenstuben": [
+        15.28748,
+        47.92819
+    ],
+    "Puchberg am Schneeberg": [
+        15.91352,
+        47.78709
+    ],
+    "Puch bei Weiz": [
+        15.71667,
+        47.21667
+    ],
+    "Puch bei Hallein": [
+        13.09296,
+        47.71536
+    ],
+    "Prutz": [
+        10.66667,
+        47.08333
+    ],
+    "Pruggern": [
+        13.86667,
+        47.41667
+    ],
+    "Proleb": [
+        15.13333,
+        47.4
+    ],
+    "Prinzersdorf": [
+        15.51667,
+        48.2
+    ],
+    "Prigglitz": [
+        15.92794,
+        47.70318
+    ],
+    "Pressbaum": [
+        16.08333,
+        48.18333
+    ],
+    "Prellenkirchen": [
+        16.95,
+        48.06667
+    ],
+    "Preitenegg": [
+        14.92583,
+        46.94
+    ],
+    "Preding": [
+        15.40972,
+        46.85861
+    ],
+    "Poysdorf": [
+        16.63333,
+        48.66667
+    ],
+    "Potzneusiedl": [
+        16.9477,
+        48.04504
+    ],
+    "Pöttsching": [
+        16.37109,
+        47.80445
+    ],
+    "Pottenstein": [
+        16.0948,
+        47.9582
+    ],
+    "Pottendorf": [
+        16.38333,
+        47.9
+    ],
+    "Pöttelsdorf": [
+        16.43864,
+        47.75369
+    ],
+    "Poppendorf": [
+        15.85639,
+        46.85611
+    ],
+    "Pöls": [
+        14.58333,
+        47.21667
+    ],
+    "Polling in Tirol": [
+        11.15,
+        47.28333
+    ],
+    "Pöllauberg": [
+        15.85,
+        47.31667
+    ],
+    "Pöllau": [
+        15.83333,
+        47.3
+    ],
+    "Pöggstall": [
+        15.18333,
+        48.31667
+    ],
+    "Poggersdorf": [
+        14.45,
+        46.65
+    ],
+    "Podersdorf am See": [
+        16.83706,
+        47.85412
+    ],
+    "Pöchlarn": [
+        15.2,
+        48.2
+    ],
+    "Plainfeld": [
+        13.18333,
+        47.83333
+    ],
+    "Pitzenberg": [
+        13.72484,
+        48.07361
+    ],
+    "Pitten": [
+        16.18333,
+        47.71667
+    ],
+    "Pitschgau": [
+        15.26667,
+        46.7
+    ],
+    "Pistorf": [
+        15.36667,
+        46.76667
+    ],
+    "Pirka": [
+        15.38333,
+        47
+    ],
+    "Piringsdorf": [
+        16.41516,
+        47.44826
+    ],
+    "Pirching am Traubenberg": [
+        15.6,
+        46.95
+    ],
+    "Pinkafeld": [
+        16.11667,
+        47.36667
+    ],
+    "Pinggau": [
+        16.06667,
+        47.43333
+    ],
+    "Pillichsdorf": [
+        16.53333,
+        48.35
+    ],
+    "Pill": [
+        11.68333,
+        47.31667
+    ],
+    "Pilgersdorf": [
+        16.3492,
+        47.44106
+    ],
+    "Piesendorf": [
+        12.71667,
+        47.28333
+    ],
+    "Piberegg": [
+        15.08333,
+        47.08333
+    ],
+    "Pians": [
+        10.51237,
+        47.13486
+    ],
+    "Pfunds": [
+        10.55,
+        46.96667
+    ],
+    "Pfons": [
+        11.46667,
+        47.15
+    ],
+    "Pflach": [
+        10.71667,
+        47.51667
+    ],
+    "Pfarrkirchen im Mühlkreis": [
+        13.82638,
+        48.50375
+    ],
+    "Pfarrkirchen bei Bad Hall": [
+        14.19914,
+        48.03046
+    ],
+    "Pfaffstätten": [
+        16.26354,
+        48.01737
+    ],
+    "Pfaffing": [
+        13.47507,
+        48.018
+    ],
+    "Pfaffenhofen": [
+        11.08333,
+        47.3
+    ],
+    "Petzenkirchen": [
+        15.15,
+        48.13333
+    ],
+    "Petronell-Carnuntum": [
+        16.85,
+        48.11667
+    ],
+    "Pertlstein": [
+        15.96167,
+        46.94056
+    ],
+    "Pernitz": [
+        15.96022,
+        47.89759
+    ],
+    "Pernersdorf": [
+        16.01667,
+        48.7
+    ],
+    "Pernegg an der Mur": [
+        15.34236,
+        47.35979
+    ],
+    "Pernegg": [
+        15.61667,
+        48.73333
+    ],
+    "Perlsdorf": [
+        15.81417,
+        46.91361
+    ],
+    "Perg": [
+        14.63333,
+        48.25
+    ],
+    "Perchtoldsdorf": [
+        16.26607,
+        48.11935
+    ],
+    "Perchau am Sattel": [
+        14.45,
+        47.1
+    ],
+    "Pennewang": [
+        13.85,
+        48.13333
+    ],
+    "Peggau": [
+        15.35,
+        47.2
+    ],
+    "Payerbach": [
+        15.8634,
+        47.69209
+    ],
+    "Paudorf": [
+        15.61667,
+        48.35
+    ],
+    "Patsch": [
+        11.41667,
+        47.2
+    ],
+    "Paternion": [
+        13.63611,
+        46.71417
+    ],
+    "Passail": [
+        15.51667,
+        47.28333
+    ],
+    "Pasching": [
+        14.20369,
+        48.25931
+    ],
+    "Parschlug": [
+        15.28645,
+        47.4809
+    ],
+    "Parndorf": [
+        16.86049,
+        47.99963
+    ],
+    "Parbasdorf": [
+        16.6,
+        48.28333
+    ],
+    "Pamhagen": [
+        16.90779,
+        47.70092
+    ],
+    "Pama": [
+        17.03333,
+        48.05
+    ],
+    "Palfau": [
+        14.8,
+        47.7
+    ],
+    "Paldau": [
+        15.79583,
+        46.94222
+    ],
+    "Pack": [
+        14.98417,
+        46.97917
+    ],
+    "Oetz": [
+        10.9,
+        47.2
+    ],
+    "Otterthal": [
+        15.93333,
+        47.61667
+    ],
+    "Ottenthal": [
+        16.56667,
+        48.75
+    ],
+    "Ottensheim": [
+        14.17425,
+        48.33246
+    ],
+    "Ottenschlag im Mühlkreis": [
+        14.38471,
+        48.46632
+    ],
+    "Ottenschlag": [
+        15.21667,
+        48.41667
+    ],
+    "Osterwitz": [
+        15.13278,
+        46.85806
+    ],
+    "Ossiach": [
+        13.98333,
+        46.66667
+    ],
+    "Oslip": [
+        16.61957,
+        47.82906
+    ],
+    "Orth an der Donau": [
+        16.70089,
+        48.14524
+    ],
+    "Opponitz": [
+        14.81667,
+        47.86667
+    ],
+    "Oppenberg": [
+        14.26667,
+        47.48333
+    ],
+    "Ollersdorf im Burgenland": [
+        16.16667,
+        47.18333
+    ],
+    "Olbendorf": [
+        16.2,
+        47.18333
+    ],
+    "Offenhausen": [
+        13.83333,
+        48.15
+    ],
+    "Öblarn": [
+        13.99023,
+        47.45938
+    ],
+    "Oberzeiring": [
+        14.48333,
+        47.25
+    ],
+    "Oberwölz Stadt": [
+        14.26667,
+        47.2
+    ],
+    "Oberweg": [
+        14.63333,
+        47.15
+    ],
+    "Oberwart": [
+        16.20595,
+        47.28971
+    ],
+    "Oberwang": [
+        13.43333,
+        47.86667
+    ],
+    "Oberwaltersdorf": [
+        16.32191,
+        47.97567
+    ],
+    "Obervogau": [
+        15.58472,
+        46.745
+    ],
+    "Obervellach": [
+        13.20417,
+        46.93667
+    ],
+    "Obertrum am See": [
+        13.07722,
+        47.93722
+    ],
+    "Obertilliach": [
+        12.61444,
+        46.71056
+    ],
+    "Oberstorcha": [
+        15.8,
+        46.96667
+    ],
+    "Obersiebenbrunn": [
+        16.7,
+        48.26667
+    ],
+    "Oberschützen": [
+        16.20732,
+        47.35138
+    ],
+    "Oberrettenbach": [
+        15.8,
+        47.15
+    ],
+    "Oberpullendorf": [
+        16.50447,
+        47.50352
+    ],
+    "Pettnau": [
+        11.13333,
+        47.3
+    ],
+    "Oberneukirchen": [
+        14.21667,
+        48.45
+    ],
+    "Oberndorf in Tirol": [
+        12.38333,
+        47.5
+    ],
+    "Oberndorf bei Schwanenstadt": [
+        13.75677,
+        48.05559
+    ],
+    "Oberndorf bei Salzburg": [
+        12.93333,
+        47.95
+    ],
+    "Oberndorf an der Melk": [
+        15.2243,
+        48.06386
+    ],
+    "Oberloisdorf": [
+        16.50764,
+        47.44736
+    ],
+    "Oberlienz": [
+        12.73139,
+        46.84722
+    ],
+    "Oberkurzheim": [
+        14.58333,
+        47.23333
+    ],
+    "Oberhofen im Inntal": [
+        11.08333,
+        47.3
+    ],
+    "Oberhofen am Irrsee": [
+        13.3,
+        47.95
+    ],
+    "Oberhaag": [
+        15.33202,
+        46.6869
+    ],
+    "Ober-Grafendorf": [
+        15.54531,
+        48.1504
+    ],
+    "Oberdrauburg": [
+        12.97028,
+        46.74306
+    ],
+    "Oberdorf im Burgenland": [
+        16.21667,
+        47.21667
+    ],
+    "Oberdorf am Hochegg": [
+        15.72167,
+        46.97861
+    ],
+    "Oberalm": [
+        13.1,
+        47.7
+    ],
+    "Oberaich": [
+        15.21667,
+        47.4
+    ],
+    "Obdach": [
+        14.68333,
+        47.06667
+    ],
+    "Nüziders": [
+        9.8,
+        47.16667
+    ],
+    "Nußdorf am Haunsberg": [
+        13.00917,
+        47.95944
+    ],
+    "Nofels": [
+        9.57802,
+        47.25483
+    ],
+    "Nöchling": [
+        14.98123,
+        48.22433
+    ],
+    "Nitscha": [
+        15.75,
+        47.11667
+    ],
+    "Nikolsdorf": [
+        12.91333,
+        46.78583
+    ],
+    "Niklasdorf": [
+        15.15,
+        47.38333
+    ],
+    "Nikitsch": [
+        16.66017,
+        47.53615
+    ],
+    "Niederwölz": [
+        14.36667,
+        47.15
+    ],
+    "Niederthalheim": [
+        13.75,
+        48.1
+    ],
+    "Niederöblarn": [
+        14.01667,
+        47.46667
+    ],
+    "Niedernsill": [
+        12.65,
+        47.28333
+    ],
+    "Niederndorf": [
+        12.21667,
+        47.65
+    ],
+    "Niederleis": [
+        16.4,
+        48.55
+    ],
+    "Niederhollabrunn": [
+        16.3,
+        48.43333
+    ],
+    "Nickelsdorf": [
+        17.06944,
+        47.94056
+    ],
+    "Neutal": [
+        16.44619,
+        47.54548
+    ],
+    "Neustift im Stubaital": [
+        11.31667,
+        47.11667
+    ],
+    "Neustift bei Güssing": [
+        16.26667,
+        47.01667
+    ],
+    "Neustift an der Lafnitz": [
+        16.03333,
+        47.36667
+    ],
+    "Neusiedl an der Zaya": [
+        16.8,
+        48.63333
+    ],
+    "Neusiedl am See": [
+        16.8417,
+        47.94901
+    ],
+    "Neunkirchen": [
+        16.08107,
+        47.72096
+    ],
+    "Neumarkt in Steiermark": [
+        14.42728,
+        47.07398
+    ],
+    "Neumarkt an der Ybbs": [
+        15.05,
+        48.13333
+    ],
+    "Neumarkt am Wallersee": [
+        13.23333,
+        47.95
+    ],
+    "Neulengbach": [
+        15.90219,
+        48.19745
+    ],
+    "Neukirchen bei Lambach": [
+        13.81667,
+        48.1
+    ],
+    "Neukirchen an der Vöckla": [
+        13.53333,
+        48.03333
+    ],
+    "Neukirchen am Großvenediger": [
+        12.27585,
+        47.25046
+    ],
+    "Neuhofen an der Ybbs": [
+        14.85489,
+        48.05795
+    ],
+    "Neuhaus": [
+        14.88333,
+        46.63333
+    ],
+    "Neufeld an der Leitha": [
+        16.37856,
+        47.86558
+    ],
+    "Neudörfl": [
+        16.2977,
+        47.79655
+    ],
+    "Neudorf bei Staatz": [
+        16.49139,
+        48.72083
+    ],
+    "Neudau": [
+        16.1,
+        47.16667
+    ],
+    "Neuberg an der Mürz": [
+        15.57226,
+        47.66423
+    ],
+    "Nestelbach im Ilztal": [
+        15.86667,
+        47.08333
+    ],
+    "Nestelbach bei Graz": [
+        15.6114,
+        47.06053
+    ],
+    "Nesselwängle": [
+        10.61667,
+        47.48333
+    ],
+    "Nenzing": [
+        9.70539,
+        47.18436
+    ],
+    "Neidling": [
+        15.55,
+        48.23333
+    ],
+    "Neckenmarkt": [
+        16.5467,
+        47.59964
+    ],
+    "Nauders": [
+        10.51667,
+        46.88333
+    ],
+    "Natters": [
+        11.37342,
+        47.23414
+    ],
+    "Nassereith": [
+        10.83333,
+        47.31667
+    ],
+    "Namlos": [
+        10.66667,
+        47.35
+    ],
+    "Naas": [
+        15.6,
+        47.23333
+    ],
+    "Mutters": [
+        11.38333,
+        47.23333
+    ],
+    "Musau": [
+        10.66667,
+        47.53333
+    ],
+    "Mürzzuschlag": [
+        15.68333,
+        47.6
+    ],
+    "Mürzsteg": [
+        15.48333,
+        47.66667
+    ],
+    "Mürzhofen": [
+        15.38333,
+        47.48333
+    ],
+    "Mureck": [
+        15.77472,
+        46.70806
+    ],
+    "Münster": [
+        11.83356,
+        47.42164
+    ],
+    "Münchendorf": [
+        16.38333,
+        48.03333
+    ],
+    "Müllendorf": [
+        16.46258,
+        47.83943
+    ],
+    "Muhr": [
+        13.5,
+        47.11667
+    ],
+    "Mühlgraben": [
+        16.04083,
+        46.88972
+    ],
+    "Mühlen": [
+        14.50848,
+        47.03071
+    ],
+    "Mühldorf bei Feldbach": [
+        15.9075,
+        46.93861
+    ],
+    "Mühldorf": [
+        13.35361,
+        46.86028
+    ],
+    "Mühlbach am Hochkönig": [
+        13.13333,
+        47.36667
+    ],
+    "Muggendorf": [
+        15.93533,
+        47.91059
+    ],
+    "Mötz": [
+        10.95,
+        47.28333
+    ],
+    "Moschendorf": [
+        16.47728,
+        47.05843
+    ],
+    "Mörtschach": [
+        12.91778,
+        46.92389
+    ],
+    "Mortantsch": [
+        15.56667,
+        47.2
+    ],
+    "Mörbisch am See": [
+        16.66667,
+        47.75
+    ],
+    "Mooskirchen": [
+        15.27889,
+        46.98167
+    ],
+    "Moosburg": [
+        14.17472,
+        46.6575
+    ],
+    "Moosbrunn": [
+        16.45,
+        48.01667
+    ],
+    "Mönichwald": [
+        15.86667,
+        47.45
+    ],
+    "Mönichkirchen": [
+        16.03333,
+        47.5
+    ],
+    "Mondsee": [
+        13.34908,
+        47.85648
+    ],
+    "Mönchhof": [
+        16.94126,
+        47.8802
+    ],
+    "Mölbling": [
+        14.44806,
+        46.86222
+    ],
+    "Möggers": [
+        9.81667,
+        47.56667
+    ],
+    "Mogersdorf": [
+        16.23222,
+        46.94917
+    ],
+    "Modriach": [
+        15.05,
+        46.95
+    ],
+    "Mödling": [
+        16.28921,
+        48.08605
+    ],
+    "Mittersill": [
+        12.48333,
+        47.26667
+    ],
+    "Mitterndorf an der Fischa": [
+        16.46667,
+        47.98333
+    ],
+    "Mitterlabill": [
+        15.63556,
+        46.88917
+    ],
+    "Mitterdorf im Mürztal": [
+        15.51667,
+        47.53333
+    ],
+    "Mitterdorf an der Raab": [
+        15.6,
+        47.16667
+    ],
+    "Mitterbach am Erlaufsee": [
+        15.29537,
+        47.81396
+    ],
+    "Mittelberg": [
+        10.15463,
+        47.3237
+    ],
+    "Mistelbach": [
+        16.57667,
+        48.57
+    ],
+    "Mischendorf": [
+        16.31667,
+        47.18333
+    ],
+    "Mils bei Imst": [
+        10.67485,
+        47.20616
+    ],
+    "Miesenbach": [
+        15.98236,
+        47.84035
+    ],
+    "Mieming": [
+        10.98333,
+        47.3
+    ],
+    "Mieders": [
+        11.38333,
+        47.16667
+    ],
+    "Michelhausen": [
+        15.93893,
+        48.29085
+    ],
+    "Micheldorf in Oberösterreich": [
+        14.13357,
+        47.87764
+    ],
+    "Micheldorf": [
+        14.41667,
+        46.91667
+    ],
+    "Michaelerberg": [
+        13.89333,
+        47.41083
+    ],
+    "Mettersdorf am Saßbach": [
+        15.71111,
+        46.80583
+    ],
+    "Metnitz": [
+        14.21667,
+        46.98056
+    ],
+    "Merkendorf": [
+        15.90389,
+        46.85722
+    ],
+    "Mellach": [
+        15.51667,
+        46.93333
+    ],
+    "Melk": [
+        15.33186,
+        48.22737
+    ],
+    "Meiningen": [
+        9.57862,
+        47.29891
+    ],
+    "Mayrhofen": [
+        11.86667,
+        47.16667
+    ],
+    "Mautern in Steiermark": [
+        14.83333,
+        47.4
+    ],
+    "Mauterndorf": [
+        13.67884,
+        47.13451
+    ],
+    "Mauerbach": [
+        16.16793,
+        48.24514
+    ],
+    "Mattsee": [
+        13.1,
+        47.96667
+    ],
+    "Mattersburg": [
+        16.4,
+        47.73333
+    ],
+    "Matrei in Osttirol": [
+        12.53333,
+        47
+    ],
+    "Matrei am Brenner": [
+        11.45,
+        47.13333
+    ],
+    "Marz": [
+        16.41667,
+        47.71667
+    ],
+    "Martinsberg": [
+        15.15,
+        48.36667
+    ],
+    "Markt Sankt Martin": [
+        16.42508,
+        47.56205
+    ],
+    "Sankt Florian": [
+        14.37836,
+        48.20568
+    ],
+    "Bad Pirawarth": [
+        16.59833,
+        48.45194
+    ],
+    "Markt Piesting": [
+        16.1251,
+        47.87358
+    ],
+    "Markt Neuhodis": [
+        16.39564,
+        47.29565
+    ],
+    "Markt Allhau": [
+        16.08333,
+        47.28333
+    ],
+    "Markgrafneusiedl": [
+        16.63333,
+        48.26667
+    ],
+    "Mariazell": [
+        15.31639,
+        47.77306
+    ],
+    "Maria Wörth": [
+        14.16306,
+        46.61639
+    ],
+    "Mariatrost": [
+        15.5,
+        47.1
+    ],
+    "Maria Taferl": [
+        15.15,
+        48.21667
+    ],
+    "Mariastein": [
+        12.05,
+        47.53333
+    ],
+    "Mariasdorf": [
+        16.23136,
+        47.3658
+    ],
+    "Maria Saal": [
+        14.34861,
+        46.68083
+    ],
+    "Maria Rain": [
+        14.29556,
+        46.55389
+    ],
+    "Mariapfarr": [
+        13.75,
+        47.15
+    ],
+    "Maria Neustift": [
+        14.6,
+        47.93333
+    ],
+    "Maria Lankowitz": [
+        15.06667,
+        47.05
+    ],
+    "Maria Laach am Jauerling": [
+        15.33333,
+        48.3
+    ],
+    "Mariahof": [
+        14.4,
+        47.1
+    ],
+    "Maria Enzersdorf": [
+        16.28333,
+        48.1
+    ],
+    "Maria-Anzbach": [
+        15.93155,
+        48.19012
+    ],
+    "Maria Alm am Steinernen Meer": [
+        12.90121,
+        47.40579
+    ],
+    "Marchtrenk": [
+        14.11667,
+        48.18333
+    ],
+    "Marchegg": [
+        16.90933,
+        48.27885
+    ],
+    "Marbach an der Donau": [
+        15.15,
+        48.21667
+    ],
+    "Mannsdorf an der Donau": [
+        16.66506,
+        48.152
+    ],
+    "Manning": [
+        13.66682,
+        48.08851
+    ],
+    "Mannersdorf an der Rabnitz": [
+        16.52678,
+        47.42815
+    ],
+    "Mannersdorf am Leithagebirge": [
+        16.6,
+        47.96667
+    ],
+    "Mank": [
+        15.33915,
+        48.11024
+    ],
+    "Maissau": [
+        15.81667,
+        48.56667
+    ],
+    "Maishofen": [
+        12.8,
+        47.36667
+    ],
+    "Mailberg": [
+        16.18132,
+        48.67379
+    ],
+    "Maierdorf": [
+        15.84972,
+        46.8925
+    ],
+    "Mäder": [
+        9.61667,
+        47.35
+    ],
+    "Lutzmannsburg": [
+        16.63665,
+        47.46373
+    ],
+    "Lustenau": [
+        9.65851,
+        47.42642
+    ],
+    "Lunz am See": [
+        15.02998,
+        47.8612
+    ],
+    "Ludmannsdorf": [
+        14.13425,
+        46.54139
+    ],
+    "Ludesch": [
+        9.78306,
+        47.2
+    ],
+    "Losenstein": [
+        14.43672,
+        47.92428
+    ],
+    "Lorüns": [
+        9.85,
+        47.13306
+    ],
+    "Loretto": [
+        16.5179,
+        47.91559
+    ],
+    "Loosdorf": [
+        15.4,
+        48.2
+    ],
+    "Loipersdorf bei Fürstenfeld": [
+        16.1,
+        47
+    ],
+    "Loipersbach im Burgenland": [
+        16.47919,
+        47.69656
+    ],
+    "Loich": [
+        15.40163,
+        47.99578
+    ],
+    "Lofer": [
+        12.6932,
+        47.58634
+    ],
+    "Lödersdorf": [
+        15.94333,
+        46.95861
+    ],
+    "Lochau": [
+        9.75,
+        47.53333
+    ],
+    "Litzelsdorf": [
+        16.15,
+        47.2
+    ],
+    "Litschau": [
+        15.05,
+        48.93333
+    ],
+    "Linz": [
+        14.28611,
+        48.30639
+    ],
+    "Lilienfeld": [
+        15.59664,
+        48.01312
+    ],
+    "Ligist": [
+        15.21083,
+        46.99389
+    ],
+    "Liezen": [
+        14.23333,
+        47.56667
+    ],
+    "Lienz": [
+        12.76903,
+        46.8289
+    ],
+    "Lieboch": [
+        15.3375,
+        46.97417
+    ],
+    "Lichtenwörth": [
+        16.28333,
+        47.83333
+    ],
+    "Lichtenegg": [
+        16.2,
+        47.6
+    ],
+    "Leutschach": [
+        15.46889,
+        46.66722
+    ],
+    "Lermoos": [
+        10.88333,
+        47.4
+    ],
+    "Leopoldsdorf im Marchfelde": [
+        16.68858,
+        48.22261
+    ],
+    "Leopoldsdorf": [
+        16.39126,
+        48.11557
+    ],
+    "Leonding": [
+        14.2533,
+        48.27965
+    ],
+    "Leogang": [
+        12.76109,
+        47.43906
+    ],
+    "Leobersdorf": [
+        16.21651,
+        47.92796
+    ],
+    "Leobendorf": [
+        16.31667,
+        48.38333
+    ],
+    "Leoben": [
+        15.09144,
+        47.3765
+    ],
+    "Lenzing": [
+        13.60846,
+        47.97326
+    ],
+    "Lengenfeld": [
+        15.58333,
+        48.46667
+    ],
+    "Lendorf": [
+        13.43028,
+        46.83528
+    ],
+    "Lend": [
+        13.05176,
+        47.29856
+    ],
+    "Leitzersdorf": [
+        16.23333,
+        48.41667
+    ],
+    "Leithaprodersdorf": [
+        16.47915,
+        47.93348
+    ],
+    "Leitersdorf im Raabtal": [
+        15.95,
+        46.95
+    ],
+    "Leisach": [
+        12.74861,
+        46.8125
+    ],
+    "Leibnitz": [
+        15.53836,
+        46.78161
+    ],
+    "Leiben": [
+        15.2746,
+        48.24628
+    ],
+    "Lechaschau": [
+        10.70652,
+        47.48804
+    ],
+    "Lech": [
+        10.14184,
+        47.20797
+    ],
+    "Laxenburg": [
+        16.35607,
+        48.06833
+    ],
+    "Lavant": [
+        12.83806,
+        46.79889
+    ],
+    "Lavamünd": [
+        14.94733,
+        46.64019
+    ],
+    "Lauterach": [
+        9.73306,
+        47.48306
+    ],
+    "Laussa": [
+        14.45,
+        47.95
+    ],
+    "Lassing": [
+        14.26667,
+        47.51667
+    ],
+    "Lassee": [
+        16.8223,
+        48.22479
+    ],
+    "Lanzenkirchen": [
+        16.23333,
+        47.73333
+    ],
+    "Lans": [
+        11.45,
+        47.23333
+    ],
+    "Lannach": [
+        15.33722,
+        46.94611
+    ],
+    "Langschlag": [
+        14.88333,
+        48.56667
+    ],
+    "Langenzersdorf": [
+        16.35,
+        48.3
+    ],
+    "Langenwang": [
+        15.61667,
+        47.56667
+    ],
+    "Langenrohr": [
+        16.01034,
+        48.30489
+    ],
+    "Langenlois": [
+        15.66667,
+        48.46667
+    ],
+    "Langegg bei Graz": [
+        15.63333,
+        47.05
+    ],
+    "Langau": [
+        15.7156,
+        48.83207
+    ],
+    "Lang": [
+        15.50471,
+        46.83765
+    ],
+    "Landl": [
+        14.71667,
+        47.65
+    ],
+    "Landeck": [
+        10.56593,
+        47.13988
+    ],
+    "Lamprechtshausen": [
+        12.95,
+        47.98333
+    ],
+    "Lambach": [
+        13.87453,
+        48.09276
+    ],
+    "Lafnitz": [
+        16.01667,
+        47.36667
+    ],
+    "Ladis": [
+        10.63333,
+        47.06667
+    ],
+    "Ladendorf": [
+        16.48333,
+        48.53333
+    ],
+    "Lackendorf": [
+        16.50404,
+        47.58996
+    ],
+    "Lackenbach": [
+        16.46533,
+        47.59042
+    ],
+    "Labuch": [
+        15.66667,
+        47.06667
+    ],
+    "Laakirchen": [
+        13.82166,
+        47.98188
+    ],
+    "Laab im Walde": [
+        16.17359,
+        48.15486
+    ],
+    "Laa an der Thaya": [
+        16.38333,
+        48.71667
+    ],
+    "Kundl": [
+        11.98333,
+        47.46667
+    ],
+    "Kumberg": [
+        15.53333,
+        47.15
+    ],
+    "Kulm am Zirbitz": [
+        14.48702,
+        47.05814
+    ],
+    "Kukmirn": [
+        16.21033,
+        47.07544
+    ],
+    "Kufstein": [
+        12.16667,
+        47.58333
+    ],
+    "Kuchl": [
+        13.1448,
+        47.62647
+    ],
+    "Krusdorf": [
+        15.86083,
+        46.83944
+    ],
+    "Krumegg": [
+        15.63139,
+        47.02111
+    ],
+    "Krumbach": [
+        9.93583,
+        47.48306
+    ],
+    "Krumau am Kamp": [
+        15.43333,
+        48.58333
+    ],
+    "Krottendorf": [
+        15.63333,
+        47.2
+    ],
+    "Krispl": [
+        13.18333,
+        47.71667
+    ],
+    "Krieglach": [
+        15.55,
+        47.53333
+    ],
+    "Bad Kreuzen": [
+        14.80648,
+        48.26737
+    ],
+    "Krensdorf": [
+        16.41495,
+        47.78552
+    ],
+    "Kremsmünster": [
+        14.12919,
+        48.0529
+    ],
+    "Krems an der Donau": [
+        15.61415,
+        48.40921
+    ],
+    "Kraubath an der Mur": [
+        14.93333,
+        47.3
+    ],
+    "Kramsach": [
+        11.87545,
+        47.44312
+    ],
+    "Krakauschatten": [
+        13.96667,
+        47.18333
+    ],
+    "Krakauhintermühlen": [
+        13.98333,
+        47.18333
+    ],
+    "Krakaudorf": [
+        14.01667,
+        47.16667
+    ],
+    "Köttmannsdorf": [
+        14.23389,
+        46.56139
+    ],
+    "Kottingbrunn": [
+        16.22715,
+        47.95096
+    ],
+    "Köstendorf": [
+        13.2,
+        47.95
+    ],
+    "Kössen": [
+        12.40545,
+        47.6699
+    ],
+    "Korneuburg": [
+        16.33333,
+        48.35
+    ],
+    "Koppl": [
+        13.15561,
+        47.80808
+    ],
+    "Königstetten": [
+        16.14492,
+        48.30198
+    ],
+    "Königsdorf": [
+        16.16667,
+        47
+    ],
+    "Kolsass": [
+        11.63333,
+        47.28333
+    ],
+    "Kohlschwarz": [
+        15.11667,
+        47.11667
+    ],
+    "Kohlberg": [
+        15.78333,
+        46.9
+    ],
+    "Kohfidisch": [
+        16.35701,
+        47.17472
+    ],
+    "Koglhof": [
+        15.68333,
+        47.31667
+    ],
+    "Köflach": [
+        15.08333,
+        47.06667
+    ],
+    "Koblach": [
+        9.6,
+        47.33306
+    ],
+    "Kobersdorf": [
+        16.39173,
+        47.59572
+    ],
+    "Kobenz": [
+        14.85,
+        47.25
+    ],
+    "Knittelfeld": [
+        14.81667,
+        47.21667
+    ],
+    "Klosterneuburg": [
+        16.32522,
+        48.30521
+    ],
+    "Klösterle": [
+        10.08333,
+        47.13333
+    ],
+    "Kloster": [
+        15.08333,
+        46.88333
+    ],
+    "Klöch": [
+        15.96556,
+        46.76472
+    ],
+    "Klingenbach": [
+        16.54069,
+        47.75202
+    ],
+    "Kleinzell im Mühlkreis": [
+        13.99195,
+        48.45585
+    ],
+    "Kleinzell": [
+        15.7362,
+        47.97993
+    ],
+    "Kleinsölk": [
+        13.93944,
+        47.39444
+    ],
+    "Klein-Pöchlarn": [
+        15.21667,
+        48.21667
+    ],
+    "Kleinmürbisch": [
+        16.32448,
+        47.03299
+    ],
+    "Kleinlobming": [
+        14.83333,
+        47.15
+    ],
+    "Kleinkirchheim": [
+        13.79222,
+        46.82278
+    ],
+    "Klausen-Leopoldsdorf": [
+        16.01686,
+        48.08771
+    ],
+    "Klaus": [
+        9.64678,
+        47.30913
+    ],
+    "Klagenfurt am Wörthersee": [
+        14.30528,
+        46.62472
+    ],
+    "Kitzeck im Sausal": [
+        15.43333,
+        46.76667
+    ],
+    "Kitzbühel": [
+        12.39215,
+        47.44637
+    ],
+    "Kittsee": [
+        17.06389,
+        48.0925
+    ],
+    "Kirnberg an der Mank": [
+        15.32232,
+        48.07246
+    ],
+    "Kirchstetten": [
+        15.81667,
+        48.18333
+    ],
+    "Kirchschlag in der Buckligen Welt": [
+        16.28333,
+        47.5
+    ],
+    "Kirchschlag bei Linz": [
+        14.27656,
+        48.41149
+    ],
+    "Kirchschlag": [
+        15.21667,
+        48.38333
+    ],
+    "Kirchdorf in Tirol": [
+        12.44511,
+        47.55626
+    ],
+    "Kirchberg in Tirol": [
+        12.31602,
+        47.44539
+    ],
+    "Kirchberg an der Raab": [
+        15.76694,
+        46.98583
+    ],
+    "Kirchberg an der Pielach": [
+        15.42875,
+        48.0269
+    ],
+    "Kirchberg am Wechsel": [
+        15.99103,
+        47.60738
+    ],
+    "Kirchberg am Walde": [
+        15.08333,
+        48.71667
+    ],
+    "Kirchberg am Wagram": [
+        15.88333,
+        48.43333
+    ],
+    "Kirchbach in Steiermark": [
+        15.66194,
+        46.93167
+    ],
+    "Kirchbach": [
+        13.18454,
+        46.6416
+    ],
+    "Kindberg": [
+        15.45,
+        47.5
+    ],
+    "Kilb": [
+        15.4085,
+        48.10101
+    ],
+    "Keutschach am See": [
+        14.18889,
+        46.59306
+    ],
+    "Kennelbach": [
+        9.76667,
+        47.48306
+    ],
+    "Kemeten": [
+        16.15,
+        47.23333
+    ],
+    "Kematen in Tirol": [
+        11.26667,
+        47.25
+    ],
+    "Kematen an der Ybbs": [
+        14.76468,
+        48.02541
+    ],
+    "Kautzen": [
+        15.23333,
+        48.91667
+    ],
+    "Kauns": [
+        10.68333,
+        47.08333
+    ],
+    "Kaumberg": [
+        15.89842,
+        48.02415
+    ],
+    "Katzelsdorf": [
+        16.26985,
+        47.78055
+    ],
+    "Kasten bei Böheimkirchen": [
+        15.77946,
+        48.1532
+    ],
+    "Kartitsch": [
+        12.50083,
+        46.72889
+    ],
+    "Karrösten": [
+        10.76667,
+        47.21667
+    ],
+    "Karres": [
+        10.78333,
+        47.21667
+    ],
+    "Karlstetten": [
+        15.56667,
+        48.25
+    ],
+    "Kaprun": [
+        12.75985,
+        47.27239
+    ],
+    "Kappl": [
+        10.38333,
+        47.06667
+    ],
+    "Kappel am Krappfeld": [
+        14.48639,
+        46.83861
+    ],
+    "Kapfenstein": [
+        15.97167,
+        46.88611
+    ],
+    "Kapfenberg": [
+        15.29331,
+        47.44458
+    ],
+    "Kapelln": [
+        15.75731,
+        48.25817
+    ],
+    "Kapellen": [
+        15.61667,
+        47.63333
+    ],
+    "Kammern im Liesingtal": [
+        14.9,
+        47.38333
+    ],
+    "Kalwang": [
+        14.75,
+        47.41667
+    ],
+    "Kaltenleutgeben": [
+        16.19956,
+        48.11646
+    ],
+    "Kaltenbach": [
+        11.86667,
+        47.28333
+    ],
+    "Kalsdorf bei Graz": [
+        15.48028,
+        46.96528
+    ],
+    "Kaisersdorf": [
+        16.39198,
+        47.53741
+    ],
+    "Kaindorf an der Sulm": [
+        15.53879,
+        46.79248
+    ],
+    "Kaindorf": [
+        15.9,
+        47.21667
+    ],
+    "Kainach bei Voitsberg": [
+        15.08333,
+        47.13333
+    ],
+    "Kaibing": [
+        15.83333,
+        47.2
+    ],
+    "Jungholz": [
+        10.44723,
+        47.57409
+    ],
+    "Judenburg": [
+        14.66667,
+        47.16667
+    ],
+    "Jois": [
+        16.79604,
+        47.96165
+    ],
+    "Johnsbach": [
+        14.58333,
+        47.53333
+    ],
+    "Jochberg": [
+        12.41807,
+        47.3792
+    ],
+    "Jerzens": [
+        10.73333,
+        47.15
+    ],
+    "Jennersdorf": [
+        16.14158,
+        46.93848
+    ],
+    "Jenbach": [
+        11.77245,
+        47.39173
+    ],
+    "Jedenspeigen": [
+        16.87225,
+        48.49807
+    ],
+    "Japons": [
+        15.56831,
+        48.7925
+    ],
+    "Jaidhof": [
+        15.48333,
+        48.53333
+    ],
+    "Jagerberg": [
+        15.73806,
+        46.85361
+    ],
+    "Jabing": [
+        16.28333,
+        47.25
+    ],
+    "Ischgl": [
+        10.29179,
+        47.01257
+    ],
+    "Irschen": [
+        13.02528,
+        46.75694
+    ],
+    "Irdning": [
+        14.10155,
+        47.50529
+    ],
+    "Inzing": [
+        11.18333,
+        47.28333
+    ],
+    "Inzenhof": [
+        16.31667,
+        47.01667
+    ],
+    "Innsbruck": [
+        11.39454,
+        47.26266
+    ],
+    "Innervillgraten": [
+        12.37472,
+        46.81194
+    ],
+    "Innerschwand": [
+        13.4,
+        47.83333
+    ],
+    "Innerbraz": [
+        9.91667,
+        47.15
+    ],
+    "Imsterberg": [
+        10.69605,
+        47.20517
+    ],
+    "Imst": [
+        10.73974,
+        47.24504
+    ],
+    "Ilz": [
+        15.91667,
+        47.08333
+    ],
+    "Illmitz": [
+        16.80024,
+        47.76148
+    ],
+    "Hüttschlag": [
+        13.23333,
+        47.16667
+    ],
+    "Hüttenberg": [
+        14.55,
+        46.94139
+    ],
+    "Hüttau": [
+        13.3,
+        47.41667
+    ],
+    "Hürm": [
+        15.41262,
+        48.15601
+    ],
+    "Hundsheim": [
+        16.93581,
+        48.11749
+    ],
+    "Hörsching": [
+        14.17786,
+        48.22627
+    ],
+    "Hornstein": [
+        16.44447,
+        47.88049
+    ],
+    "Horn": [
+        15.65663,
+        48.66274
+    ],
+    "Horitschon": [
+        16.54696,
+        47.58729
+    ],
+    "Hörbranz": [
+        9.75,
+        47.55
+    ],
+    "Hopfgarten im Brixental": [
+        12.16667,
+        47.45
+    ],
+    "Hopfgarten in Defereggen": [
+        12.53639,
+        46.91917
+    ],
+    "Holzhausen": [
+        14.09683,
+        48.22296
+    ],
+    "Hollersbach im Pinzgau": [
+        12.41667,
+        47.26667
+    ],
+    "Hollenthon": [
+        16.25,
+        47.58333
+    ],
+    "Hollenstein an der Ybbs": [
+        14.76667,
+        47.8
+    ],
+    "Hollenegg": [
+        15.21345,
+        46.79147
+    ],
+    "Hollabrunn": [
+        16.08333,
+        48.55
+    ],
+    "Hohenweiler": [
+        9.78333,
+        47.58333
+    ],
+    "Hohenthurn": [
+        13.66778,
+        46.55833
+    ],
+    "Hohentauern": [
+        14.48333,
+        47.43333
+    ],
+    "Hohenruppersdorf": [
+        16.65,
+        48.45
+    ],
+    "Hohenems": [
+        9.68306,
+        47.36667
+    ],
+    "Hoheneich": [
+        15.01667,
+        48.76667
+    ],
+    "Hohenberg": [
+        15.61998,
+        47.90679
+    ],
+    "Hohenau an der Raab": [
+        15.55,
+        47.3
+    ],
+    "Hofstätten an der Raab": [
+        15.73333,
+        47.06667
+    ],
+    "Höfen": [
+        10.68333,
+        47.46667
+    ],
+    "Hof bei Straden": [
+        15.93333,
+        46.8
+    ],
+    "Hof bei Salzburg": [
+        13.21488,
+        47.81929
+    ],
+    "Hof am Leithaberge": [
+        16.58333,
+        47.95
+    ],
+    "Hochwolkersdorf": [
+        16.28333,
+        47.65
+    ],
+    "Höchst": [
+        9.6405,
+        47.45934
+    ],
+    "Hochfilzen": [
+        12.61667,
+        47.46667
+    ],
+    "Hitzendorf": [
+        15.3,
+        47.03333
+    ],
+    "Hirtenberg": [
+        16.17908,
+        47.93095
+    ],
+    "Hirschbach": [
+        15.11667,
+        48.73333
+    ],
+    "Hirnsdorf": [
+        15.81667,
+        47.18333
+    ],
+    "Hirm": [
+        16.4546,
+        47.78652
+    ],
+    "Hippach": [
+        11.86523,
+        47.20435
+    ],
+    "Hintersee": [
+        13.28333,
+        47.7
+    ],
+    "Hinterbrühl": [
+        16.24809,
+        48.08611
+    ],
+    "Himmelberg": [
+        14.03056,
+        46.75667
+    ],
+    "Himberg": [
+        16.43333,
+        48.08333
+    ],
+    "Hieflau": [
+        14.73333,
+        47.6
+    ],
+    "Heugraben": [
+        16.18333,
+        47.11667
+    ],
+    "Herzogsdorf": [
+        14.1128,
+        48.43011
+    ],
+    "Herzogenburg": [
+        15.69431,
+        48.28137
+    ],
+    "Herrnbaumgarten": [
+        16.68333,
+        48.68333
+    ],
+    "Hernstein": [
+        16.10561,
+        47.89465
+    ],
+    "Hermagor": [
+        13.36722,
+        46.62722
+    ],
+    "Hennersdorf": [
+        16.36311,
+        48.11173
+    ],
+    "Henndorf am Wallersee": [
+        13.18333,
+        47.9
+    ],
+    "Hengsberg": [
+        15.43333,
+        46.86667
+    ],
+    "Hellmonsödt": [
+        14.3,
+        48.43333
+    ],
+    "Heiterwang": [
+        10.75,
+        47.45
+    ],
+    "Heiligenkreuz im Lafnitztal": [
+        16.26083,
+        46.98917
+    ],
+    "Heiligenkreuz am Waasen": [
+        15.58806,
+        46.95583
+    ],
+    "Heiligenkreuz": [
+        16.12493,
+        48.05559
+    ],
+    "Heiligenbrunn": [
+        16.41688,
+        47.02705
+    ],
+    "Heiligenblut": [
+        12.84345,
+        47.03979
+    ],
+    "Heidenreichstein": [
+        15.11667,
+        48.86667
+    ],
+    "Hausmannstätten": [
+        15.51139,
+        46.99111
+    ],
+    "Hausleiten": [
+        16.1,
+        48.38333
+    ],
+    "Hauskirchen": [
+        16.76667,
+        48.6
+    ],
+    "Hausbrunn": [
+        16.81667,
+        48.61667
+    ],
+    "Haus": [
+        13.76724,
+        47.40997
+    ],
+    "Haunoldstein": [
+        15.45,
+        48.2
+    ],
+    "Haugsdorf": [
+        16.06667,
+        48.7
+    ],
+    "Haugschlag": [
+        15.05,
+        48.98333
+    ],
+    "Hatzendorf": [
+        15.99556,
+        46.98111
+    ],
+    "Hatting": [
+        11.16667,
+        47.28333
+    ],
+    "Häselgehr": [
+        10.5,
+        47.31667
+    ],
+    "Hartl": [
+        15.91667,
+        47.18333
+    ],
+    "Hart im Zillertal": [
+        11.87201,
+        47.35232
+    ],
+    "Hartberg": [
+        15.96667,
+        47.28333
+    ],
+    "Harmannsdorf": [
+        16.36667,
+        48.38333
+    ],
+    "Haringsee": [
+        16.78741,
+        48.1927
+    ],
+    "Bad Häring": [
+        12.11912,
+        47.51071
+    ],
+    "Hardegg": [
+        15.85,
+        48.85
+    ],
+    "Hard": [
+        9.68306,
+        47.48306
+    ],
+    "Hannersdorf": [
+        16.3825,
+        47.22895
+    ],
+    "Hallwang": [
+        13.08333,
+        47.85
+    ],
+    "Hallein": [
+        13.1,
+        47.68333
+    ],
+    "Hall": [
+        14.45,
+        47.6
+    ],
+    "Halbturn": [
+        16.97542,
+        47.87019
+    ],
+    "Halbenrain": [
+        15.94667,
+        46.72194
+    ],
+    "Hainzenberg": [
+        11.90034,
+        47.21788
+    ],
+    "Hainsdorf im Schwarzautal": [
+        15.64139,
+        46.83583
+    ],
+    "Hainfeld": [
+        15.77414,
+        48.0339
+    ],
+    "Hainersdorf": [
+        15.93333,
+        47.11667
+    ],
+    "Hainburg an der Donau": [
+        16.94504,
+        48.14627
+    ],
+    "Haiming": [
+        10.88333,
+        47.25
+    ],
+    "Haidershofen": [
+        14.45,
+        48.06667
+    ],
+    "Haibach im Mühlkreis": [
+        14.34411,
+        48.44429
+    ],
+    "Hagenbrunn": [
+        16.4,
+        48.33333
+    ],
+    "Hafning bei Trofaiach": [
+        15,
+        47.43333
+    ],
+    "Hafnerbach": [
+        15.48333,
+        48.21667
+    ],
+    "Hadres": [
+        16.11667,
+        48.7
+    ],
+    "Hackerberg": [
+        16.11667,
+        47.2
+    ],
+    "Haag": [
+        14.51667,
+        48.05
+    ],
+    "Güttenbach": [
+        16.3,
+        47.16667
+    ],
+    "Guttaring": [
+        14.5,
+        46.88333
+    ],
+    "Gutenstein": [
+        15.88881,
+        47.876
+    ],
+    "Gutenbrunn": [
+        15.11667,
+        48.35
+    ],
+    "Güssing": [
+        16.32431,
+        47.05936
+    ],
+    "Gurk": [
+        14.29167,
+        46.87389
+    ],
+    "Guntramsdorf": [
+        16.31384,
+        48.04687
+    ],
+    "Guntersdorf": [
+        16.05,
+        48.65
+    ],
+    "Gunskirchen": [
+        13.95,
+        48.13333
+    ],
+    "Günselsdorf": [
+        16.26062,
+        47.94395
+    ],
+    "Gundersdorf": [
+        15.23333,
+        46.95
+    ],
+    "Gumpoldskirchen": [
+        16.2771,
+        48.04538
+    ],
+    "Gschaid bei Birkfeld": [
+        15.73333,
+        47.33333
+    ],
+    "Grünbach am Schneeberg": [
+        15.98785,
+        47.79747
+    ],
+    "Grünau im Almtal": [
+        13.95573,
+        47.85493
+    ],
+    "Großweikersdorf": [
+        15.98333,
+        48.46667
+    ],
+    "Großsölk": [
+        13.96667,
+        47.41667
+    ],
+    "Groß-Siegharts": [
+        15.4,
+        48.78333
+    ],
+    "Groß-Schweinbarth": [
+        16.63194,
+        48.41472
+    ],
+    "Groß Sankt Florian": [
+        15.31861,
+        46.82444
+    ],
+    "Großrußbach": [
+        16.41667,
+        48.46667
+    ],
+    "Großriedenthal": [
+        15.86667,
+        48.48333
+    ],
+    "Grosspetersdorf": [
+        16.31783,
+        47.23895
+    ],
+    "Großmugl": [
+        16.23056,
+        48.49917
+    ],
+    "Großlobming": [
+        14.8,
+        47.18333
+    ],
+    "Großkrut": [
+        16.72361,
+        48.64389
+    ],
+    "Großklein": [
+        15.44444,
+        46.73611
+    ],
+    "Großhofen": [
+        16.6194,
+        48.25834
+    ],
+    "Heimschuh": [
+        15.49306,
+        46.76
+    ],
+    "Großharras": [
+        16.24556,
+        48.66389
+    ],
+    "Groß-Gerungs": [
+        14.95789,
+        48.57422
+    ],
+    "Groß-Enzersdorf": [
+        16.55083,
+        48.20278
+    ],
+    "Groß-Engersdorf": [
+        16.56667,
+        48.35
+    ],
+    "Großebersdorf": [
+        16.47076,
+        48.36405
+    ],
+    "Grödig": [
+        13.03333,
+        47.73333
+    ],
+    "Gröbming": [
+        13.90122,
+        47.44272
+    ],
+    "Grins": [
+        10.51409,
+        47.14034
+    ],
+    "Grimmenstein": [
+        16.13333,
+        47.61667
+    ],
+    "Griffen": [
+        14.73278,
+        46.70444
+    ],
+    "Grieskirchen": [
+        13.83333,
+        48.23333
+    ],
+    "Gries im Sellrain": [
+        11.15619,
+        47.19554
+    ],
+    "Gries am Brenner": [
+        11.48333,
+        47.05
+    ],
+    "Gresten": [
+        15.02552,
+        47.98521
+    ],
+    "Gressenberg": [
+        15.11667,
+        46.8
+    ],
+    "Greisdorf": [
+        15.21667,
+        46.91667
+    ],
+    "Greifenburg": [
+        13.17778,
+        46.75583
+    ],
+    "Graz": [
+        15.45,
+        47.06667
+    ],
+    "Gratwein": [
+        15.31667,
+        47.11667
+    ],
+    "Gratkorn": [
+        15.35,
+        47.13333
+    ],
+    "Grän": [
+        10.55,
+        47.5
+    ],
+    "Grambach": [
+        15.5,
+        47.01667
+    ],
+    "Gramatneusiedl": [
+        16.48333,
+        48.01667
+    ],
+    "Gramastetten": [
+        14.19185,
+        48.38028
+    ],
+    "Gramais": [
+        10.53333,
+        47.26667
+    ],
+    "Grafenwörth": [
+        15.78333,
+        48.4
+    ],
+    "Grafenstein": [
+        14.46667,
+        46.6
+    ],
+    "Grafenschlag": [
+        15.16667,
+        48.5
+    ],
+    "Grafenschachen": [
+        16.06667,
+        47.36667
+    ],
+    "Grafenegg": [
+        15.73333,
+        48.41667
+    ],
+    "Grafendorf bei Hartberg": [
+        16,
+        47.35
+    ],
+    "Grabersdorf": [
+        15.82472,
+        46.84306
+    ],
+    "Götzis": [
+        9.63306,
+        47.33306
+    ],
+    "Götzens": [
+        11.31154,
+        47.23606
+    ],
+    "Götzendorf an der Leitha": [
+        16.58333,
+        48.01667
+    ],
+    "Göstling an der Ybbs": [
+        14.91667,
+        47.8
+    ],
+    "Gösting": [
+        15.39777,
+        47.09788
+    ],
+    "Gössendorf": [
+        15.48333,
+        46.98333
+    ],
+    "Gossendorf": [
+        15.91667,
+        46.91667
+    ],
+    "Gössenberg": [
+        13.81667,
+        47.41667
+    ],
+    "Gosdorf": [
+        15.7925,
+        46.72778
+    ],
+    "Göpfritz an der Wild": [
+        15.4,
+        48.71667
+    ],
+    "Gols": [
+        16.91113,
+        47.89689
+    ],
+    "Golling an der Salzach": [
+        13.16667,
+        47.6
+    ],
+    "Göllersdorf": [
+        16.11667,
+        48.48333
+    ],
+    "Goldwörth": [
+        14.10112,
+        48.32664
+    ],
+    "Goldegg": [
+        13.09922,
+        47.31875
+    ],
+    "Göfis": [
+        9.63458,
+        47.23356
+    ],
+    "Gnesau": [
+        13.96251,
+        46.77544
+    ],
+    "Gnas": [
+        15.82528,
+        46.87306
+    ],
+    "Gnadendorf": [
+        16.4,
+        48.61667
+    ],
+    "Gmunden": [
+        13.79754,
+        47.91887
+    ],
+    "Gmünd": [
+        13.52944,
+        46.90722
+    ],
+    "Glojach": [
+        15.66667,
+        46.86667
+    ],
+    "Gloggnitz": [
+        15.93893,
+        47.67487
+    ],
+    "Glödnitz": [
+        14.11667,
+        46.86667
+    ],
+    "Globasnitz": [
+        14.70278,
+        46.55694
+    ],
+    "Glinzendorf": [
+        16.6406,
+        48.24605
+    ],
+    "Gleisdorf": [
+        15.71011,
+        47.10559
+    ],
+    "Gleinstätten": [
+        15.36972,
+        46.75361
+    ],
+    "Glanegg": [
+        14.20639,
+        46.71361
+    ],
+    "Gießhübl": [
+        16.23479,
+        48.0978
+    ],
+    "Gföhl": [
+        15.48333,
+        48.51667
+    ],
+    "Gersdorf an der Feistritz": [
+        15.85,
+        47.16667
+    ],
+    "Gerersdorf": [
+        15.55,
+        48.18333
+    ],
+    "Gerasdorf bei Wien": [
+        16.46765,
+        48.29447
+    ],
+    "Geras": [
+        15.67268,
+        48.79725
+    ],
+    "Geistthal": [
+        15.16667,
+        47.16667
+    ],
+    "Gedersdorf": [
+        15.68865,
+        48.43319
+    ],
+    "Gaweinstal": [
+        16.58333,
+        48.46667
+    ],
+    "Gaubitsch": [
+        16.38333,
+        48.65
+    ],
+    "Gattendorf": [
+        16.98333,
+        48.01667
+    ],
+    "Gastern": [
+        15.22027,
+        48.89446
+    ],
+    "Gasen": [
+        15.56667,
+        47.38333
+    ],
+    "Gaschurn": [
+        10.03333,
+        46.98333
+    ],
+    "Garsten": [
+        14.40747,
+        48.0224
+    ],
+    "Gars am Kamp": [
+        15.65,
+        48.58333
+    ],
+    "Garanas": [
+        15.11667,
+        46.76667
+    ],
+    "Ganz": [
+        15.68333,
+        47.6
+    ],
+    "Gänserndorf": [
+        16.72016,
+        48.33925
+    ],
+    "Bad Gams": [
+        15.22472,
+        46.87111
+    ],
+    "Gams bei Hieflau": [
+        14.78333,
+        47.66667
+    ],
+    "Gampern": [
+        13.55927,
+        47.98745
+    ],
+    "Gamlitz": [
+        15.55333,
+        46.72028
+    ],
+    "Gaming": [
+        15.08818,
+        47.929
+    ],
+    "Galtür": [
+        10.18333,
+        46.96667
+    ],
+    "Gallzein": [
+        11.77159,
+        47.36807
+    ],
+    "Gallneukirchen": [
+        14.41604,
+        48.35363
+    ],
+    "Gallmannsegg": [
+        15.06667,
+        47.18333
+    ],
+    "Gallizien": [
+        14.51667,
+        46.55
+    ],
+    "Gaißau": [
+        9.6,
+        47.46667
+    ],
+    "Gaflenz": [
+        14.71667,
+        47.88333
+    ],
+    "Gablitz": [
+        16.15437,
+        48.22856
+    ],
+    "Gabersdorf": [
+        15.58417,
+        46.77722
+    ],
+    "Gaal": [
+        14.66667,
+        47.26667
+    ],
+    "Gaaden": [
+        16.20003,
+        48.05364
+    ],
+    "Fußach": [
+        9.66278,
+        47.47933
+    ],
+    "Fuschl am See": [
+        13.3,
+        47.8
+    ],
+    "Furth an der Triesting": [
+        15.97326,
+        47.97326
+    ],
+    "Fürstenfeld": [
+        16.08333,
+        47.05
+    ],
+    "Fulpmes": [
+        11.35,
+        47.16667
+    ],
+    "Fügenberg": [
+        11.83333,
+        47.35
+    ],
+    "Fügen": [
+        11.85,
+        47.35
+    ],
+    "Frohnleiten": [
+        15.31667,
+        47.26667
+    ],
+    "Fritzens": [
+        11.58333,
+        47.3
+    ],
+    "Friesach": [
+        14.40583,
+        46.95528
+    ],
+    "Friedberg": [
+        16.05,
+        47.43333
+    ],
+    "Fresach": [
+        13.69083,
+        46.71556
+    ],
+    "Freistadt": [
+        14.50453,
+        48.51103
+    ],
+    "Freiland bei Deutschlandsberg": [
+        15.13333,
+        46.83333
+    ],
+    "Fraxern": [
+        9.67391,
+        47.31498
+    ],
+    "Frauenkirchen": [
+        16.92581,
+        47.83678
+    ],
+    "Frauenberg": [
+        15.34206,
+        47.42855
+    ],
+    "Frannach": [
+        15.63361,
+        46.91306
+    ],
+    "Frankenmarkt": [
+        13.41667,
+        47.98333
+    ],
+    "Frankenfels": [
+        15.32593,
+        47.98234
+    ],
+    "Frankenburg": [
+        13.49065,
+        48.06844
+    ],
+    "Forstau": [
+        13.53333,
+        47.36667
+    ],
+    "Fornach": [
+        13.42941,
+        48.02277
+    ],
+    "Forchach": [
+        10.58333,
+        47.41667
+    ],
+    "Fohnsdorf": [
+        14.68333,
+        47.2
+    ],
+    "Floing": [
+        15.7465,
+        47.26356
+    ],
+    "Flirsch": [
+        10.4,
+        47.15
+    ],
+    "Flaurling": [
+        11.11667,
+        47.28333
+    ],
+    "Flattach": [
+        13.13444,
+        46.93861
+    ],
+    "Flatschach": [
+        14.75,
+        47.21667
+    ],
+    "Fladnitz im Raabtal": [
+        15.78528,
+        46.99167
+    ],
+    "Flachau": [
+        13.39148,
+        47.34406
+    ],
+    "Fiss": [
+        10.61667,
+        47.05
+    ],
+    "Fischbach": [
+        15.65,
+        47.43333
+    ],
+    "Fischamend Dorf": [
+        16.61287,
+        48.11884
+    ],
+    "Filzmoos": [
+        13.51667,
+        47.43333
+    ],
+    "Fieberbrunn": [
+        12.55,
+        47.48333
+    ],
+    "Ferschnitz": [
+        15,
+        48.08333
+    ],
+    "Fernitz": [
+        15.50111,
+        46.97389
+    ],
+    "Ferndorf": [
+        13.6375,
+        46.73972
+    ],
+    "Ferlach": [
+        14.30194,
+        46.52694
+    ],
+    "Fendels": [
+        10.66667,
+        47.05
+    ],
+    "Fels am Wagram": [
+        15.81667,
+        48.43333
+    ],
+    "Felixdorf": [
+        16.24208,
+        47.88159
+    ],
+    "Feldkirchen in Kärnten": [
+        14.0958,
+        46.72368
+    ],
+    "Feldkirchen bei Graz": [
+        15.45,
+        47.01667
+    ],
+    "Feldkirchen an der Donau": [
+        14.05134,
+        48.34524
+    ],
+    "Feldkirch": [
+        9.6,
+        47.23306
+    ],
+    "Feldbach": [
+        15.88833,
+        46.95306
+    ],
+    "Feld am See": [
+        13.74778,
+        46.77639
+    ],
+    "Feistritz ob Bleiburg": [
+        14.76667,
+        46.55
+    ],
+    "Feistritz im Rosental": [
+        14.16667,
+        46.51667
+    ],
+    "Feistritz bei Knittelfeld": [
+        14.88333,
+        47.26667
+    ],
+    "Feistritz an der Gail": [
+        13.60667,
+        46.5775
+    ],
+    "Feistritz am Wechsel": [
+        16.05,
+        47.6
+    ],
+    "Fehring": [
+        16.00806,
+        46.94
+    ],
+    "Fallbach": [
+        16.41667,
+        48.65
+    ],
+    "Falkenstein": [
+        16.58333,
+        48.71667
+    ],
+    "St. Ruprecht-Falkendorf": [
+        14.01752,
+        47.1011
+    ],
+    "Faistenau": [
+        13.23333,
+        47.76667
+    ],
+    "Euratsfeld": [
+        14.93154,
+        48.08181
+    ],
+    "Eugendorf": [
+        13.11667,
+        47.86667
+    ],
+    "Eschenau": [
+        15.56694,
+        48.04825
+    ],
+    "Ernstbrunn": [
+        16.35,
+        48.53333
+    ],
+    "Erlauf": [
+        15.18333,
+        48.18333
+    ],
+    "Erlach": [
+        16.21667,
+        47.71667
+    ],
+    "Erl": [
+        12.18333,
+        47.68333
+    ],
+    "Enzersfeld": [
+        16.41667,
+        48.35
+    ],
+    "Enzersdorf an der Fischa": [
+        16.6,
+        48.08333
+    ],
+    "Enzenreith": [
+        15.95249,
+        47.66839
+    ],
+    "Ennsdorf": [
+        14.5029,
+        48.21181
+    ],
+    "Enns": [
+        14.47612,
+        48.21346
+    ],
+    "Engerwitzdorf": [
+        14.44204,
+        48.34507
+    ],
+    "Engelhartstetten": [
+        16.88333,
+        48.16667
+    ],
+    "Empersdorf": [
+        15.6,
+        46.98333
+    ],
+    "Emmersdorf an der Donau": [
+        15.33721,
+        48.2414
+    ],
+    "Eltendorf": [
+        16.2,
+        47
+    ],
+    "Elsbethen": [
+        13.08333,
+        47.75
+    ],
+    "Elmen": [
+        10.53333,
+        47.33333
+    ],
+    "Ellmau": [
+        12.29937,
+        47.51378
+    ],
+    "Elixhausen": [
+        13.06667,
+        47.86667
+    ],
+    "Elbigenalp": [
+        10.43333,
+        47.3
+    ],
+    "Eisgarn": [
+        15.1,
+        48.9
+    ],
+    "Eisenstadt": [
+        16.52327,
+        47.84565
+    ],
+    "Eisenerz": [
+        14.88333,
+        47.53333
+    ],
+    "Eisbach": [
+        15.26667,
+        47.11667
+    ],
+    "Eidenberg": [
+        14.23313,
+        48.39439
+    ],
+    "Eichgraben": [
+        15.98391,
+        48.17204
+    ],
+    "Eichfeld": [
+        15.76806,
+        46.72528
+    ],
+    "Eichenberg": [
+        9.78333,
+        47.53333
+    ],
+    "Eichberg": [
+        15.96667,
+        47.38333
+    ],
+    "Eibiswald": [
+        15.24722,
+        46.68667
+    ],
+    "Ehrenhausen": [
+        15.58667,
+        46.72417
+    ],
+    "Ehenbichl": [
+        10.7,
+        47.46667
+    ],
+    "Eggersdorf bei Graz": [
+        15.58333,
+        47.11667
+    ],
+    "Eggern": [
+        15.14877,
+        48.90829
+    ],
+    "Eggenburg": [
+        15.81903,
+        48.63892
+    ],
+    "Egg": [
+        9.89556,
+        47.43194
+    ],
+    "Edt bei Lambach": [
+        13.88333,
+        48.11667
+    ],
+    "Edlitz": [
+        16.13333,
+        47.58333
+    ],
+    "Edelstal": [
+        16.98333,
+        48.1
+    ],
+    "Edelsgrub": [
+        15.6,
+        47.03333
+    ],
+    "Edelschrott": [
+        15.05,
+        47.01667
+    ],
+    "Edelsbach bei Feldbach": [
+        15.83694,
+        46.98944
+    ],
+    "Eckartsau": [
+        16.79737,
+        48.14507
+    ],
+    "Echsenbach": [
+        15.21667,
+        48.71667
+    ],
+    "Ebreichsdorf": [
+        16.4,
+        47.95
+    ],
+    "Eberstein": [
+        14.56,
+        46.80806
+    ],
+    "Ebersdorf": [
+        15.95,
+        47.2
+    ],
+    "Eberndorf": [
+        14.64361,
+        46.59139
+    ],
+    "Ebergassing": [
+        16.51709,
+        48.04567
+    ],
+    "Eberau": [
+        16.46044,
+        47.10764
+    ],
+    "Ebenthal": [
+        14.36417,
+        46.60806
+    ],
+    "Ebensee": [
+        13.779,
+        47.80716
+    ],
+    "Eben im Pongau": [
+        13.4,
+        47.4
+    ],
+    "Ebenfurth": [
+        16.36731,
+        47.87738
+    ],
+    "Ebenau": [
+        13.17527,
+        47.79073
+    ],
+    "Ebbs": [
+        12.21667,
+        47.63333
+    ],
+    "Dürnstein in der Steiermark": [
+        14.39167,
+        46.98833
+    ],
+    "Dürnstein": [
+        15.51667,
+        48.38333
+    ],
+    "Dürnkrut": [
+        16.85062,
+        48.47315
+    ],
+    "Düns": [
+        9.71667,
+        47.21667
+    ],
+    "Drösing": [
+        16.90264,
+        48.539
+    ],
+    "Drasenhofen": [
+        16.65,
+        48.75
+    ],
+    "Dornbirn": [
+        9.74195,
+        47.41427
+    ],
+    "Dorfstetten": [
+        14.98218,
+        48.32573
+    ],
+    "Dorfgastein": [
+        13.10223,
+        47.24172
+    ],
+    "Dorfbeuern": [
+        13.01667,
+        48.01667
+    ],
+    "Doren": [
+        9.87972,
+        47.49278
+    ],
+    "Donnerskirchen": [
+        16.64635,
+        47.89425
+    ],
+    "Donnersbach": [
+        14.12972,
+        47.46139
+    ],
+    "Dölsach": [
+        12.84528,
+        46.82833
+    ],
+    "Dobersberg": [
+        15.31667,
+        48.9
+    ],
+    "Diex": [
+        14.6,
+        46.75
+    ],
+    "Dietersdorf am Gnasbach": [
+        15.81167,
+        46.80917
+    ],
+    "Dienten am Hochkönig": [
+        13.00369,
+        47.38324
+    ],
+    "Dienersdorf": [
+        15.88333,
+        47.23333
+    ],
+    "Deutsch-Wagram": [
+        16.56667,
+        48.29972
+    ],
+    "Deutschlandsberg": [
+        15.22222,
+        46.81528
+    ],
+    "Deutschkreutz": [
+        16.63333,
+        47.6
+    ],
+    "Deutsch Kaltenbrunn": [
+        16.10793,
+        47.08789
+    ],
+    "Deutsch Jahrndorf": [
+        17.1,
+        48.01667
+    ],
+    "Deutsch Goritz": [
+        15.82944,
+        46.75083
+    ],
+    "Deutschfeistritz": [
+        15.33333,
+        47.18333
+    ],
+    "Desselbrunn": [
+        13.76667,
+        48.01667
+    ],
+    "Dellach im Drautal": [
+        13.07833,
+        46.7375
+    ],
+    "Dellach": [
+        13.07965,
+        46.66175
+    ],
+    "Dechantskirchen": [
+        16.01667,
+        47.41667
+    ],
+    "Dalaas": [
+        9.99104,
+        47.12446
+    ],
+    "Bürs": [
+        9.8,
+        47.14972
+    ],
+    "Burgau": [
+        16.09643,
+        47.14268
+    ],
+    "Buchkirchen": [
+        14.02242,
+        48.22427
+    ],
+    "Buch bei Jenbach": [
+        11.754,
+        47.37447
+    ],
+    "Buchbach": [
+        15.98425,
+        47.69648
+    ],
+    "Brunn an der Wild": [
+        15.52008,
+        48.69425
+    ],
+    "Brunn am Gebirge": [
+        16.28466,
+        48.10697
+    ],
+    "Bruckneudorf": [
+        16.78333,
+        48.01667
+    ],
+    "Brückl": [
+        14.53667,
+        46.75167
+    ],
+    "Bruck an der Mur": [
+        15.28333,
+        47.41667
+    ],
+    "Bruck an der Leitha": [
+        16.76667,
+        48.01667
+    ],
+    "Bruck an der Großglocknerstraße": [
+        12.8231,
+        47.28494
+    ],
+    "Bruck am Ziller": [
+        11.85124,
+        47.38998
+    ],
+    "Bromberg": [
+        16.2,
+        47.66667
+    ],
+    "Brixlegg": [
+        11.87794,
+        47.42942
+    ],
+    "Brixen im Thale": [
+        12.25,
+        47.45
+    ],
+    "Bretstein": [
+        14.41972,
+        47.3325
+    ],
+    "Breitenwang": [
+        10.73333,
+        47.48333
+    ],
+    "Breitenfurt bei Wien": [
+        16.15,
+        48.13333
+    ],
+    "Breitenfeld an der Rittschein": [
+        15.95,
+        47.03333
+    ],
+    "Breitenfeld am Tannenriegel": [
+        15.63333,
+        46.85
+    ],
+    "Breitenbrunn": [
+        16.73149,
+        47.94452
+    ],
+    "Breitenbach am Inn": [
+        11.97372,
+        47.47829
+    ],
+    "Breitenau": [
+        16.14338,
+        47.73355
+    ],
+    "Bregenz": [
+        9.7471,
+        47.50311
+    ],
+    "Braunau am Inn": [
+        13.04343,
+        48.25628
+    ],
+    "Brandenberg": [
+        11.89459,
+        47.49053
+    ],
+    "Bramberg am Wildkogel": [
+        12.35,
+        47.26667
+    ],
+    "Böheimkirchen": [
+        15.76178,
+        48.19779
+    ],
+    "Bocksdorf": [
+        16.16667,
+        47.13333
+    ],
+    "Bockfließ": [
+        16.60389,
+        48.36
+    ],
+    "Bad Blumau": [
+        16.05,
+        47.11667
+    ],
+    "Bludesch": [
+        9.73306,
+        47.2
+    ],
+    "Bludenz": [
+        9.82255,
+        47.15476
+    ],
+    "Blons": [
+        9.83414,
+        47.22327
+    ],
+    "Blindenmarkt": [
+        14.98333,
+        48.13333
+    ],
+    "Blaindorf": [
+        15.85,
+        47.16667
+    ],
+    "Bizau": [
+        9.92333,
+        47.36889
+    ],
+    "Bischofstetten": [
+        15.46909,
+        48.12222
+    ],
+    "Bischofshofen": [
+        13.21667,
+        47.41667
+    ],
+    "Bisamberg": [
+        16.35,
+        48.33333
+    ],
+    "Birkfeld": [
+        15.68333,
+        47.35
+    ],
+    "Birgitz": [
+        11.29922,
+        47.23536
+    ],
+    "Bildstein": [
+        9.76667,
+        47.45
+    ],
+    "Bierbaum am Auersbach": [
+        15.78333,
+        46.83333
+    ],
+    "Biedermannsdorf": [
+        16.34542,
+        48.08393
+    ],
+    "Bichlbach": [
+        10.78333,
+        47.41667
+    ],
+    "Biberwier": [
+        10.9,
+        47.38333
+    ],
+    "Biberbach": [
+        14.7,
+        48.01667
+    ],
+    "Bezau": [
+        9.90167,
+        47.385
+    ],
+    "Berwang": [
+        10.74735,
+        47.40807
+    ],
+    "Bernstein": [
+        16.25,
+        47.4
+    ],
+    "Bernhardsthal": [
+        16.86951,
+        48.69158
+    ],
+    "Berndorf bei Salzburg": [
+        13.06667,
+        47.98333
+    ],
+    "Berndorf": [
+        16.10973,
+        47.94567
+    ],
+    "Bergheim": [
+        13.03333,
+        47.83333
+    ],
+    "Berg": [
+        17.03333,
+        48.1
+    ],
+    "Behamberg": [
+        14.48333,
+        48.01667
+    ],
+    "Baumkirchen": [
+        11.56667,
+        47.3
+    ],
+    "Baumgarten bei Gnas": [
+        15.76667,
+        46.91667
+    ],
+    "Bartholomäberg": [
+        9.9,
+        47.08333
+    ],
+    "Bärnkopf": [
+        15,
+        48.4
+    ],
+    "Bärnbach": [
+        15.85,
+        47.03333
+    ],
+    "Baldramsdorf": [
+        13.45333,
+        46.80111
+    ],
+    "Bairisch Kölldorf": [
+        15.93333,
+        46.86667
+    ],
+    "Bad Wimsbach-Neydharting": [
+        13.9,
+        48.06667
+    ],
+    "Bad Vöslau": [
+        16.21359,
+        47.96533
+    ],
+    "Bad Tatzmannsdorf": [
+        16.21667,
+        47.33333
+    ],
+    "Bad Schönau": [
+        16.23333,
+        47.48333
+    ],
+    "Bad Schallerbach": [
+        13.91925,
+        48.22999
+    ],
+    "Bad Sankt Leonhard im Lavanttal": [
+        14.79167,
+        46.96278
+    ],
+    "Bad Ischl": [
+        13.61893,
+        47.71109
+    ],
+    "Bad Hofgastein": [
+        13.09871,
+        47.17274
+    ],
+    "Bad Hall": [
+        14.20773,
+        48.03832
+    ],
+    "Bad Goisern": [
+        13.61609,
+        47.64252
+    ],
+    "Bad Gleichenberg": [
+        15.90861,
+        46.87556
+    ],
+    "Bad Gastein": [
+        13.13467,
+        47.11547
+    ],
+    "Badersdorf": [
+        16.36667,
+        47.2
+    ],
+    "Baden": [
+        16.23264,
+        48.00543
+    ],
+    "Bad Deutsch-Altenburg": [
+        16.90624,
+        48.13425
+    ],
+    "Bad Aussee": [
+        13.78243,
+        47.60998
+    ],
+    "Bachmanning": [
+        13.8,
+        48.11667
+    ],
+    "Axams": [
+        11.27892,
+        47.23111
+    ],
+    "Außervillgraten": [
+        12.43139,
+        46.7875
+    ],
+    "Aurach am Hongar": [
+        13.67291,
+        47.95182
+    ],
+    "Auersthal": [
+        16.63333,
+        48.36667
+    ],
+    "Auersbach": [
+        15.86667,
+        47.01667
+    ],
+    "Au am Leithaberge": [
+        16.55794,
+        47.92296
+    ],
+    "Au": [
+        9.97583,
+        47.32278
+    ],
+    "Atzesberg": [
+        13.9241,
+        48.49849
+    ],
+    "Atzenbrugg": [
+        15.90614,
+        48.29119
+    ],
+    "Atzbach": [
+        13.70347,
+        48.08364
+    ],
+    "Attersee": [
+        13.53953,
+        47.91646
+    ],
+    "Attendorf": [
+        15.31667,
+        47.01667
+    ],
+    "Asten": [
+        14.41784,
+        48.21941
+    ],
+    "Asperhofen": [
+        15.92606,
+        48.24583
+    ],
+    "Asparn an der Zaya": [
+        16.5,
+        48.58333
+    ],
+    "Arzl im Pitztal": [
+        10.76667,
+        47.2
+    ],
+    "Arzberg": [
+        15.51667,
+        47.25
+    ],
+    "Arriach": [
+        13.85194,
+        46.73194
+    ],
+    "Arnoldstein": [
+        13.71,
+        46.54611
+    ],
+    "Arnfels": [
+        15.40306,
+        46.67639
+    ],
+    "Ardning": [
+        14.35,
+        47.58333
+    ],
+    "Arbesbach": [
+        14.95,
+        48.48333
+    ],
+    "Apfelberg": [
+        14.83333,
+        47.2
+    ],
+    "Apetlon": [
+        16.8302,
+        47.74394
+    ],
+    "Anthering": [
+        13.01667,
+        47.88333
+    ],
+    "Antau": [
+        16.47984,
+        47.77377
+    ],
+    "Ansfelden": [
+        13.04944,
+        47.965
+    ],
+    "Anras": [
+        12.56083,
+        46.77389
+    ],
+    "Annaberg": [
+        15.37648,
+        47.87134
+    ],
+    "Anif": [
+        13.06667,
+        47.75
+    ],
+    "Angern an der March": [
+        16.82806,
+        48.37778
+    ],
+    "Anger": [
+        15.69139,
+        47.27422
+    ],
+    "Angath": [
+        12.06667,
+        47.5
+    ],
+    "Andlersdorf": [
+        16.66667,
+        48.18333
+    ],
+    "Andelsbuch": [
+        9.89559,
+        47.41357
+    ],
+    "Andau": [
+        17.03293,
+        47.77441
+    ],
+    "Amstetten": [
+        14.87206,
+        48.1229
+    ],
+    "Ampass": [
+        11.45,
+        47.26667
+    ],
+    "Amlach": [
+        12.76361,
+        46.81639
+    ],
+    "Altmünster": [
+        13.76415,
+        47.90219
+    ],
+    "Altmelon": [
+        14.96667,
+        48.45
+    ],
+    "Altlichtenwarth": [
+        16.8,
+        48.63333
+    ],
+    "Altlengbach": [
+        15.92606,
+        48.15355
+    ],
+    "Althofen": [
+        14.47449,
+        46.87298
+    ],
+    "Altheim": [
+        13.23406,
+        48.25154
+    ],
+    "Altenmarkt im Pongau": [
+        13.41667,
+        47.38333
+    ],
+    "Altenmarkt bei Sankt Gallen": [
+        14.63333,
+        47.71667
+    ],
+    "Altenmarkt bei Fürstenfeld": [
+        16.05,
+        47.05
+    ],
+    "Altenmarkt an der Triesting": [
+        15.99661,
+        48.01553
+    ],
+    "Altendorf": [
+        16.01667,
+        47.65
+    ],
+    "Altenburg": [
+        15.58333,
+        48.63333
+    ],
+    "Altenberg bei Linz": [
+        14.35029,
+        48.37284
+    ],
+    "Altaussee": [
+        13.76278,
+        47.63844
+    ],
+    "Altach": [
+        9.65,
+        47.35
+    ],
+    "Allhartsberg": [
+        14.79009,
+        48.02633
+    ],
+    "Allerheiligen im Mürztal": [
+        15.4,
+        47.46667
+    ],
+    "Allerheiligen bei Wildon": [
+        15.55444,
+        46.91417
+    ],
+    "Allentsteig": [
+        15.32756,
+        48.69725
+    ],
+    "Alland": [
+        16.07901,
+        48.05829
+    ],
+    "Aldrans": [
+        11.45,
+        47.25
+    ],
+    "Alberndorf in der Riedmark": [
+        14.41441,
+        48.40607
+    ],
+    "Ainet": [
+        12.70139,
+        46.86611
+    ],
+    "Aigen im Mühlkreis": [
+        13.97109,
+        48.64578
+    ],
+    "Aigen im Ennstal": [
+        14.13333,
+        47.51667
+    ],
+    "Aichkirchen": [
+        13.78333,
+        48.1
+    ],
+    "Aich": [
+        13.81667,
+        47.41667
+    ],
+    "Aibl": [
+        15.21667,
+        46.68333
+    ],
+    "Aggsbach": [
+        15.40382,
+        48.29404
+    ],
+    "Aflenz Kurort": [
+        15.23333,
+        47.53333
+    ],
+    "Adnet": [
+        13.13333,
+        47.68333
+    ],
+    "Admont": [
+        14.46075,
+        47.57537
+    ],
+    "Aderklaa": [
+        16.53333,
+        48.28333
+    ],
+    "Achenkirch": [
+        11.70559,
+        47.52659
+    ],
+    "Achau": [
+        16.38611,
+        48.08026
+    ],
+    "Abtenau": [
+        13.34599,
+        47.56373
+    ],
+    "Absam": [
+        11.5,
+        47.3
+    ],
+    "Abfaltersbach": [
+        12.54194,
+        46.76028
+    ],
+    "Schlaiten": [
+        12.65417,
+        46.87944
+    ],
+    "Thurn": [
+        12.76861,
+        46.85056
+    ],
+    "Untertilliach": [
+        12.70861,
+        46.70417
+    ],
+    "Finkenstein am Faaker See": [
+        13.86528,
+        46.56556
+    ],
+    "Attnang-Puchheim": [
+        13.71667,
+        48.00833
+    ],
+    "Obernberg am Brenner": [
+        11.41667,
+        47.01667
+    ],
+    "Mühlbachl": [
+        11.45,
+        47.13333
+    ],
+    "Leutasch": [
+        11.14404,
+        47.3689
+    ],
+    "Gschnitz": [
+        11.36667,
+        47.05
+    ],
+    "Navis": [
+        11.53333,
+        47.11667
+    ],
+    "Ellbögen": [
+        11.45,
+        47.16667
+    ],
+    "Sellrain": [
+        11.21667,
+        47.21667
+    ],
+    "Oberperfuss": [
+        11.25,
+        47.23333
+    ],
+    "Obsteig": [
+        10.93333,
+        47.3
+    ],
+    "Kolsassberg": [
+        11.63333,
+        47.3
+    ],
+    "Gnadenwald": [
+        11.56667,
+        47.31667
+    ],
+    "Ehrwald": [
+        10.91667,
+        47.4
+    ],
+    "Lanzendorf": [
+        16.445,
+        48.11056
+    ],
+    "Heinfels": [
+        12.45,
+        46.75
+    ],
+    "Gerlosberg": [
+        11.93333,
+        47.21667
+    ],
+    "Gerlos": [
+        12,
+        47.21667
+    ],
+    "Krimml": [
+        12.18333,
+        47.21667
+    ],
+    "Rohrberg": [
+        11.91667,
+        47.23333
+    ],
+    "Ried im Zillertal": [
+        11.86667,
+        47.3
+    ],
+    "Alpbach": [
+        11.94373,
+        47.39878
+    ],
+    "Itter": [
+        12.13333,
+        47.46667
+    ],
+    "Brand": [
+        9.73722,
+        47.10083
+    ],
+    "Liebenfels": [
+        14.28667,
+        46.73778
+    ],
+    "Frauenstein": [
+        14.29417,
+        46.81417
+    ],
+    "Eppenstein": [
+        14.7375,
+        47.12833
+    ],
+    "Hochleithen": [
+        16.53333,
+        48.46667
+    ],
+    "Sankt Oswald ob Eibiswald": [
+        15.14667,
+        46.70833
+    ],
+    "Wildschönau": [
+        12.03784,
+        47.40619
+    ],
+    "Langkampfen": [
+        12.09325,
+        47.55111
+    ],
+    "Hart bei Graz": [
+        15.51527,
+        47.04311
+    ],
+    "Berg im Drautal": [
+        13.13536,
+        46.74915
+    ],
+    "Lockenhaus": [
+        16.41623,
+        47.40753
+    ],
+    "St. Georgen am Längsee": [
+        14.43033,
+        46.78061
+    ],
+    "Großkirchheim": [
+        12.90482,
+        46.97352
+    ],
+    "Damüls": [
+        9.89164,
+        47.28034
+    ],
+    "Bad Waltersdorf": [
+        16.0087,
+        47.1696
+    ],
+    "Bad Leonfelden": [
+        14.29459,
+        48.52047
+    ],
+    "Pfarrwerfen": [
+        13.20531,
+        47.45729
+    ],
+    "Thal": [
+        15.36052,
+        47.07644
+    ],
+    "Bürserberg": [
+        9.77736,
+        47.14644
+    ],
+    "Holzgau": [
+        10.34419,
+        47.26045
+    ],
+    "Schröcken": [
+        10.09272,
+        47.2574
+    ],
+    "Rossleithen": [
+        14.2736,
+        47.7017
+    ],
+    "Sankt Georgen am Walde": [
+        14.90235,
+        48.35979
+    ],
+    "Nebelberg": [
+        13.84629,
+        48.62854
+    ],
+    "Sonnberg im Mühlkreis": [
+        14.31167,
+        48.4608
+    ],
+    "Baierdorf-Umgebung": [
+        15.71045,
+        47.28511
+    ]
+}

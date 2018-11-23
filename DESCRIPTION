@@ -5,7 +5,8 @@ Authors@R: person("John", "Coene", email = "jcoenep@gmail.com", role = c("aut", 
 Description: Maps for 'echarts4r'.
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
+LazyData: false
+Depends: R (>= 2.10)
 Imports: 
   echarts4r,
   jsonlite
