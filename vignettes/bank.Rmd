@@ -23,7 +23,7 @@ The package comes with 215 maps.
 <div class = "row">
 <div class = "col-md-6" >
 
-### Built-in
+## Built-in
 
 ```
 em_bank()
@@ -37,7 +37,7 @@ knitr::kable(maps)
 
 <div class = "col-md-6" >
 
-### External
+## External
 
 `echarts4r.maps` is really just a bank of `GeoJSON` with a wrapper for `echarts4r::e_map_register`
 
@@ -72,9 +72,19 @@ df %>%
   e_geo_3d(values, color, type = "AF") 
 ```
 
-### Custom
+## Custom
 
 If you need even more detailed maps you can read Pengfei Li's [tutorial for echarts4r](https://echarts4r.john-coene.com/articles/make-geo-json.html).
+
+## Cities
+
+Below is a sample of 5 cities.
+
+```{r}
+data("cities")
+
+knitr::kable(head(cities, 5))
+```
 
 </div>
 

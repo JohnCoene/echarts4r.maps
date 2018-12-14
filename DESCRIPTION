@@ -1,6 +1,6 @@
 Package: echarts4r.maps
 Title: Maps for 'echarts4r'
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("John", "Coene", email = "jcoenep@gmail.com", role = c("aut", "cre"))
 Description: Maps for 'echarts4r'.
 License: MIT + file LICENSE

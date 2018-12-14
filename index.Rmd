@@ -17,7 +17,7 @@ library(echarts4r.maps)
 Includes:
 
 - 215 maps for [echarts4r](https://echarts4r.john-coene.com/).
-- A dataset of the latitude and longitude of all cities on planet earth with greater than 1000 people.
+- A dataset of the latitude and longitude of all cities on planet earth with greater than 1000 inhabitants
 
 ## Installation
 

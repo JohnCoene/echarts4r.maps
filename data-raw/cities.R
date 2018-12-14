@@ -3,15 +3,16 @@ files <- list.files(path)
 files <- paste0(path, files)
 
 get_city <- function(x){
-  dat <- tryCatch(
+  json <- tryCatch(
     jsonlite::fromJSON(x),
     error = function(e) e
   )
-  if(!inherits(dat, "error")){
-    dat <- purrr::map_df(dat, function(x){
+  if(!inherits(json, "error")){
+    dat <- purrr::map_df(json, function(x){
       data.frame(lon = x[1], lat = x[2])
     })
     dat$country <- gsub("data-raw/cities/|.json", "", x)
+    dat$city <- names(json)
     return(dat)
   } 
 }
