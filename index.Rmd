@@ -30,7 +30,7 @@ remotes::install_github('JohnCoene/echarts4r.maps')
 
 Use in echarts4r.
 
-```{r, eval=FALSE}
+```{r, eval=TRUE}
 library(dplyr)
 library(echarts4r)
 library(echarts4r.maps)
@@ -43,6 +43,7 @@ cities %>%
   e_charts(lon) %>%
   em_map("USA") %>% 
   e_geo(map = "USA") %>% 
-  e_scatter(lat, val, coord_system = "geo", scale = NULL) %>% 
-  e_visual_map(min = 1, max = 3)
+  e_scatter(lat, val, coord_system = "geo", scale = NULL, legend = FALSE) %>% 
+  e_visual_map(min = 1, max = 3) %>% 
+  e_title("US Cities", "Cities with over 1,000 inhabitants")
 ```
