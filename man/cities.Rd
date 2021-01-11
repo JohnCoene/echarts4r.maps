@@ -4,13 +4,15 @@
 \name{cities}
 \alias{cities}
 \title{Cities.}
-\format{A data frame with 123,203 rows and 3 variables:
+\format{
+A data frame with 123,203 rows and 3 variables:
 \describe{
   \item{country}{Country ISO code}
   \item{city}{City name}
   \item{lat}{Latitude}
   \item{lon}{Longitude}
-}}
+}
+}
 \source{
 \url{https://github.com/echarts-maps/echarts-cities-js}
 }

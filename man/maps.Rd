@@ -4,11 +4,14 @@
 \alias{maps}
 \alias{em_map}
 \alias{em_bank}
+\alias{get_json}
 \title{Maps}
 \usage{
 em_map(e, map)
 
 em_bank()
+
+get_json(map)
 }
 \arguments{
 \item{e}{An object of class \code{echarts4r}.}

@@ -49,3 +49,13 @@ em_bank <- function(){
   
   gsub(".json", "", files)
 }
+
+#' @rdname maps
+#' @export
+get_json <- function(map){
+  file <- paste0(map, ".json")
+  
+  jsonlite::read_json(
+    system.file(file, package = "echarts4r.maps")
+  )
+}

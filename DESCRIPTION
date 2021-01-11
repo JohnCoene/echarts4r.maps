@@ -11,7 +11,7 @@ Depends: R (>= 2.10)
 Imports: 
   echarts4r,
   jsonlite
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 Suggests: 
     knitr,
     rmarkdown,
